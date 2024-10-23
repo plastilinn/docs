@@ -1,4 +1,4 @@
-      #relationship VIP Gastronomes
+    #relationship VIP Gastronomes
 	A segment of high-end food enthusiasts who value unique and exclusive culinary experiences.
 #relationship Ethical Gourmet Advocates
 	Individuals who prioritize ethical sourcing and sustainable food production and are interested in supporting innovative approaches.

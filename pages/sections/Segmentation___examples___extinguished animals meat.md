@@ -1,4 +1,4 @@
-      #segmentation Firmographic segmentation
+    #segmentation Firmographic segmentation
 	Categorizing B2B markets based on industry type, company size, location, and purchasing power.
 #segmentation Geographic segmentation
 	Dividing the market based on location, climate, population density, and cultural differences.

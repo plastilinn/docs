@@ -1,4 +1,4 @@
-      #phase Phase 1 Research and development of DNA manipulation techniques and genome reconstruction for extinct animals.
+    #phase Phase 1 Research and development of DNA manipulation techniques and genome reconstruction for extinct animals.
 #phase Phase 2 Cloning and reproduction of extinct animals using stem cells or eggs from related living animals.
 #phase Phase 3 Establishing care centers and facilities for housing and breeding the revived animals.
 #phase Phase 4 Ethical and respectful slaughter of mature animals, followed by meat processing and packaging.

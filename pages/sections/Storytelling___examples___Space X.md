@@ -1,4 +1,4 @@
-    👤👩‍💼#persona Sarah Johnson (Space Agency Project Manager)
+    Persona Sarah Johnson (Space Agency Project Manager)
 
 **SpaceX: A New Era in Space Exploration**
 

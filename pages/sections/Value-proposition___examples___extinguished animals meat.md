@@ -1,4 +1,4 @@
-      #segment_id Luxury food enthusiasts
+    #segment_id Luxury food enthusiasts
 	Individuals who have a passion for unique and exclusive gastronomic experiences.
 #profile_id Gourmet food connoisseurs
 	Discerning individuals who appreciate and seek out high-quality, rare, and novel food products.

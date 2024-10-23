@@ -1,4 +1,4 @@
-      Segment ID: Fine Dining Restaurants
+    Segment ID: Fine Dining Restaurants
 Profile ID: Head Chef___Menu Planner
 Journey:
   1. Awareness: The head chef becomes aware of our company and its unique meat offerings through industry events, culinary competitions, or word-of-mouth recommendations.

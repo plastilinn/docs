@@ -1,4 +1,4 @@
-      Segment ID___Profile ID___Persona: Luxury Food Enthusiast
+    Segment ID___Profile ID___Persona: Luxury Food Enthusiast
 Name: James Anderson
 Demographic_information:
 	Age: 45
@@ -12,7 +12,7 @@ Motivations and Pain Points:
 	James is motivated by his passion for culinary excellence and his desire to surprise and delight his customers.
 	He seeks rare and exotic ingredients to create memorable dishes that showcase his creativity and skill.
 	Pain points include sourcing truly unique and exclusive ingredients that can set his restaurant apart from competitors.
-      _information and Decision-Making Preferences:
+    _information and Decision-Making Preferences:
 	James stays updated on food trends and new culinary techniques through industry publications, attending food festivals, and networking with other chefs.
 	He values detailed_information about the sourcing, quality, and ethical considerations of ingredients.
 	James prefers to work with suppliers who can provide personalized support and understand the specific needs of his restaurant.

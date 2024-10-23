@@ -1,4 +1,4 @@
-        #skill Biotechnology and Genetic Engineering
+    #skill Biotechnology and Genetic Engineering
 	In-depth knowledge and expertise in biotechnology and genetic engineering techniques.
 #skill Research and Development
 	Experience in scientific research and technological development related to DNA manipulation and genome reconstruction.

@@ -10,6 +10,3 @@ Streamlining processes and leveraging vertical integration to reduce costs and i
 🏢🌟#organization_value Sustainability
 Committing to sustainable space exploration practices, including the development of reusable rocket technology to minimize environmental impact.
 
-🏢🌟#organization_value Visionary Leadership
-Fostering a culture of bold ambitions and visionary goals, aiming to make life multi-planetary and ensure the long-term survival of humanity.
-

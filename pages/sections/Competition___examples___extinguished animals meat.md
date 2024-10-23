@@ -1,4 +1,4 @@
-      #segment Luxury Exotic Meat Suppliers
+    #segment Luxury Exotic Meat Suppliers
 	Competitors in the luxury food market that offer unique and exotic meat products, catering to consumers seeking exclusive gastronomic experiences.
 #solution ReviveMeat
 	A specialized process that allows the company to recreate the meat of extinct animals using biotechnology and genetic engineering techniques.

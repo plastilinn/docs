@@ -1,4 +1,4 @@
-      #offering Revived extinct animal meat
+    #offering Revived extinct animal meat
 	Selling meat from extinct animals that have been revived through biotechnology and genetic engineering. 
 #offering Exclusive gastronomic experience
 	Providing a unique and exclusive dining experience with the consumption of meat from revived extinct animals. 

@@ -1,4 +1,4 @@
-      #feature Revival of extinct species
+    #feature Revival of extinct species
 	The company's unique feature is the ability to revive extinct animals through biotechnology and genetic engineering.
 #feature Exclusive gastronomic experience
 	The company offers a unique and exclusive gastronomic experience by selling meat from revived extinct animals in the luxury food market.

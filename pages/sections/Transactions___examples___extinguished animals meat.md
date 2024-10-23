@@ -1,4 +1,4 @@
-      #segment Luxury Food Enthusiasts
+    #segment Luxury Food Enthusiasts
 	The company targets affluent individuals who are passionate about unique and exclusive gastronomic experiences.
 #segment High-End Restaurants
 	The company focuses on partnering with upscale restaurants that cater to customers seeking extraordinary dining options.

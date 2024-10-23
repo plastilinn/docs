@@ -1,13 +1,22 @@
-# Segmentation
-- ## 🔍 Definition
-  - the process of dividing a market into distinct groups of customers with similar needs or characteristics.
-- ## 📹 Internet info and videos
-  - 🤖 [Search info and videos about Segmentation using AI](https://www.perplexity.ai/search?q=videos+about+Segmentation:+the+process+of+dividing+a+market+into+distinct+groups+of+customers+with+similar+needs+or+characteristics.
-)
-- ## 📰 Content type (#segmentation)
-  - Content is of type list and uses the following classes: #segmentation
 
-- ## 📋 Class list
+# Segmentation
+
+
+## 🔍 Definition
+the process of dividing a market into distinct groups of customers with similar needs or characteristics.
+
+
+## 📹 Internet info and videos
+🤖 [Search info and videos about Segmentation using AI](https://www.perplexity.ai/search?q=videos+about+Segmentation:+the+process+of+dividing+a+market+into+distinct+groups+of+customers+with+similar+needs+or+characteristics.
+)
+
+
+## 📰 Content type (#segmentation)
+Content is of type list and uses the following classes: #segmentation
+
+
+
+## 📋 Class list
 
 <div style='max-height: 120px; overflow-y: auto; border: 1px solid #ccc; padding: 10px; width: 600px;'>
   <ul style='list-style-type: none; padding-left: 0;'>
@@ -141,7 +150,7 @@
   </ul>
 </div>
 
-- ## 📖 Description
+## 📖 Description
   In business modeling, the concept of "profile/segmentation" refers to the process of dividing a company's market into distinct groups of buyers who might require separate products or marketing mixes. These groups, or segments, are defined by shared characteristics such as demographics, behaviors, needs, or preferences. 
   
   The profile/segmentation is a fundamental component of business design as it allows companies to target their products or services more effectively, understand their customers better, and allocate their resources more efficiently. It enables businesses to differentiate themselves from their competitors, meet the specific needs of their customers, and achieve a competitive advantage.
@@ -151,20 +160,36 @@
   By understanding the unique characteristics and needs of each segment, the retailer can tailor its products, pricing, and marketing strategies to meet the specific needs of each segment. It can create a personalized shopping experience, build stronger relationships with its customers, and increase customer loyalty and satisfaction.
   
   In essence, the profile/segmentation is a strategic tool that enables businesses to understand and serve their market more effectively, create and deliver value more efficiently, and achieve sustainable growth. It is the foundation of customer-centric business design and a key driver of business success.
-- ## 👉 Examples
+
+
+## 👉 Examples
   ### Space X
-  ✂️🙋#segmentation Demographic segmentation
-  This segmentation criterion divides the market based on demographic factors such as age, gender, income, occupation, education, and marital status.
-  ✂️🙋#segmentation Psychographic segmentation
-  This segmentation criterion focuses on customers' lifestyle, interests, attitudes, values, and personality traits.
-  ✂️🙋#segmentation Behavioral segmentation
-  This segmentation criterion categorizes customers based on their purchasing behavior, product usage patterns, brand loyalty, and desired benefits.
-  ✂️🙋#segmentation Geographic segmentation
-  This segmentation criterion divides the market based on geographic factors such as location, climate, population density, and cultural differences.
-  ✂️🙋#segmentation Technographic segmentation
-  This segmentation criterion focuses on customers' technology adoption, usage patterns, and preferences.¡
-  ✂️🙋#segmentation Firmographic segmentation
-  This segmentation criterion is applicable in B2B markets and categorizes companies based on factors such as industry type, company size, income, location, and purchasing power.
+  ✂️#segmentation Demographic segmentation
+  
+  * Age: 35 to 60 years.  
+  * Income: High, above $100,000 per year.  
+  * Occupation: Engineers, scientists, project managers, and executives in the aerospace or telecommunications industries.  
+  * Education: Typically bachelor's, master's, or doctoral degrees in engineering, science, or business management.  
+  * Location: Predominantly North America and Europe, with growing expansion in Asia.  
+  * Technology adoption: Highly tech-savvy, using solutions like reusable launches, AI-driven satellite management, and high-speed communication (5G, satellites).
+  
+  ✂️#segmentation Psychographic segmentation
+  
+  * Lifestyle: Tech-oriented, interested in space exploration and disruptive solutions.  
+  * Attitudes: Curious, open to adopting new technologies, and focused on improving satellite launch efficiency.  
+  * Personality: Entrepreneurial, committed to sustainability and technological progress.
+  
+  ✂️#segmentation Behavioral segmentation
+  
+  * Purchasing behavior: Frequently invest in high-value contracts for satellite launches and telecommunications services.  
+  * Product usage: Seek high-efficiency, reliable launch services, often interested in reusable technology to reduce costs.  
+  * Brand loyalty: High, prefer companies offering cutting-edge technology with a proven track record.
+  
+  ✂️#segmentation Firmographic segmentation
+  
+  * Industry type: Telecommunications, defense, space research, and government agencies.  
+  * Company size: Large enterprises and governments with financial capabilities for space and infrastructure projects.  
+  * Revenue: Annual revenues exceeding $500 million.
   ### 
   
   ### extinguished animals meat
@@ -200,11 +225,17 @@
   	Classifying a market based on attitudes, beliefs, values, interests, and lifestyles of consumers.
   #solution Behavioral segmentation
   	Segmenting a market based on consumer behavior, including purchase patterns, usage rate, loyalty, and benefits sought.
-- ## 🔑 Keys
+
+
+## 🔑 Keys
   
-- ## 🗄️ Topics
+
+
+## 🗄️ Topics
   
-- ## 🧰 Tools
+
+
+## 🧰 Tools
   - [[Business Model Canvas]]
     - In the Business Model Canvas, "customer segments" is one of the nine key components. This refers to the different groups of people or organizations an enterprise aims to reach and serve. Companies need to identify and understand their customer segments in order to effectively meet their distinct needs and solve their problems.
   - [[Market Segmentation]]

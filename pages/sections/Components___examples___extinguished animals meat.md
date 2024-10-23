@@ -1,4 +1,4 @@
-      DNA sequencing and analysis equipment
+    DNA sequencing and analysis equipment
 Biotechnology and genetic engineering techniques
 Stem cell culture and manipulation tools
 Assisted reproduction technologies

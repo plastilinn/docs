@@ -1,4 +1,4 @@
-      #stakeholder Gourmet Restaurants
+    #stakeholder Gourmet Restaurants
 	The company partners with gourmet restaurants to feature their luxury meat from revived extinct animals on their menus, attracting high-end customers.
 #stakeholder Luxury Food Retailers
 	The company collaborates with luxury food retailers to sell their exclusive meat products, targeting affluent consumers who seek unique culinary experiences.

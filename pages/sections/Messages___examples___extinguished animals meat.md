@@ -1,4 +1,4 @@
-      #segment Luxury food enthusiasts:
+    #segment Luxury food enthusiasts:
 	Targeting individuals who appreciate exclusive and unique gastronomic experiences.
 #profile High-end restaurant owners___chefs:
 	Focusing on decision-makers in the culinary industry who seek innovative and premium ingredients.

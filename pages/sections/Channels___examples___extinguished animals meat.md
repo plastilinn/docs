@@ -1,4 +1,4 @@
-      #segment High-end food enthusiasts
+    #segment High-end food enthusiasts
 	Target individuals who have a strong interest in unique and exclusive gastronomic experiences.
   
 #profile Luxury restaurants and gourmet stores
