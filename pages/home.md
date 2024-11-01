@@ -4,9 +4,9 @@
       <div class="relative inline-flex items-center mx-auto align-middle">
         <div class="text-center">
           <h1 class="home max-w-4xl text-2xl font-bold leading-none tracking-tighter text-neutral-600 md:text-5xl lg:text-6xl lg:max-w-7xl">
-            title
+            Plastilinn docs
           </h1>
-          <p class="text-gray-500">blah blah blah</p>
+          <p class="text-gray-500">All the information you need to use plastilinn</p>
 <!--
           <div class="iframe-container">
             <div class="iframe-wrapper">
@@ -19,3 +19,14 @@
     </div>
   </div>
 </section>
+
+
+## [📄sections](pages/sections.md)
+
+## [🏷️tags](pages/tags.md)
+
+## [📌markers](pages/markers.md)
+
+## [🛠️artifacts](pages/artifacts.md)
+
+## [🧰tools](pages/tools.md)

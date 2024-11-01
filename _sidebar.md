@@ -1,2 +1,6 @@
 - [home](/)
-- [contents](pages/contents.md)
+- [📄sections](pages/sections.md)
+- [🏷️tags](pages/tags.md)
+- [📌markers](pages/markers.md)
+- [🛠️artifacts](pages/artifacts.md)
+- [🧰tools](pages/tools.md)
