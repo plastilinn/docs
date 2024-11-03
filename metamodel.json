@@ -285,23 +285,23 @@
       "metamodelID": "challenge",
       "icon": "🏆",
       "color": "blue",
-      "alias": "relationships",
+      "alias": "challenges",
       "info": ""
     },
     {
       "name": "compensation",
       "metamodelID": "compensation",
-      "icon": "💸",
+      "icon": "⬅️",
       "color": "blue",
-      "alias": "relationships",
+      "alias": "compensations",
       "info": ""
     },
     {
       "name": "contribution",
       "metamodelID": "contribution",
-      "icon": "💵",
+      "icon": "➡️",
       "color": "blue",
-      "alias": "relationships",
+      "alias": "contributions",
       "info": ""
     },
     {
@@ -309,7 +309,7 @@
       "metamodelID": "competitor",
       "icon": "🏅",
       "color": "blue",
-      "alias": "relationships",
+      "alias": "competitors",
       "info": ""
     },
     {
@@ -317,7 +317,7 @@
       "metamodelID": "partner",
       "icon": "👥",
       "color": "blue",
-      "alias": "relationships",
+      "alias": "partners",
       "info": ""
     },
     {
@@ -325,7 +325,7 @@
       "metamodelID": "perception",
       "icon": "👁️",
       "color": "blue",
-      "alias": "relationships",
+      "alias": "perceptions",
       "info": ""
     },
     {
@@ -333,7 +333,7 @@
       "metamodelID": "price",
       "icon": "💲",
       "color": "blue",
-      "alias": "relationships",
+      "alias": "prices",
       "info": ""
     },
     {
@@ -341,7 +341,7 @@
       "metamodelID": "roadmap",
       "icon": "🗺️",
       "color": "blue",
-      "alias": "relationships",
+      "alias": "roadmaps",
       "info": ""
     },
     {
@@ -349,7 +349,15 @@
       "metamodelID": "funding",
       "icon": "💵",
       "color": "blue",
-      "alias": "relationships",
+      "alias": "fundings",
+      "info": ""
+    },
+    {
+      "name": "shareholder",
+      "metamodelID": "shareholder",
+      "icon": "💼",
+      "color": "blue",
+      "alias": "shareholders",
       "info": ""
     },
     {
@@ -357,7 +365,7 @@
       "metamodelID": "funnel",
       "icon": "🔽",
       "color": "blue",
-      "alias": "relationships",
+      "alias": "funnels",
       "info": ""
     },
     {
@@ -365,7 +373,7 @@
       "metamodelID": "inspiration",
       "icon": "🦋",
       "color": "blue",
-      "alias": "relationships",
+      "alias": "inspirations",
       "info": ""
     },
     {
@@ -373,7 +381,7 @@
       "metamodelID": "legal_issue",
       "icon": "📜",
       "color": "blue",
-      "alias": "relationships",
+      "alias": "legal_issues",
       "info": ""
     },
     {
@@ -381,7 +389,7 @@
       "metamodelID": "trend",
       "icon": "📈",
       "color": "blue",
-      "alias": "relationships",
+      "alias": "trends",
       "info": ""
     },
     {
@@ -437,7 +445,7 @@
     {
       "name": "weight",
       "metamodelID": "weight",
-      "info": "- #question How important is this block for the business model?\n- #question If it turns out not to be true... is my business model greatly affected?\n- #question Is this something that could easily change without affecting the business model?",
+      "info": "* How important is this block for the business model?\n* If it turns out not to be true, is my business model greatly affected?\n* Is this something that could easily change without affecting the business model?",
       "high": "*",
       "high icon": "➕",
       "high color": "blue",
@@ -451,29 +459,13 @@
       "": ""
     },
     {
-      "name": "completion",
-      "metamodelID": "completion",
-      "info": "- #question Is the block completed?",
-      "high": ">",
-      "high icon": "✔️",
-      "high color": "blue",
-      "value id": ">",
-      "values": ">,>>,>>>,>>>>,>>>>>",
-      "value 1": ">",
-      "value 2": ">>",
-      "value 3": ">>>",
-      "value 4": ">>>>",
-      "value 5": ">>>>>",
-      "": ""
-    },
-    {
       "name": "uncertainty",
       "metamodelID": "uncertainty",
-      "info": "- #question How sure am I that this is true?\n- #question Do I have enough experience to assert this confidently?\n- #question Have I verified this in the real world or are these just assumptions?\n- #question Have I verified this in the real world?\n- #question Is this a fact I have experimentally verified?\n- #question Is this a statement I can prove with objective facts and data?",
+      "info": "* How sure am I that this is true? Do I have enough experience to assert this confidently?\n* Have I verified this in the real world, or are these just assumptions?\n* Is this a statement I can prove with objective facts and data?",
       "high": "=",
       "high icon": "❓",
       "high color": "green",
-      "value id": "=,?",
+      "value id": "?",
       "values": "?????,????,???,??,?,?=,=,==,===,====,=====",
       "value 1": "?",
       "value 2": "??",
@@ -485,7 +477,7 @@
     {
       "name": "risk",
       "metamodelID": "risk",
-      "info": "- #question Is this something I should prioritize ($$$$$)?\n- #question Is this something urgent but not the most urgent ($)?",
+      "info": "* Does this pose a risk to my business?\n* If this happens, could it hinder goal achievement?\n* Is this something I can try to mitigate?",
       "high": "¡",
       "high icon": "🔥",
       "high color": "red",
@@ -501,7 +493,7 @@
     {
       "name": "priority",
       "metamodelID": "priority",
-      "info": "- #question Mark with 'p' if you think this needs to be worked on (! if it's not very relevant or !!!!! if it's something you should prioritize)",
+      "info": "* Is this something I should prioritize?\n* Is this something urgent?\n* Is this something I should pay attention to?",
       "high": "!",
       "high icon": "🚩",
       "high color": "red",
@@ -517,7 +509,7 @@
     {
       "name": "good",
       "metamodelID": "good",
-      "info": "",
+      "info": "* Is this positive for my business?\n* Is it something I excel at compared to similar businesses?\n* If an expert knows this, does it improve their perception of my business?",
       "high": "+",
       "high icon": "🟢",
       "high color": "green",
@@ -533,7 +525,7 @@
     {
       "name": "bad",
       "metamodelID": "bad",
-      "info": "",
+      "info": "* Is this negative for my business?\n* Is it something I am worse at than similar businesses?\n* If an expert knows this, does it worsen their perception of my business?",
       "high": "-",
       "high icon": "🔴",
       "high color": "green",
@@ -547,19 +539,51 @@
       "": ""
     },
     {
+      "name": "completion",
+      "metamodelID": "completion",
+      "info": "* Is the block completed?\n* Is it likely to change in the future?\n* Is this content fixed, or can it change based on my decisions?",
+      "high": ">",
+      "high icon": "✔️",
+      "high color": "blue",
+      "value id": ">",
+      "values": ">,>>,>>>,>>>>,>>>>>",
+      "value 1": ">",
+      "value 2": ">>",
+      "value 3": ">>>",
+      "value 4": ">>>>",
+      "value 5": ">>>>>",
+      "": ""
+    },
+    {
       "name": "term",
       "metamodelID": "term",
-      "info": "",
+      "info": "* Does this apply in the short term or long term?\n* Is it relevant throughout the business lifecycle, or only during specific stages?\n* Is this something I need to have clearly defined because it’s important in the short term, or is it a long-term idea?",
       "high": "~",
       "high icon": "📅",
       "high color": "blue",
       "value id": "~",
-      "values": "¡,¡¡,¡¡¡,¡¡¡¡,¡¡¡¡¡",
-      "value 1": "¡",
-      "value 2": "¡¡",
-      "value 3": "¡¡¡",
-      "value 4": "¡¡¡¡",
-      "value 5": "¡¡¡¡¡",
+      "values": "~,~~,~~~,~~~~,~~~~~",
+      "value 1": "~",
+      "value 2": "~~",
+      "value 3": "~~~",
+      "value 4": "~~~~",
+      "value 5": "~~~~~",
+      "": ""
+    },
+    {
+      "name": "journey",
+      "metamodelID": "journey",
+      "info": "* Where is this block positioned within the customer journey?\n* Does it relate to the early stages of engagement or to ongoing support?\n* Is this element critical at a particular point in the journey?",
+      "high": "→",
+      "high icon": "▶️",
+      "high color": "blue",
+      "value id": ">",
+      "values": ">,>>,>>>,>>>>,>>>>>",
+      "value 1": ">",
+      "value 2": ">>",
+      "value 3": ">>>",
+      "value 4": ">>>>",
+      "value 5": ">>>>>",
       "": ""
     }
   ],
@@ -675,26 +699,26 @@
       "example": "Space X envisions a future where humans can live and thrive on multiple planets, ensuring the long-term survival of the human species."
     },
     {
-      "name": "Organization values",
+      "name": "Organizational values",
       "weight": "***",
       "format": "list",
-      "id": "Organization-values",
+      "id": "Organizational-values",
       "classes": "",
       "definition": "the principles, beliefs, and attitudes that guide the behavior and decision-making of a business and its stakeholders.",
-      "info": "https://xbokmd.github.io/plastilinn/raw.html#/docs/xBoK/sections/Organization-values",
-      "question": "If Organization values is defined as :the principles, beliefs, and attitudes that guide the behavior and decision-making of a business and its stakeholders., what could it be?",
+      "info": "https://xbokmd.github.io/plastilinn/raw.html#/docs/xBoK/sections/Organizational-values",
+      "question": "If Organizational values is defined as :the principles, beliefs, and attitudes that guide the behavior and decision-making of a business and its stakeholders., what could it be?",
       "example": "🏢🌟#organization_value Innovation\nContinuously pushing the boundaries of space technology to develop more efficient, reliable, and cost-effective spacecraft and rockets.\n\n🏢🌟#organization_value Reliability\nEnsuring the highest standards of safety and dependability in every mission to protect crew, cargo, and spacecraft integrity.\n\n🏢🌟#organization_value Efficiency\nStreamlining processes and leveraging vertical integration to reduce costs and improve the accessibility of space travel and exploration.\n\n🏢🌟#organization_value Sustainability\nCommitting to sustainable space exploration practices, including the development of reusable rocket technology to minimize environmental impact."
     },
     {
-      "name": "Organization goals",
+      "name": "Organizational goals",
       "weight": "****",
       "format": "tree",
-      "id": "Organization-goals",
+      "id": "Organizational-goals",
       "classes": "goal",
       "definition": "Business goals are the specific objectives that a business model aims to achieve in terms of revenue, growth, profitability, or market share.",
-      "info": "https://xbokmd.github.io/plastilinn/raw.html#/docs/xBoK/sections/Organization-goals",
-      "question": "If Organization goals is defined as :Business goals are the specific objectives that a business model aims to achieve in terms of revenue, growth, profitability, or market share., what could it be?",
-      "example": "| #goal /  (info) | Description | Units | Value | Term |\n| :---- | :---- | :---- | :---- | :---- |\n| 🎯#goal Maximize revenue | SpaceX aims to capitalize on the growing space industry, focusing on satellite launches, Mars missions, and space tourism, with the goal of significant returns on investment. | B$ | 2 | Long term |\n| 🎯#goal Expand global connectivity | Through the Starlink project, SpaceX intends to provide affordable, high-speed internet access to a vast portion of the global population, especially underserved regions. | devices/year | 50M | Long term |\n| 🎯#goal Ensure ethical space exploration | Space missions can have significant implications on space sustainability and ethics. SpaceX is committed to ensuring all its projects comply with strict ethical standards. | \\- | \\- | Short, Medium, Long term |\n| 🎯#goal Achieve flawless mission safety | Safety is a top priority for SpaceX, especially in human spaceflight missions. The company continuously improves its technology to ensure all missions are conducted with the highest safety standards. | \\- | \\- | Short term |"
+      "info": "https://xbokmd.github.io/plastilinn/raw.html#/docs/xBoK/sections/Organizational-goals",
+      "question": "If Organizational goals is defined as :Business goals are the specific objectives that a business model aims to achieve in terms of revenue, growth, profitability, or market share., what could it be?",
+      "example": "\n\n| #goal /  (info) | Description | Units | Value | Term |\n| :---- | :---- | :---- | :---- | :---- |\n| 🎯#goal Maximize revenue | SpaceX aims to capitalize on the growing space industry, focusing on satellite launches, Mars missions, and space tourism, with the goal of significant returns on investment. | B$ | 2 | Long term |\n| 🎯#goal Expand global connectivity | Through the Starlink project, SpaceX intends to provide affordable, high-speed internet access to a vast portion of the global population, especially underserved regions. | devices/year | 50M | Long term |\n| 🎯#goal Ensure ethical space exploration | Space missions can have significant implications on space sustainability and ethics. SpaceX is committed to ensuring all its projects comply with strict ethical standards. | \\- | \\- | Short, Medium, Long term |\n| 🎯#goal Achieve flawless mission safety | Safety is a top priority for SpaceX, especially in human spaceflight missions. The company continuously improves its technology to ensure all missions are conducted with the highest safety standards. | \\- | \\- | Short term |"
     },
     {
       "name": "Stakeholders",
@@ -702,10 +726,10 @@
       "format": "text",
       "id": "Stakeholders",
       "classes": "stakeholder",
-      "definition": "Market segments are groups of customers with similar needs, behaviors, or characteristics that a business targets with its products or services.",
+      "definition": "A stakeholder in business is any individual or group with an interest in or influence over a company's activities, decisions, and goals, with the primary stakeholder always being the customer.",
       "info": "https://xbokmd.github.io/plastilinn/raw.html#/docs/xBoK/sections/Stakeholders",
-      "question": "If Stakeholders is defined as :Market segments are groups of customers with similar needs, behaviors, or characteristics that a business targets with its products or services., what could it be?",
-      "example": "🤔#stakeholder Satellite Launch Customers\n\nCommercial and government organizations that require satellite launch services. They are looking for a reliable and cost-effective platform to deploy their satellites and enhance their communication and Earth observation capabilities.\n\n🤔#stakeholder Space Tourism Customers\n\nIndividuals and groups who are interested in experiencing weightlessness and enjoying unique views of Earth from space. They are willing to pay for the opportunity to become space tourists and have a once-in-a-lifetime experience.\n\n🤔#stakeholder Space Exploration Enthusiasts\n\nIndividuals who are passionate about space exploration and are interested in participating in missions beyond low Earth orbit. They are looking for opportunities to travel to the Moon, Mars, and other destinations in the solar system."
+      "question": "If Stakeholders is defined as :A stakeholder in business is any individual or group with an interest in or influence over a company's activities, decisions, and goals, with the primary stakeholder always being the customer., what could it be?",
+      "example": "🤔#stakeholder Satellite Launch Customers\n\nCommercial and government organizations that require satellite launch services. They are looking for a reliable and cost-effective platform to deploy their satellites and enhance their communication and Earth observation capabilities.\n\n🤔#stakeholder Strategic Partners and Suppliers\n\nSuppliers and strategic allies who provide essential materials, components, and technological support for SpaceX’s operations. Their collaboration ensures quality and efficiency in the supply chain and the development of rockets and spacecraft.\n\n🤔#stakeholder Government and Regulatory Entities\n\nGovernment bodies and regulatory agencies, such as NASA and the Federal Aviation Administration (FAA), that establish and monitor compliance standards. Their collaboration is crucial for the safety and success of SpaceX's space missions.\n\n🤔#stakeholder Investors and Financial Partners\n\nInvestors and venture capital entities funding SpaceX’s projects, expecting a return on their investments. Their financial support is vital for ambitious technological developments like the Starship project and the Starlink satellite constellation.\n\n🤔#stakeholder Employees and Management\n\nThe team of employees and leadership at SpaceX, whose talent and commitment are essential to the company’s innovation and success. Their working conditions and professional development are directly shaped by the company’s strategic and operational decisions.\n\n🤔#stakeholder Space Exploration Enthusiasts\n\nIndividuals who are passionate about space exploration and are interested in participating in missions beyond low Earth orbit. They are looking for opportunities to travel to the Moon, Mars, and other destinations in the solar system.\n"
     },
     {
       "name": "Segments",
@@ -716,7 +740,7 @@
       "definition": "A segment list refers to a categorized compilation of target customer groups based on shared characteristics or needs.",
       "info": "https://xbokmd.github.io/plastilinn/raw.html#/docs/xBoK/sections/Segments",
       "question": "If Segments is defined as :A segment list refers to a categorized compilation of target customer groups based on shared characteristics or needs., what could it be?",
-      "example": "🤔#stakeholder Satellite Launch Customers\n\n🙋#segment Government Agencies\nThe government agencies segment includes national space agencies that require space transportation and communication services for their missions.\n\n🙋#segment Commercial Companies\nThe commercial companies segment includes private companies that require space transportation and communication services for their business operations.\n\n🙋#segment ISS Cargo Transport Customers\n This segment includes space agencies and scientific organizations that require transportation of cargo to the International Space Station (ISS)."
+      "example": "This are the segments for 🤔#stakeholder Satellite Launch Customers\n\n🙋#segment Government Agencies\nThe government agencies segment includes national space agencies that require space transportation and communication services for their missions.\n\n🙋#segment Commercial Companies\nThe commercial companies segment includes private companies that require space transportation and communication services for their business operations.\n\n🙋#segment ISS Cargo Transport Customers\n This segment includes space agencies and scientific organizations that require transportation of cargo to the International Space Station (ISS)."
     },
     {
       "name": "Segmentation criteria",
@@ -734,7 +758,7 @@
       "weight": "*",
       "format": "text",
       "id": "Market-trends",
-      "classes": "",
+      "classes": "trend",
       "definition": "the identification and analysis of specific customer groups and their evolving needs and preferences within a business model.",
       "info": "https://xbokmd.github.io/plastilinn/raw.html#/docs/xBoK/sections/Market-trends",
       "question": "If Market trends is defined as :the identification and analysis of specific customer groups and their evolving needs and preferences within a business model., what could it be?",
@@ -826,7 +850,7 @@
       "definition": "Problems, needs or desires that our stakeholders have and are relevant to my business.",
       "info": "https://xbokmd.github.io/plastilinn/raw.html#/docs/xBoK/sections/Problems",
       "question": "If Problems is defined as :Problems, needs or desires that our stakeholders have and are relevant to my business., what could it be?",
-      "example": "😟#problem Satellite Deployment\n\nClients needing to put a satellite into orbit face challenges with launch infrastructure, orbital placement accuracy, and costs. \n\n😟#problem Cost-effective Space Missions\n\nClients seek to minimize expenses for sending cargo or crew to space, demanding reliable yet affordable space transportation options.\n\n😟#problem Rapid Launch Scheduling\n\nSpace missions often face scheduling constraints due to limited launch windows and availability of launch vehicles.\n\n😟#problem Enhanced Payload Capabilities\n\nAgencies may require launching heavier or more complex payloads into orbit (larger satellites, space telescopes, or deep space probes).\n\n😟#problem Ride-share Opportunities\n\nSmaller satellites or missions with limited budgets could benefit from ride-share opportunities, where multiple payloads share a single launch to reduce costs.\n\n😟#problem Long-duration Missions and Deep Space Exploration\n\nBeyond Earth orbit, agencies might aim for missions to the Moon, Mars, or other celestial bodies.\n\n😟#problem In-orbit Services and Space Infrastructure\n\nAs space missions become more complex, the need for in-orbit services such as satellite servicing, refueling, or assembly grows.\n\n"
+      "example": "😟#problem Need to launch a satellite into orbit\n\nThe services I offer to my customers rely heavily on satellite technology. I have a satellite that needs to be deployed soon to meet operational goals. Delays in launching could lead to disruptions in service delivery.\n\n😟#problem Limited budget\n\nI have a set financial limit for launching the satellite, and I need a cost-effective solution that doesn’t exceed my budget. This means I must balance quality and reliability with affordability when selecting a launch service.\n\n😟#problem Risk-averse approach to satellite deployment\n\nI want to minimize risks during the satellite launch and ensure the satellite reaches its intended orbit without issues. A failed launch would be costly and could harm my business operations or reputation.\n\n😟#problem Strict deadlines for satellite functionality\n\nThe satellite must be operational by a specific date, as it is part of a time-sensitive project. Delays in the launch or deployment could result in missed opportunities, fines, or client dissatisfaction.\n\n😟#problem Satellite Launch Coordination Complexity\n\nCoordinating the satellite launch with various stakeholders, such as satellite manufacturers, launch providers, and ground control teams, can be complex. Any misalignment in timing or communication could lead to delays or technical issues.\n\n"
     },
     {
       "name": "Value proposition",
@@ -838,17 +862,6 @@
       "info": "https://xbokmd.github.io/plastilinn/raw.html#/docs/xBoK/sections/Value-proposition",
       "question": "If Value proposition is defined as :The reason that will convince this stakeholder to take the action we want them to take, such as buying a product., what could it be?",
       "example": "💎#value Cost Reduction through Reusability\n\nSpaceX's pioneering development of reusable rocket technology dramatically reduces the cost of access to space. This reusability factor allows space agencies to allocate their budgets more efficiently, potentially enabling more missions or greater scope within existing financial constraints.\nSpaceX's reusable rocket technology can reduce launch costs by a significant margin compared to traditional single-use rockets. If, for example, the average cost of launching a traditional rocket is around $150 million, SpaceX's Falcon 9 launches can cost significantly less, around $62 million or even lower for customers willing to fly on a reused booster. This represents a potential cost reduction of over 50%.\n\n💎#value Advanced Payload Capabilities\n\nSpaceX's Falcon Heavy and the forthcoming Starship are designed to carry heavy payloads to orbit, offering space agencies the ability to launch larger, more complex satellites or deep-space probes. This capability supports a wide range of missions, from Earth observation to interplanetary exploration.\nWith the Falcon Heavy and the upcoming Starship, SpaceX can deliver payloads to orbit at a cost of approximately $1,500 to $2,000 per kilogram, a substantial reduction from the historical average of $10,000 to $20,000 per kilogram with traditional launch providers.\n\n💎#value Increased Launch Flexibility and Frequency\n\nWith a fleet of reusable rockets and a streamlined launch process, SpaceX can offer more frequent and flexible launch windows. This responsiveness to client scheduling needs ensures that space agencies can launch missions in a timely manner, essential for time-sensitive scientific research or satellite deployments.\n\n💎#value End-to-End Service\n\nSpaceX provides comprehensive service offerings, including launch services, satellite deployment, mission planning, and even potential participation in groundbreaking projects like Mars colonization. This end-to-end service model simplifies the procurement process and provides a single point of accountability for space agencies."
-    },
-    {
-      "name": "Relationship",
-      "weight": "*",
-      "format": "text",
-      "id": "Relationship",
-      "classes": "relationship",
-      "definition": "Relationship that we maintain with our stakeholders, which can be personal, automated, self-service, etc.",
-      "info": "https://xbokmd.github.io/plastilinn/raw.html#/docs/xBoK/sections/Relationship",
-      "question": "If Relationship is defined as :Relationship that we maintain with our stakeholders, which can be personal, automated, self-service, etc., what could it be?",
-      "example": "🤝#relationship Long-term Partnerships\n\nBuilding sustained relationships through ongoing projects and contracts.\n\n🤝#relationship Collaborative Development\n\nEngaging in joint research and development efforts to push the boundaries of space exploration.\n\n🤝#relationship Customer Support and Consultation\n\nOffering expert guidance and support throughout the mission planning and execution phases."
     },
     {
       "name": "Messages",
@@ -873,26 +886,15 @@
       "example": "🎙️#channel Direct sales\n\nSpace X can directly sell its services to clients, such as satellite launch services, cargo transportation to the ISS, and space exploration tourism packages. This can be done through direct communication with potential clients, negotiations, and contract agreements.\n\n🎙️#channel Online platforms\n\nSpace X can utilize online platforms, such as a company website, to provide information about its services, allow clients to request quotes, and facilitate the booking process for space exploration tourism packages.\n\n🎙️#channel Partnerships with space agencies and organizations\n\nSpace X can establish partnerships with space agencies and organizations, such as NASA or international space agencies, to collaborate on projects and gain access to their existing channels.\n\n🎙️#channel Collaborations with travel agencies and tour operators\n\nFor space tourism services, Space X can partner with travel agencies and tour operators to promote and sell their packages.\n\n🎙️#channel Industry events and conferences\n\nSpace X can participate in industry events and conferences, such as space industry exhibitions and scientific conferences, to showcase their services and establish connections with potential clients.\n\n🎙️#channel Customer referrals and word-of-mouth\n\nSatisfied clients can become advocates for Space X and refer the company to others. Space X can encourage and incentivize customer referrals to generate new leads and expand its client base.\n\n🎙️#channel Customer support and communication channels\n\nSpace X should establish effective customer support and communication channels to address client inquiries, provide assistance, and ensure a smooth experience throughout the customer lifecycle."
     },
     {
-      "name": "Transactions",
+      "name": "Relationship",
       "weight": "*",
-      "format": "list",
-      "id": "Transactions",
-      "classes": "transaction",
-      "definition": "A profile/transaction refers to the collection of data and activities associated with a specific customer or business transaction.",
-      "info": "https://xbokmd.github.io/plastilinn/raw.html#/docs/xBoK/sections/Transactions",
-      "question": "If Transactions is defined as :A profile/transaction refers to the collection of data and activities associated with a specific customer or business transaction., what could it be?",
-      "example": "🛒#transaction Contractual Agreements\n\nSpace X engages in contractual agreements with space agencies for the provision of launch services, including the negotiation of terms, pricing, and other contractual obligations. These agreements outline the scope of work, performance requirements, and other relevant terms and conditions."
-    },
-    {
-      "name": "Journey",
-      "weight": "**",
-      "format": "template",
-      "id": "Journey",
-      "classes": "",
-      "definition": "The Stateholder's journey is a sequence formed by the different stages that a stakeholder goes through in their relationship with my business.",
-      "info": "https://xbokmd.github.io/plastilinn/raw.html#/docs/xBoK/sections/Journey",
-      "question": "If Journey is defined as :The Stateholder's journey is a sequence formed by the different stages that a stakeholder goes through in their relationship with my business., what could it be?",
-      "example": "✈️#journey Awareness\n\nThe procurement manager becomes aware of Space X as a potential supplier through various channels, such as industry events, recommendations, or marketing materials.\n\n✈️#journey Research and Exploration\n\nThe procurement manager conducts research to gather more_information about Space X's services, capabilities, and track record. They explore Space X's website, review case studies, and seek out testimonials or references from other space agencies.\n\n✈️#journey Initial Contact\n\nThe procurement manager establishes initial contact with Space X, reaching out through email or phone to express interest and request more_information. They may also attend conferences or industry events where they can meet Space X representatives.\n\n✈️#journey Requirements Definition\n\nThe procurement manager works internally with stakeholders to define the specific requirements for their space mission, considering factors such as payload specifications, launch window, budget constraints, and mission objectives.\n\n✈️#journey Proposal Evaluation\n\nSpace X submits a proposal to the procurement manager, detailing their launch services, technical capabilities, pricing, and any additional value-added offerings. The procurement manager evaluates the proposal, comparing it with other potential suppliers and considering factors such as cost, reliability, and alignment with agency objectives.\n\n✈️#journey Negotiation and Contracting\n\nThe procurement manager engages in negotiations with Space X to finalize the terms of the contract, including pricing, launch schedule, service level agreements, and any specific contractual obligations. They may seek input from legal counsel and finance teams during this stage.\n\n✈️#journey Execution and Delivery\n\nOnce the contract is signed, Space X works closely with the procurement manager to execute the launch mission, providing regular updates, addressing any technical or operational queries, and ensuring a smooth delivery of services.\n\n✈️#journey Post-Mission Evaluation\n\nAfter the successful completion of the mission, the procurement manager evaluates Space X's performance based on factors such as launch success, adherence to schedule, and overall satisfaction. They may provide feedback and recommendations for future collaborations.\n\n✈️#journey Relationship Building\n\nOver time, the procurement manager and Space X may continue to build a long-term relationship, exploring opportunities for future missions, discussing new technologies or services, and identifying areas of collaboration to further enhance the agency's space exploration capabilities."
+      "format": "text",
+      "id": "Relationship",
+      "classes": "relationship",
+      "definition": "Relationship that we maintain with our stakeholders, which can be personal, automated, self-service, etc.",
+      "info": "https://xbokmd.github.io/plastilinn/raw.html#/docs/xBoK/sections/Relationship",
+      "question": "If Relationship is defined as :Relationship that we maintain with our stakeholders, which can be personal, automated, self-service, etc., what could it be?",
+      "example": "🤝#relationship Long-term Partnerships\n\nBuilding sustained relationships through ongoing projects and contracts.\n\n🤝#relationship Collaborative Development\n\nEngaging in joint research and development efforts to push the boundaries of space exploration.\n\n🤝#relationship Customer Support and Consultation\n\nOffering expert guidance and support throughout the mission planning and execution phases."
     },
     {
       "name": "Assets",
@@ -904,6 +906,17 @@
       "info": "https://xbokmd.github.io/plastilinn/raw.html#/docs/xBoK/sections/Assets",
       "question": "If Assets is defined as :Assets that our clients have...advantages for our business model, what could it be?",
       "example": "⭐#asset Contracts and budget\n\nSpace agencies have contracts and budgets allocated to carry out their space missions. Space X can seek to obtain contracts for satellite launches, cargo resupply missions, or even contracts to transport astronauts to space.\n\n⭐#asset Access to launchers and launch platforms\n\nSpace agencies have access to launch platforms, such as launch bases and space centers, which are vital for carrying out space missions.\n\n⭐#asset Experience and technical knowledge\n\nSpace agencies have experts and scientists with experience in space missions and space technology..\n\n⭐#asset Data and scientific information\n\nDuring space missions, agencies collect a large amount of scientific and research data.\n\n⭐#asset International relations and collaborations\n\nSpace agencies often have established relationships with other national and international space agencies."
+    },
+    {
+      "name": "Transactions",
+      "weight": "*",
+      "format": "list",
+      "id": "Transactions",
+      "classes": "transaction",
+      "definition": "A profile/transaction refers to the collection of data and activities associated with a specific customer or business transaction.",
+      "info": "https://xbokmd.github.io/plastilinn/raw.html#/docs/xBoK/sections/Transactions",
+      "question": "If Transactions is defined as :A profile/transaction refers to the collection of data and activities associated with a specific customer or business transaction., what could it be?",
+      "example": "🛒#transaction Contractual Agreements\n\nSpace X engages in contractual agreements with space agencies for the provision of launch services, including the negotiation of terms, pricing, and other contractual obligations. These agreements outline the scope of work, performance requirements, and other relevant terms and conditions."
     },
     {
       "name": "Perceptions",
@@ -926,6 +939,17 @@
       "info": "https://xbokmd.github.io/plastilinn/raw.html#/docs/xBoK/sections/Emotions",
       "question": "If Emotions is defined as :Emotions that our stakeholders feel and that are relevant to empathize with them and be able to design a value proposition that resonates with them., what could it be?",
       "example": "😐#emotion excitement\nThe opportunity to work with Space X, a recognized and innovative space company, can generate a feeling of excitement and anticipation.\n\n😐#emotion Confidence\nThe positive reputation and successful track record of Space X can instill confidence in the project manager regarding the potential success of the partnership.\n\n😐#emotion Inspiration\n\nWorking with Space X, known for its cutting-edge technology and advancements in space exploration, can inspire the project manager to contribute to the agency's goals.\n\n😐#emotion Pride\n\nCollaborating with Space X, a leading player in the space industry, can evoke a sense of pride and prestige for the project manager and the agency.\n\n😐#emotion Uncertainty\n\nThe complexity of the acquisition process and the potential risks associated with selecting a new provider can generate a certain level of uncertainty.\n\n😐#emotion Budget concerns\n\nBalancing the agency's budget constraints while ensuring high-quality services and equipment can generate concerns about financial viability.\n\n😐#emotion Pressure\n\nThe responsibility of selecting a provider for critical space missions can create a sense of pressure and the need to make the right decision.\n"
+    },
+    {
+      "name": "Journey",
+      "weight": "**",
+      "format": "template",
+      "id": "Journey",
+      "classes": "journey",
+      "definition": "The Stateholder's journey is a sequence formed by the different stages that a stakeholder goes through in their relationship with my business.",
+      "info": "https://xbokmd.github.io/plastilinn/raw.html#/docs/xBoK/sections/Journey",
+      "question": "If Journey is defined as :The Stateholder's journey is a sequence formed by the different stages that a stakeholder goes through in their relationship with my business., what could it be?",
+      "example": "✈️#journey Awareness\n\nThe procurement manager becomes aware of Space X as a potential supplier through various channels, such as industry events, recommendations, or marketing materials.\n\n✈️#journey Research and Exploration\n\nThe procurement manager conducts research to gather more_information about Space X's services, capabilities, and track record. They explore Space X's website, review case studies, and seek out testimonials or references from other space agencies.\n\n✈️#journey Initial Contact\n\nThe procurement manager establishes initial contact with Space X, reaching out through email or phone to express interest and request more_information. They may also attend conferences or industry events where they can meet Space X representatives.\n\n✈️#journey Requirements Definition\n\nThe procurement manager works internally with stakeholders to define the specific requirements for their space mission, considering factors such as payload specifications, launch window, budget constraints, and mission objectives.\n\n✈️#journey Proposal Evaluation\n\nSpace X submits a proposal to the procurement manager, detailing their launch services, technical capabilities, pricing, and any additional value-added offerings. The procurement manager evaluates the proposal, comparing it with other potential suppliers and considering factors such as cost, reliability, and alignment with agency objectives.\n\n✈️#journey Negotiation and Contracting\n\nThe procurement manager engages in negotiations with Space X to finalize the terms of the contract, including pricing, launch schedule, service level agreements, and any specific contractual obligations. They may seek input from legal counsel and finance teams during this stage.\n\n✈️#journey Execution and Delivery\n\nOnce the contract is signed, Space X works closely with the procurement manager to execute the launch mission, providing regular updates, addressing any technical or operational queries, and ensuring a smooth delivery of services.\n\n✈️#journey Post-Mission Evaluation\n\nAfter the successful completion of the mission, the procurement manager evaluates Space X's performance based on factors such as launch success, adherence to schedule, and overall satisfaction. They may provide feedback and recommendations for future collaborations.\n\n✈️#journey Relationship Building\n\nOver time, the procurement manager and Space X may continue to build a long-term relationship, exploring opportunities for future missions, discussing new technologies or services, and identifying areas of collaboration to further enhance the agency's space exploration capabilities."
     },
     {
       "name": "Solutions",
@@ -983,14 +1007,14 @@
       "example": "🛍️#offering Satellite Deployment\n\nDeployment of satellites into orbit. We offer satellite deployment services using our reliable launch systems, providing tailored options based on payload size and orbit requirements. Starting at $62 million for standard payloads up to 22,800 kg to low Earth orbit (LEO).  The service includes pre-launch consultation, payload integration, and post-launch support. Customization options available for specific mission requirements (e.g., geostationary transfer orbit). 30% upfront payment upon contract signing, 40% prior to launch, and 30% after successful payload deployment.\n\n🛍️#offering Ride-Share Missions\n\nShared launches for smaller payloads, allowing multiple customers to share the cost of a single launch. Starting at $1 million for small payloads, such as CubeSats, depending on the weight and destination orbit. Customers can book space on scheduled launches to reduce costs by sharing the payload capacity with other clients. Ideal for small satellite operators or research institutions looking for cost-effective solutions. 20% deposit to secure a slot, 50% payment upon final payload confirmation, and 30% upon successful deployment.\n\n🛍️#offering International Space Station Resupply Missions\n\nSupply resupply missions to the International Space Station, ensuring safe and reliable delivery of cargo. $130 million to $150 million per mission, depending on the type and amount of cargo. Includes mission planning, cargo loading, transportation to the ISS, and real-time  25% deposit at the time of order, 50% before launch, and the remaining 25% upon successful delivery to the ISS.\n\n\n\n"
     },
     {
-      "name": "Brochure",
+      "name": "Solution brochure",
       "weight": "*",
       "format": "template",
-      "id": "Brochure",
+      "id": "Solution-brochure",
       "classes": "",
       "definition": "Basic piece of_information that should be provided to the end customer so that they know the advantages of using our product or service.",
-      "info": "https://xbokmd.github.io/plastilinn/raw.html#/docs/xBoK/sections/Brochure",
-      "question": "If Brochure is defined as :Basic piece of_information that should be provided to the end customer so that they know the advantages of using our product or service., what could it be?",
+      "info": "https://xbokmd.github.io/plastilinn/raw.html#/docs/xBoK/sections/Solution-brochure",
+      "question": "If Solution brochure is defined as :Basic piece of_information that should be provided to the end customer so that they know the advantages of using our product or service., what could it be?",
       "example": "Image:\n\n![spacex](https://cdn2.picryl.com/photo/2015/04/17/dragon-spacecraft-grappled-by-ssrms-ff9d6b-1024.jpg)\n\nTitle: \"SpaceX: Pioneering the Future of Space Travel\"\n\nSubtitle: \"Innovation, Reliability, and Sustainability Beyond Earth\"\n\nOur Mission and Vision:  \"At SpaceX, our mission is to make life multi-planetary. Founded by Elon Musk, we're driving the future of space exploration through cutting-edge technology and innovation. Our vision extends from enhancing satellite deployment capabilities to colonizing Mars, ensuring the long-term survival of humanity.\"\n\nSpace Launch Services: \"Offering reliable and cost-effective launch solutions for satellites and spacecraft, with capabilities ranging from low Earth orbit to interplanetary missions.\"\nSatellite Deployment: \"Precision deployment into desired orbits, leveraging our Falcon 9 and Falcon Heavy rockets.\"\nISS Resupply and Manned Missions: \"Critical supply missions and human-crewed journeys to the International Space Station, emphasizing safety and efficiency.\"\nAdvanced Technologies: \"Continuous innovation in rocket and spacecraft technologies, pushing the boundaries of what's possible.\"\nMars Colonization: \"Our long-term goal, developing the Starship for sustainable human life on Mars.\"\nInside Right Panel: Why Choose SpaceX?\n\nInnovative Launch Solutions: \"Revolutionizing space travel with our reusable rocket technology, significantly reducing costs.\"\nEnhanced Mission Flexibility: \"Offering tailored launch services with rapid turnaround capability.\"\nCollaborative Partnerships: \"Working hand-in-hand with space agencies to co-develop groundbreaking technologies.\"\nSustainable Exploration: \"Committed to minimizing environmental impact and ensuring a sustainable future for space travel.\"\n\nCall to Action: \"Join us in pioneering the next era of space exploration. Contact us to discuss how we can support your mission objectives.\"\n\nContact Information: \"Website: www.spacex.com | Email: contact@spacex.com | Phone: (123) 456-7890\""
     },
     {
@@ -1104,39 +1128,6 @@
       "example": "🖥️#resource Human capital\n\nSkilled workforce with expertise in engineering, science, operations, and management.\n\n🖥️#resource Manufacturing facilities\n\nFacilities equipped with the necessary tools and equipment for rocket and spacecraft manufacturing.\n\n🖥️#resource Testing facilities\n\nFacilities for conducting tests and simulations to ensure performance and safety.\n\n🖥️#resource Financial resources\n\nResources to fund operations, research and development, manufacturing, and other activities.\n\n🖥️#resource Intellectual property\n\nIntellectual property, including patents, trademarks, and trade secrets.\n\n"
     },
     {
-      "name": "Metrics",
-      "weight": "***",
-      "format": "list",
-      "id": "Metrics",
-      "classes": "metric",
-      "definition": "Metrics are quantifiable measures used to evaluate the performance and effectiveness of a business model.",
-      "info": "https://xbokmd.github.io/plastilinn/raw.html#/docs/xBoK/sections/Metrics",
-      "question": "If Metrics is defined as :Metrics are quantifiable measures used to evaluate the performance and effectiveness of a business model., what could it be?",
-      "example": "📐#metric Revenue growth\n\nTracking the company's revenue growth over time can indicate the success of its products and services in the market.\n\n📐#metric Profitability\n\nAnalyzing the company's profitability, including gross profit margin and net profit margin, can provide insights into its financial performance and efficiency.\n\n📐#metric Customer acquisition cost\n\nCalculating the cost of acquiring new customers can help determine the effectiveness of Space X's marketing and sales efforts.\n\n📐#metric Customer retention rate\n\nMonitoring the percentage of customers who continue to use Space X's services over time can indicate customer satisfaction and loyalty.\n\n📐#metric Launch success rate\n\nTracking the success rate of Space X's rocket launches can demonstrate the reliability and performance of its launch vehicles.\n\n📐#metric Satellite deployment rate\nMonitoring the rate at which Space X deploys satellites for its Starlink project can indicate the progress and scalability of its satellite network.\n\n📐#metric Research and development investment\nAssessing the company's investment in research and development can indicate its commitment to innovation and technological advancement.\n\n📐#metric Market share\nAnalyzing Space X's market share in the space industry can provide insights into its competitiveness and growth potential.\n\n📐#metric Employee satisfaction and retention\nMonitoring employee satisfaction and retention rates can indicate the company's ability to attract and retain top talent.\n\n📐#metric Environmental impact\nAssessing the company's environmental impact, such as carbon emissions and waste generation, can demonstrate its commitment to sustainability.\n\n📐#metric Regulatory compliance\nEnsuring compliance with relevant laws and regulations in the space industry is important for Space X's operations and reputation.\n\n📐#metric Investor confidence\nMonitoring investor sentiment and the company's ability to attract funding and investment can indicate confidence in its business model and growth prospects."
-    },
-    {
-      "name": "Life time value",
-      "weight": "***",
-      "format": "text",
-      "id": "Life-time-value",
-      "classes": "",
-      "definition": "Lifetime value is the net present value of the total revenue a customer will generate over their relationship with a business.",
-      "info": "https://xbokmd.github.io/plastilinn/raw.html#/docs/xBoK/sections/Life-time-value",
-      "question": "If Life time value is defined as :Lifetime value is the net present value of the total revenue a customer will generate over their relationship with a business., what could it be?",
-      "example": "Calculating the Lifetime Value (LTV) for a space agency client for SpaceX involves a multi-step approach, taking into account the complexity and uniqueness of space exploration services. The LTV represents the predicted net profit attributed to the entire future relationship with a customer. Here's a simplified method to estimate it for a space agency:\n\n**Average Contract Value (ACV)**\nFirst, determine the Average Contract Value (ACV) for services provided to space agencies, including launch services, satellite deployment, resupply missions, and manned missions. Assuming:\n\nACV for satellite launches: $60 million\nACV for ISS resupply missions: $150 million\nACV for crewed missions: $200 million\n\nIf a space agency contracts SpaceX for 2 satellite launches, 1 resupply mission, and 1 crewed mission annually, the yearly revenue from this agency would be:\n{Annual Revenue} = (2 times $60M) + $150M + $200M = $470M\n\n**2. Average Lifespan of a Client Relationship**\nConsider the average duration of the relationship between SpaceX and space agencies. Assuming an average relationship duration of 10 years:\n\n**3. Calculate LTV**\nMultiply the annual revenue by the lifespan of the relationship to estimate the LTV:\n\\[ \\text{LTV} = \\text{Annual Revenue} \\times \\text{Lifespan} \\]\n\\[ \\text{LTV} = \\$470M \\times 10 = \\$4.7B \\]\n\n**4. Adjust for Costs and Discount Rate**\nTo refine the LTV calculation, subtract the costs associated with servicing the agency (including production, operational, and overhead costs) and apply a discount rate for the time value of money. This step is conceptual without specific cost data but is essential for an accurate LTV estimation.\n\n**5. Consider Repeat Business and Referrals**\nSpace agencies might not only engage in repeat business but also refer other agencies or companies to SpaceX, potentially increasing the LTV. Estimating the value of referrals involves analyzing historical data on referrals and their conversion rates, which could significantly boost the LTV beyond direct contract values.\n"
-    },
-    {
-      "name": "Customer aquisition cost",
-      "weight": "***",
-      "format": "text",
-      "id": "Customer-aquisition-cost",
-      "classes": "",
-      "definition": "the cost incurred by a business to attract and convert a new customer.",
-      "info": "https://xbokmd.github.io/plastilinn/raw.html#/docs/xBoK/sections/Customer-aquisition-cost",
-      "question": "If Customer aquisition cost is defined as :the cost incurred by a business to attract and convert a new customer., what could it be?",
-      "example": "To calculate the Customer Acquisition Cost (CAC) for SpaceX acquiring a space agency as a client, we must consider various activities and expenses involved in the acquisition process. The CAC is the total cost of sales and marketing efforts required to acquire a new customer, divided by the number of new customers acquired. Here's a hypothetical scenario and calculation:\n\n**Scenario**\nSpaceX is aiming to secure a contract with a space agency for a series of satellite launches. The acquisition activities include marketing efforts, proposal preparations, meetings, and negotiation processes.\n\n**Costs**\n1. **Marketing and Advertising**: SpaceX invests in targeted marketing campaigns, including industry-specific conferences, online advertising, and promotional materials aimed at space agencies. \n  Estimated Cost: $500,000\n2. **Sales Team Expenses**: This includes salaries and commissions for the sales team directly involved in the acquisition process, travel expenses for meetings, and other related costs.\n  Estimated Cost: $300,000\n3. **Proposal Preparation**: Costs associated with technical staff time spent on preparing the detailed proposal, including feasibility studies, design, and technical specifications.\n  Estimated Cost: $200,000\n4. **Negotiation and Legal Fees**: Costs for legal consultation during contract negotiation, and other administrative expenses.\n  Estimated Cost: $100,000\n\n**Total Acquisition Cost:**\nTotal Acquisition Cost = $500,000 + $300,000 + $200,000 + $100,000 = $1,100,000\n\n**Number of New Customers Acquired**\nFor simplicity, let's assume SpaceX successfully secures a contract with 1 space agency in this scenario.\n\n**Calculation of CAC**\nCAC = Total Acquisition Cost / Number of New Customers Acquired\nCAC =$1,100,000 / 1 = $1,100,000\n\n**Justification:**\nThe calculated CAC of $1,100,000 represents the estimated cost SpaceX incurs to acquire a new contract with a space agency. Given the high value and long-term nature of contracts in the aerospace sector, this CAC might be justified as the revenue and strategic value derived from such a contract could far exceed the initial acquisition cost. Moreover, the relationship established through this acquisition could lead to further contracts and collaborations, enhancing the overall value obtained from the initial investment.\n\n"
-    },
-    {
       "name": "Team",
       "weight": "****",
       "format": "list",
@@ -1185,7 +1176,7 @@
       "weight": "***",
       "format": "list",
       "id": "Contributions",
-      "classes": "",
+      "classes": "contribution",
       "definition": "The multiple resources or inputs that an individual provides to the company, highlighting the variety and range of valuable assets they bring to the organization's operations and growth.",
       "info": "https://xbokmd.github.io/plastilinn/raw.html#/docs/xBoK/sections/Contributions",
       "question": "If Contributions is defined as :The multiple resources or inputs that an individual provides to the company, highlighting the variety and range of valuable assets they bring to the organization's operations and growth., what could it be?",
@@ -1196,7 +1187,7 @@
       "weight": "***",
       "format": "list",
       "id": "Compensations",
-      "classes": "",
+      "classes": "compensation",
       "definition": "The various forms of remuneration, benefits, and rewards that a company provides to an individual in exchange for their contributions. This can include salary, bonuses, stock options, health benefits, retirement plans, and other perks that constitute the total compensation package offered to employees or collaborators for their valuable inputs to the company.",
       "info": "https://xbokmd.github.io/plastilinn/raw.html#/docs/xBoK/sections/Compensations",
       "question": "If Compensations is defined as :The various forms of remuneration, benefits, and rewards that a company provides to an individual in exchange for their contributions. This can include salary, bonuses, stock options, health benefits, retirement plans, and other perks that constitute the total compensation package offered to employees or collaborators for their valuable inputs to the company., what could it be?",
@@ -1247,6 +1238,17 @@
       "example": "🏁#milestone First successful rocket launch\n\nThis milestone marks the successful launch of Space X's first rocket into space. It demonstrates the company's ability to design, manufacture, and launch rockets, and establishes Space X as a player in the space industry.\n\n🏁#milestone First successful satellite deployment\n\nThis milestone marks the successful deployment of Space X's first satellite into orbit. It showcases the company's ability to provide satellite communication services and contributes to the development of its Starlink project.\n\n🏁#milestone First successful manned mission (achived Feb 2020)\n\nSuccessful launch and return of astronauts in a Space X spacecraft.\n\n🏁#milestone First successful landing of a reusable rocket (expected Jun 2025)\nSuccessful landing of a Space X rocket after launch, demonstrating the company's advancement in rocket reusability.\n\n🏁#milestone Successful completion of a major contract\nSuccessful completion of a significant contract, such as launching multiple satellites for a client or delivering cargo to the International Space Station.\n\n🏁#milestone Achievement of profitability\nPoint at which Space X achieves profitability, generating more revenue than expenses.\n\n"
     },
     {
+      "name": "Metrics",
+      "weight": "***",
+      "format": "list",
+      "id": "Metrics",
+      "classes": "metric",
+      "definition": "Metrics are quantifiable measures used to evaluate the performance and effectiveness of a business model.",
+      "info": "https://xbokmd.github.io/plastilinn/raw.html#/docs/xBoK/sections/Metrics",
+      "question": "If Metrics is defined as :Metrics are quantifiable measures used to evaluate the performance and effectiveness of a business model., what could it be?",
+      "example": "📐#metric Revenue growth\n\nTracking the company's revenue growth over time can indicate the success of its products and services in the market.\n\n📐#metric Profitability\n\nAnalyzing the company's profitability, including gross profit margin and net profit margin, can provide insights into its financial performance and efficiency.\n\n📐#metric Customer acquisition cost\n\nCalculating the cost of acquiring new customers can help determine the effectiveness of Space X's marketing and sales efforts.\n\n📐#metric Customer retention rate\n\nMonitoring the percentage of customers who continue to use Space X's services over time can indicate customer satisfaction and loyalty.\n\n📐#metric Launch success rate\n\nTracking the success rate of Space X's rocket launches can demonstrate the reliability and performance of its launch vehicles.\n\n📐#metric Satellite deployment rate\nMonitoring the rate at which Space X deploys satellites for its Starlink project can indicate the progress and scalability of its satellite network.\n\n📐#metric Research and development investment\nAssessing the company's investment in research and development can indicate its commitment to innovation and technological advancement.\n\n📐#metric Market share\nAnalyzing Space X's market share in the space industry can provide insights into its competitiveness and growth potential.\n\n📐#metric Employee satisfaction and retention\nMonitoring employee satisfaction and retention rates can indicate the company's ability to attract and retain top talent.\n\n📐#metric Environmental impact\nAssessing the company's environmental impact, such as carbon emissions and waste generation, can demonstrate its commitment to sustainability.\n\n📐#metric Regulatory compliance\nEnsuring compliance with relevant laws and regulations in the space industry is important for Space X's operations and reputation.\n\n📐#metric Investor confidence\nMonitoring investor sentiment and the company's ability to attract funding and investment can indicate confidence in its business model and growth prospects."
+    },
+    {
       "name": "Finance",
       "weight": "***",
       "format": "text",
@@ -1269,6 +1271,17 @@
       "example": "💰#revenue Launch service\n\nSpace X generates revenue by providing launch services to customers, including government agencies, commercial companies, and research institutions. Customers pay for the launch of their payloads, such as satellites or scientific instruments, into space.\n\n💰#revenue Satellite communication services\n\nSpace X generates revenue by offering subscription-based internet services to customers, who pay for access to the satellite network.\n\n💰#revenue Licensing and intellectual property\n\nSpace X may generate revenue through licensing its intellectual property, including patents, trademarks, and trade secrets, to other companies or organizations.\n"
     },
     {
+      "name": "Life time value",
+      "weight": "***",
+      "format": "text",
+      "id": "Life-time-value",
+      "classes": "",
+      "definition": "Lifetime value is the net present value of the total revenue a customer will generate over their relationship with a business.",
+      "info": "https://xbokmd.github.io/plastilinn/raw.html#/docs/xBoK/sections/Life-time-value",
+      "question": "If Life time value is defined as :Lifetime value is the net present value of the total revenue a customer will generate over their relationship with a business., what could it be?",
+      "example": "Calculating the Lifetime Value (LTV) for a space agency client for SpaceX involves a multi-step approach, taking into account the complexity and uniqueness of space exploration services. The LTV represents the predicted net profit attributed to the entire future relationship with a customer. Here's a simplified method to estimate it for a space agency:\n\n**Average Contract Value (ACV)**\nFirst, determine the Average Contract Value (ACV) for services provided to space agencies, including launch services, satellite deployment, resupply missions, and manned missions. Assuming:\n\nACV for satellite launches: $60 million\nACV for ISS resupply missions: $150 million\nACV for crewed missions: $200 million\n\nIf a space agency contracts SpaceX for 2 satellite launches, 1 resupply mission, and 1 crewed mission annually, the yearly revenue from this agency would be:\n{Annual Revenue} = (2 times $60M) + $150M + $200M = $470M\n\n**2. Average Lifespan of a Client Relationship**\nConsider the average duration of the relationship between SpaceX and space agencies. Assuming an average relationship duration of 10 years:\n\n**3. Calculate LTV**\nMultiply the annual revenue by the lifespan of the relationship to estimate the LTV:\n\\[ \\text{LTV} = \\text{Annual Revenue} \\times \\text{Lifespan} \\]\n\\[ \\text{LTV} = \\$470M \\times 10 = \\$4.7B \\]\n\n**4. Adjust for Costs and Discount Rate**\nTo refine the LTV calculation, subtract the costs associated with servicing the agency (including production, operational, and overhead costs) and apply a discount rate for the time value of money. This step is conceptual without specific cost data but is essential for an accurate LTV estimation.\n\n**5. Consider Repeat Business and Referrals**\nSpace agencies might not only engage in repeat business but also refer other agencies or companies to SpaceX, potentially increasing the LTV. Estimating the value of referrals involves analyzing historical data on referrals and their conversion rates, which could significantly boost the LTV beyond direct contract values.\n"
+    },
+    {
       "name": "Cost lines",
       "weight": "**",
       "format": "list",
@@ -1278,6 +1291,17 @@
       "info": "https://xbokmd.github.io/plastilinn/raw.html#/docs/xBoK/sections/Cost-lines",
       "question": "If Cost lines is defined as :the expenses incurred in the production and delivery of a product or service within a business model., what could it be?",
       "example": "💸#cost Research and development costs\n\nSpace X invests heavily in research and development to innovate and improve their rockets, spacecraft, and other technologies (materials, equipment, testing, and personnel).\n\n💸#cost Manufacturing costs\n\nSpace X incurs costs in manufacturing their rockets, spacecraft, and other components (sourcing materials, assembly, quality control, and production facilities).\n\n💸#cost Launch operation costs\n\nSpace X bears costs related to planning and executing launch operations (launch site rentals, permits, fuel, ground support equipment, and personnel).\n\n💸#cost Satellite deployment costs\n\nSpace X incurs costs for deploying and maintaining its satellite network for the Starlink project (manufacturing satellites, launching them into space, and ground control operations).\n\n💸#cost Supply chain costs\n\nSpace X manages a complex supply chain to source components, materials, and equipment for rocket and spacecraft manufacturing (procurement, inventory management, logistics, and supplier relationships).\n\n💸#cost Operations and maintenance costs\n\nSpace X incurs ongoing costs for operating and maintaining their rockets, spacecraft, and other infrastructure (insurance, inspections, repairs, upgrades, and personnel).\n\n💸#cost Marketing and sales costs\n\nSpace X invests in marketing and sales activities to attract customers and promote their solutions (advertising, promotional events, sales team salaries, and marketing campaigns).\n\n💸#cost Regulatory compliance costs\n\nSpace X must comply with legal and regulatory requirements in the space industry (permits, licenses, certifications, and compliance activities).\n"
+    },
+    {
+      "name": "Customer aquisition cost",
+      "weight": "***",
+      "format": "text",
+      "id": "Customer-aquisition-cost",
+      "classes": "",
+      "definition": "the cost incurred by a business to attract and convert a new customer.",
+      "info": "https://xbokmd.github.io/plastilinn/raw.html#/docs/xBoK/sections/Customer-aquisition-cost",
+      "question": "If Customer aquisition cost is defined as :the cost incurred by a business to attract and convert a new customer., what could it be?",
+      "example": "To calculate the Customer Acquisition Cost (CAC) for SpaceX acquiring a space agency as a client, we must consider various activities and expenses involved in the acquisition process. The CAC is the total cost of sales and marketing efforts required to acquire a new customer, divided by the number of new customers acquired. Here's a hypothetical scenario and calculation:\n\n**Scenario**\nSpaceX is aiming to secure a contract with a space agency for a series of satellite launches. The acquisition activities include marketing efforts, proposal preparations, meetings, and negotiation processes.\n\n**Costs**\n1. **Marketing and Advertising**: SpaceX invests in targeted marketing campaigns, including industry-specific conferences, online advertising, and promotional materials aimed at space agencies. \n  Estimated Cost: $500,000\n2. **Sales Team Expenses**: This includes salaries and commissions for the sales team directly involved in the acquisition process, travel expenses for meetings, and other related costs.\n  Estimated Cost: $300,000\n3. **Proposal Preparation**: Costs associated with technical staff time spent on preparing the detailed proposal, including feasibility studies, design, and technical specifications.\n  Estimated Cost: $200,000\n4. **Negotiation and Legal Fees**: Costs for legal consultation during contract negotiation, and other administrative expenses.\n  Estimated Cost: $100,000\n\n**Total Acquisition Cost:**\nTotal Acquisition Cost = $500,000 + $300,000 + $200,000 + $100,000 = $1,100,000\n\n**Number of New Customers Acquired**\nFor simplicity, let's assume SpaceX successfully secures a contract with 1 space agency in this scenario.\n\n**Calculation of CAC**\nCAC = Total Acquisition Cost / Number of New Customers Acquired\nCAC =$1,100,000 / 1 = $1,100,000\n\n**Justification:**\nThe calculated CAC of $1,100,000 represents the estimated cost SpaceX incurs to acquire a new contract with a space agency. Given the high value and long-term nature of contracts in the aerospace sector, this CAC might be justified as the revenue and strategic value derived from such a contract could far exceed the initial acquisition cost. Moreover, the relationship established through this acquisition could lead to further contracts and collaborations, enhancing the overall value obtained from the initial investment.\n\n"
     },
     {
       "name": "Unit economics",
@@ -1295,21 +1319,21 @@
       "weight": "*",
       "format": "list",
       "id": "Funding-sources",
-      "classes": "",
+      "classes": "funding",
       "definition": "the various ways a business model generates revenue or acquires capital to support its operations.",
       "info": "https://xbokmd.github.io/plastilinn/raw.html#/docs/xBoK/sections/Funding-sources",
       "question": "If Funding sources is defined as :the various ways a business model generates revenue or acquires capital to support its operations., what could it be?",
       "example": "SpaceX, founded by Elon Musk in 2002, has utilized a mix of private investments, government contracts, and public funding to finance its operations and ambitious space exploration goals. Here's a breakdown of the key funding sources and investors:\n\nVenture capital funding\n\nSpace X has historically relied on venture capital funding to support its operations and development.\n\nGovernment contracts and grants\n\nSpace X has also secured contracts and grants from government agencies, such as NASA and the Department of Defense.\n\nInitial public offering (IPO)\n\nSpace X could consider going public through an IPO to raise capital from public investors. This would involve listing the company's shares on a stock exchange and allowing the public to invest in the company.\n\n**Sources**\n\n💵#funding Private Equity and Venture Capital\nSpaceX has raised significant amounts of funding through private equity rounds from venture capital firms and individual investors. Notable investors include Founders Fund, Sequoia Capital, and Draper Fisher Jurvetson. Google and Fidelity Investments made a large investment in 2015, putting in about $1 billion for a nearly 10% stake in the company.\n\n💵#funding Government Contracts\nA substantial portion of SpaceX's funding comes from government contracts, particularly from NASA and the U.S. Department of Defense. NASA's Commercial Orbital Transportation Services (COTS) program awarded SpaceX contracts worth several billion dollars over the years for cargo transportation to the International Space Station (ISS). Additionally, SpaceX has secured contracts for national security missions from the U.S. Air Force and Space Force.\n\n💵#funding Public Funding\nThough SpaceX remains a privately held company and hasn't gone public through an IPO, it has received public funding in the form of government grants and incentives for specific projects and facilities.\n\n💵#funding Debt Financing\nSpaceX has also used debt financing to fund its operations. For example, in 2020, SpaceX raised $1.9 billion in one of the largest funding rounds, and later, it was reported that the company raised an additional $850 million through equity and debt.\n\n💵#funding Direct Investment from Elon Musk\nElon Musk, the founder and CEO, has invested a significant amount of his own money into SpaceX, especially in the early days to get the company off the ground. His continued investment demonstrates his commitment to the company's long-term vision."
     },
     {
-      "name": "Capital structure",
+      "name": "Shareholders",
       "weight": "**",
       "format": "template",
-      "id": "Capital-structure",
-      "classes": "",
+      "id": "Shareholders",
+      "classes": "shareholder",
       "definition": "the financial resources, assets, and investments that a business uses to generate income and support its operations.",
-      "info": "https://xbokmd.github.io/plastilinn/raw.html#/docs/xBoK/sections/Capital-structure",
-      "question": "If Capital structure is defined as :the financial resources, assets, and investments that a business uses to generate income and support its operations., what could it be?",
+      "info": "https://xbokmd.github.io/plastilinn/raw.html#/docs/xBoK/sections/Shareholders",
+      "question": "If Shareholders is defined as :the financial resources, assets, and investments that a business uses to generate income and support its operations., what could it be?",
       "example": "**SpaceX 2003 Cap Table**\n\n| **Shareholder**      | **Role**                   | **Ownership (%)** | **Shares**  |\n|----------------------|----------------------------|-------------------|-------------|\n| **Elon Musk**        | Founder, CEO               | 54%               | 5,400,000   |\n| **Early Investors**  | VC Firms, Angel Investors  | 30%               | 3,000,000   |\n| **Gwynne Shotwell**   | COO, Early Employee        | 10%               | 1,000,000   |\n| **Other Early Employees** | Engineers, Advisors   | 6%                | 600,000     |\n| **Total**            |                            | **100%**          | **10,000,000** |\n"
     },
     {
@@ -1489,14 +1513,14 @@
       "example": "🧪#experiment Reusable Rocket Test\n\nAssumption: Cost reduction through reusable rockets will significantly lower launch costs.\n\nExperiment: Conduct rapid, repeated launches with reusable rockets (e.g., Falcon 9) in a short timeframe to assess wear, repair costs, and operational efficiency compared to traditional rockets.\n\nMetric: Cost per launch and turnaround time for the next flight.\n\n🧪#experiment Market Demand Validation for Commercial Space Services\n\nAssumption: There is Demand for commercial space services that is growing and sustained.\n\nExperiment: Launch a pre-sale campaign or survey potential clients (e.g., satellite companies) to measure interest in launch services and track how many requests for quotes are received.\n\nMetric: Number of quote requests and early reservations.\n\n🧪#experiment Crewed Mission Safety Simulation\n\nRisk: Safety and Crewed Missions require robust systems for frequent human spaceflights.\n\nExperiment: Conduct in-flight abort and atmospheric re-entry simulations with the Crew Dragon capsule, testing the safety of emergency systems in different critical scenarios.\n\nMetric: Success rate of safe aborts and performance of emergency systems."
     },
     {
-      "name": "Experiment",
+      "name": "Experiments",
       "weight": "***",
       "format": "text",
-      "id": "Experiment",
+      "id": "Experiments",
       "classes": "experiment",
       "definition": "Experiments are tests or trials designed to validate assumptions and hypotheses about a business model's value proposition, customer segments, and revenue streams.",
-      "info": "https://xbokmd.github.io/plastilinn/raw.html#/docs/xBoK/sections/Experiment",
-      "question": "If Experiment is defined as :Experiments are tests or trials designed to validate assumptions and hypotheses about a business model's value proposition, customer segments, and revenue streams., what could it be?",
+      "info": "https://xbokmd.github.io/plastilinn/raw.html#/docs/xBoK/sections/Experiments",
+      "question": "If Experiments is defined as :Experiments are tests or trials designed to validate assumptions and hypotheses about a business model's value proposition, customer segments, and revenue streams., what could it be?",
       "example": "🧪#experiment Reusable Rocket Test\n\nObjective: Validate the Assumption: Cost reduction through reusable rockets by launching and reusing a Falcon 9 rocket multiple times to measure cost savings and operational efficiency.\n\nTasks and Objectives\n\n⚙️#work Prepare Falcon 9 for Multiple Reuses\n\nRefurbish a previously flown Falcon 9 for 3 consecutive launches. Complete refurbishment within 10 days between launches.\n\n⚙️#work Conduct 3 Falcon 9 Launches\n\nPerform 3 launches within a 60-day period to test rapid reuse capabilities. Complete all 3 launches in 60 days.\n\n⚙️#work Analyze Cost and Time Savings\n\nCalculate the cost per launch and measure savings compared to single-use rockets. Complete cost analysis within 10 days after the last launch.\n\n"
     },
     {
@@ -1509,28 +1533,6 @@
       "info": "https://xbokmd.github.io/plastilinn/raw.html#/docs/xBoK/sections/References",
       "question": "If References is defined as :Documents, articles, web sites, etc... referenced in this document, what could it be?",
       "example": "Howell E. 2024 Jul 18. SpaceX launches to ISS are under independent NASA review after rare Falcon 9 rocket failure. Spacecom. [accessed 2024 Sep 12]. https://www.space.com/spacex-falcon-9-failure-nasa-independent-investigation.\nSpace Launch Report: SpaceX Falcon 9 Data Sheet Home On the Pad Space Logs Library Links. 2017. https://sma.nasa.gov/LaunchVehicle/assets/spacex-falcon-9-data-sheet.pdf.\n\n‌\n"
-    },
-    {
-      "name": "Artifacts",
-      "weight": "***",
-      "format": "text",
-      "id": "Artifacts",
-      "classes": "",
-      "definition": "HTML representation of common business modeling artifacts",
-      "info": "https://xbokmd.github.io/plastilinn/raw.html#/docs/xBoK/sections/Artifacts",
-      "question": "If Artifacts is defined as :HTML representation of common business modeling artifacts, what could it be?",
-      "example": "<h2>Business Model Canvas (🙎‍♂️#profile Main profile)</h2>\n<div id=\"business-model-canvas\" class=\"bg-gray-100 h-screen p-5\">\n    <div class=\"row-span-2 grid h-3/5 grid-cols-5 bg-white shadow-lg\">\n        <div class=\"row-span-2 border pl-2\">\n            <h3>Key Partners</h3>\n            <p>Strategic partnerships with NASA, government agencies, and commercial clients for satellite launches and space missions.</p>\n        </div>\n        <div class=\"row-span-1 border pl-2\">\n            <h3>Key Activities</h3>\n            <p>Development of reusable rocket technology and space systems aimed at reducing space travel costs and enabling Mars colonization.</p>\n        </div>\n        <div class=\"row-span-2 border pl-2\">\n            <h3>Value Propositions</h3>\n            <p>SpaceX offers innovative, reliable, and efficient space launch solutions with a long-term vision of human presence on Mars.</p>\n        </div>\n        <div class=\"border pl-2\">\n            <h3>Customer Relationships</h3>\n            <p>Close relationships with government agencies and commercial clients through long-term contracts and strategic partnerships.</p>\n        </div>\n        <div class=\"row-span-2 border pl-2\">\n            <h3>Customer Segments</h3>\n            <p>Space agencies, commercial telecom companies, and governments requiring satellite launch and space mission services.</p>\n        </div>\n        <div class=\"border pl-2\">\n            <h3>Key Resources</h3>\n            <p>Reusable rocket technology such as Falcon and Starship, manufacturing facilities, and launch centers.</p>\n        </div>\n        <div class=\"border pl-2\">\n            <h3>Channels</h3>\n            <p>Direct contracts with space agencies, collaboration agreements, and online platforms.</p>\n        </div>\n    </div>\n    <div class=\"grid h-52 grid-cols-2 bg-white shadow-lg\">\n        <div class=\"border pl-2\">\n            <h3>Cost structure</h3>\n            <p>Costs related to research and development of rocket technology, manufacturing, and maintaining launch operations.</p>\n        </div>\n        <div class=\"border pl-2\">\n            <h3>Revenue streams</h3>\n            <p>Revenue from launch services, the Starlink satellite internet service, and future space tourism projects.</p>\n        </div>\n    </div>\n</div>\n<h2>Value Proposition Canvas (🙎‍♂️#profile Main profile)</h2>\n<div id=\"value-proposition-canvas\" class=\"bg-gray-100 h-screen p-5\">\n    <div class=\"grid h-3/5 grid-cols-2 gap-4 bg-white shadow-lg p-5\">\n        <!-Customer Segment -->\n        <div class=\"border p-5\">\n            <h3>Customer Segment</h3>\n            <div class=\"border-t mt-3\">\n                <h4>Jobs</h4>\n                <p>Customers seek reliable and cost-effective space launch solutions for satellites, crewed missions, and space exploration.</p>\n            </div>\n            <div class=\"border-t mt-3\">\n                <h4>Pains</h4>\n                <p>High costs of space missions and difficulty accessing advanced space technology.</p>\n            </div>\n            <div class=\"border-t mt-3\">\n                <h4>Gains</h4>\n                <p>Lower space launch costs through reusable rockets and the potential to explore new commercial opportunities in space.</p>\n            </div>\n        </div>\n        <!-Value Proposition -->\n        <div class=\"border p-5\">\n            <h3>Value Proposition</h3>\n            <div class=\"border-t mt-3\">\n                <h4>Products & Services</h4>\n                <p>SpaceX offers launch services, satellite internet, space tourism, and space exploration missions.</p>\n            </div>\n            <div class=\"border-t mt-3\">\n                <h4>Pain Relievers</h4>\n                <p>SpaceX reduces costs and increases mission reliability through innovative, reusable rocket technology.</p>\n            </div>\n            <div class=\"border-t mt-3\">\n                <h4>Gain Creators</h4>\n                <p>SpaceX opens new possibilities for commercial and governmental space missions with lower costs and advanced technology.</p>\n            </div>\n        </div>\n    </div>\n</div>\n<h2>Empathy Map (🙎‍♂️#profile Main profile)</h2>\n<div id=\"empathy-map\" class=\"bg-gray-100 h-screen p-5\">\n    <div class=\"grid h-3/5 grid-cols-2 gap-4 bg-white shadow-lg p-5\">\n        <!-What Customer Thinks and Feels -->\n        <div class=\"border p-5\">\n            <h3>What the Customer Thinks and Feels</h3>\n            <p>The customers are excited about space exploration possibilities but are concerned about the costs and risks associated with space travel.</p>\n        </div>\n        <!-What Customer Sees -->\n        <div class=\"border p-5\">\n            <h3>What the Customer Sees</h3>\n            <p>They see a growing market of private space launches and competition between aerospace companies to innovate in reusable rocket technology.</p>\n        </div>\n        <!-What Customer Hears -->\n        <div class=\"border p-5\">\n            <h3>What the Customer Hears</h3>\n            <p>Customers hear about advancements in space technology, the colonization of Mars, and new commercial opportunities in Low Earth Orbit (LEO).</p>\n        </div>\n        <!-What Customer Says and Does -->\n        <div class=\"border p-5\">\n            <h3>What the Customer Says and Does</h3>\n            <p>They express interest in space exploration projects and seek partnerships with advanced tech companies for successful missions.</p>\n        </div>\n        <!-Pains -->\n        <div class=\"border p-5\">\n            <h3>Pains</h3>\n            <p>Worries about the high costs of space missions and the reliability of emerging technologies.</p>\n        </div>\n        <!-Gains -->\n        <div class=\"border p-5\">\n            <h3>Gains</h3>\n            <p>The opportunity to access space with significantly lower costs thanks to SpaceX's reusable rocket technology.</p>\n        </div>\n    </div>\n</div>"
-    },
-    {
-      "name": "Attachments",
-      "weight": "*",
-      "format": "text",
-      "id": "Attachments",
-      "classes": "",
-      "definition": "",
-      "info": "https://xbokmd.github.io/plastilinn/raw.html#/docs/xBoK/sections/Attachments",
-      "question": "If Attachments is defined as :, what could it be?",
-      "example": ""
     }
   ],
   "prompts": [
@@ -1598,25 +1600,25 @@
       "item": "Organization values",
       "caption": "🤖 Open AI and copy prompt",
       "url": "https://chatgpt.com/g/g-CqzH3wBOC-plastilinn-business-advisor",
-      "prompt": "As a business model design expert, you specialize in refining business models through detailed, specific feedback and brainstorming tailored to each business unique aspects. Your role is to assist in drafting a document that accurately describes a business model, focusing on clear, structured, and relevant advice. Your approach involves:\r\n  \r\n- Listening closely to understand the specifics of the business.\r\n- Providing concise, targeted guidance without unnecessary repetition or formalities.\r\n- Offering step-by-step feedback to ensure the document effectively captures the business model.\r\n- You focus on the client's needs and how to best articulate their business model.\n\nGOAL: Help the user write the Organization values section of a document that describes his project business model based on CUSTOM INFO.\n\nQUESTION: Please suggest content for the Organization values section of the business model.\n\nWRITE your answer in PLASTILINN FORMAT, which consists of the text of the answer without any comments or similar, that closely adheres to the format and style of the plastilinn doc (taking the BLOCK EXAMPLE as a reference example of a properly formatted answer). In your response, each list component should begin with emoji and a '#tag', followed by the name, and then a line break followed by a description. This is an example of an answer for the company Space X, an aerospace manufacturer and space transportation company:\n\n\n--- BLOCK EXAMPLE START ---\n🏢🌟#organization_value Innovation\nContinuously pushing the boundaries of space technology to develop more efficient, reliable, and cost-effective spacecraft and rockets.\n\n🏢🌟#organization_value Reliability\nEnsuring the highest standards of safety and dependability in every mission to protect crew, cargo, and spacecraft integrity.\n\n🏢🌟#organization_value Efficiency\nStreamlining processes and leveraging vertical integration to reduce costs and improve the accessibility of space travel and exploration.\n\n🏢🌟#organization_value Sustainability\nCommitting to sustainable space exploration practices, including the development of reusable rocket technology to minimize environmental impact.\n--- BLOCK EXAMPLE END ---\n\nCUSTOM INFO: Here's some information about the business:\r\n\r\n--- CUSTOM INFO START ---\r\n{DOC_STRING}\r\n--- CUSTOM INFO END ---\n\n"
+      "prompt": "#N/A"
     },
     {
       "item": "Organization goals",
       "caption": "🤖 Open AI and copy prompt",
       "url": "https://chatgpt.com/g/g-CqzH3wBOC-plastilinn-business-advisor",
-      "prompt": "As a business model design expert, you specialize in refining business models through detailed, specific feedback and brainstorming tailored to each business unique aspects. Your role is to assist in drafting a document that accurately describes a business model, focusing on clear, structured, and relevant advice. Your approach involves:\r\n  \r\n- Listening closely to understand the specifics of the business.\r\n- Providing concise, targeted guidance without unnecessary repetition or formalities.\r\n- Offering step-by-step feedback to ensure the document effectively captures the business model.\r\n- You focus on the client's needs and how to best articulate their business model.\n\nGOAL: Help the user write the Organization goals section of a document that describes his project business model based on CUSTOM INFO.\n\nQUESTION: Please suggest content for the Organization goals section of the business model.\n\nWRITE your answer in PLASTILINN FORMAT, which consists of the text of the answer without any comments or similar, that closely adheres to the format and style of the plastilinn doc (taking the BLOCK EXAMPLE as a reference example of a properly formatted answer). In your response, each list component should begin with emoji and a '#tag', followed by the name, and then a line break followed by a description. This is an example of an answer for the company Space X, an aerospace manufacturer and space transportation company:\n\n\n--- BLOCK EXAMPLE START ---\n| #goal /  (info) | Description | Units | Value | Term |\n| :---- | :---- | :---- | :---- | :---- |\n| 🎯#goal Maximize revenue | SpaceX aims to capitalize on the growing space industry, focusing on satellite launches, Mars missions, and space tourism, with the goal of significant returns on investment. | B$ | 2 | Long term |\n| 🎯#goal Expand global connectivity | Through the Starlink project, SpaceX intends to provide affordable, high-speed internet access to a vast portion of the global population, especially underserved regions. | devices/year | 50M | Long term |\n| 🎯#goal Ensure ethical space exploration | Space missions can have significant implications on space sustainability and ethics. SpaceX is committed to ensuring all its projects comply with strict ethical standards. | \\- | \\- | Short, Medium, Long term |\n| 🎯#goal Achieve flawless mission safety | Safety is a top priority for SpaceX, especially in human spaceflight missions. The company continuously improves its technology to ensure all missions are conducted with the highest safety standards. | \\- | \\- | Short term |\n--- BLOCK EXAMPLE END ---\n\nCUSTOM INFO: Here's some information about the business:\r\n\r\n--- CUSTOM INFO START ---\r\n{DOC_STRING}\r\n--- CUSTOM INFO END ---\n\n"
+      "prompt": "#N/A"
     },
     {
       "item": "Stakeholders",
       "caption": "🤖 Open AI and copy prompt",
       "url": "https://chatgpt.com/g/g-CqzH3wBOC-plastilinn-business-advisor",
-      "prompt": "As a business model design expert, you specialize in refining business models through detailed, specific feedback and brainstorming tailored to each business unique aspects. Your role is to assist in drafting a document that accurately describes a business model, focusing on clear, structured, and relevant advice. Your approach involves:\r\n  \r\n- Listening closely to understand the specifics of the business.\r\n- Providing concise, targeted guidance without unnecessary repetition or formalities.\r\n- Offering step-by-step feedback to ensure the document effectively captures the business model.\r\n- You focus on the client's needs and how to best articulate their business model.\n\nGOAL: Help the user write the Stakeholders section of a document that describes his project business model based on CUSTOM INFO.\n\nQUESTION: Please suggest content for the Stakeholders section of the business model.\n\nWRITE your answer in PLASTILINN FORMAT, which consists of the text of the answer without any comments or similar, that closely adheres to the format and style of the plastilinn doc (taking the BLOCK EXAMPLE as a reference example of a properly formatted answer). In your response, each list component should begin with emoji and a '#tag', followed by the name, and then a line break followed by a description. This is an example of an answer for the company Space X, an aerospace manufacturer and space transportation company:\n\n\n--- BLOCK EXAMPLE START ---\n🤔#stakeholder Satellite Launch Customers\n\nCommercial and government organizations that require satellite launch services. They are looking for a reliable and cost-effective platform to deploy their satellites and enhance their communication and Earth observation capabilities.\n\n🤔#stakeholder Space Tourism Customers\n\nIndividuals and groups who are interested in experiencing weightlessness and enjoying unique views of Earth from space. They are willing to pay for the opportunity to become space tourists and have a once-in-a-lifetime experience.\n\n🤔#stakeholder Space Exploration Enthusiasts\n\nIndividuals who are passionate about space exploration and are interested in participating in missions beyond low Earth orbit. They are looking for opportunities to travel to the Moon, Mars, and other destinations in the solar system.\n--- BLOCK EXAMPLE END ---\n\nCUSTOM INFO: Here's some information about the business:\r\n\r\n--- CUSTOM INFO START ---\r\n{DOC_STRING}\r\n--- CUSTOM INFO END ---\n\n"
+      "prompt": "As a business model design expert, you specialize in refining business models through detailed, specific feedback and brainstorming tailored to each business unique aspects. Your role is to assist in drafting a document that accurately describes a business model, focusing on clear, structured, and relevant advice. Your approach involves:\r\n  \r\n- Listening closely to understand the specifics of the business.\r\n- Providing concise, targeted guidance without unnecessary repetition or formalities.\r\n- Offering step-by-step feedback to ensure the document effectively captures the business model.\r\n- You focus on the client's needs and how to best articulate their business model.\n\nGOAL: Help the user write the Stakeholders section of a document that describes his project business model based on CUSTOM INFO.\n\nQUESTION: Please suggest content for the Stakeholders section of the business model.\n\nWRITE your answer in PLASTILINN FORMAT, which consists of the text of the answer without any comments or similar, that closely adheres to the format and style of the plastilinn doc (taking the BLOCK EXAMPLE as a reference example of a properly formatted answer). In your response, each list component should begin with emoji and a '#tag', followed by the name, and then a line break followed by a description. This is an example of an answer for the company Space X, an aerospace manufacturer and space transportation company:\n\n\n--- BLOCK EXAMPLE START ---\n🤔#stakeholder Satellite Launch Customers\n\nCommercial and government organizations that require satellite launch services. They are looking for a reliable and cost-effective platform to deploy their satellites and enhance their communication and Earth observation capabilities.\n\n🤔#stakeholder Strategic Partners and Suppliers\n\nSuppliers and strategic allies who provide essential materials, components, and technological support for SpaceX’s operations. Their collaboration ensures quality and efficiency in the supply chain and the development of rockets and spacecraft.\n\n🤔#stakeholder Government and Regulatory Entities\n\nGovernment bodies and regulatory agencies, such as NASA and the Federal Aviation Administration (FAA), that establish and monitor compliance standards. Their collaboration is crucial for the safety and success of SpaceX's space missions.\n\n🤔#stakeholder Investors and Financial Partners\n\nInvestors and venture capital entities funding SpaceX’s projects, expecting a return on their investments. Their financial support is vital for ambitious technological developments like the Starship project and the Starlink satellite constellation.\n\n🤔#stakeholder Employees and Management\n\nThe team of employees and leadership at SpaceX, whose talent and commitment are essential to the company’s innovation and success. Their working conditions and professional development are directly shaped by the company’s strategic and operational decisions.\n\n🤔#stakeholder Space Exploration Enthusiasts\n\nIndividuals who are passionate about space exploration and are interested in participating in missions beyond low Earth orbit. They are looking for opportunities to travel to the Moon, Mars, and other destinations in the solar system.\n\n--- BLOCK EXAMPLE END ---\n\nCUSTOM INFO: Here's some information about the business:\r\n\r\n--- CUSTOM INFO START ---\r\n{DOC_STRING}\r\n--- CUSTOM INFO END ---\n\n"
     },
     {
       "item": "Segments",
       "caption": "🤖 Open AI and copy prompt",
       "url": "https://chatgpt.com/g/g-CqzH3wBOC-plastilinn-business-advisor",
-      "prompt": "As a business model design expert, you specialize in refining business models through detailed, specific feedback and brainstorming tailored to each business unique aspects. Your role is to assist in drafting a document that accurately describes a business model, focusing on clear, structured, and relevant advice. Your approach involves:\r\n  \r\n- Listening closely to understand the specifics of the business.\r\n- Providing concise, targeted guidance without unnecessary repetition or formalities.\r\n- Offering step-by-step feedback to ensure the document effectively captures the business model.\r\n- You focus on the client's needs and how to best articulate their business model.\n\nGOAL: Help the user write the Segments section of a document that describes his project business model based on CUSTOM INFO.\n\nQUESTION: Please suggest content for the Segments section of the business model.\n\nWRITE your answer in PLASTILINN FORMAT, which consists of the text of the answer without any comments or similar, that closely adheres to the format and style of the plastilinn doc (taking the BLOCK EXAMPLE as a reference example of a properly formatted answer). In your response, each list component should begin with emoji and a '#tag', followed by the name, and then a line break followed by a description. This is an example of an answer for the company Space X, an aerospace manufacturer and space transportation company:\n\n\n--- BLOCK EXAMPLE START ---\n🤔#stakeholder Satellite Launch Customers\n\n🙋#segment Government Agencies\nThe government agencies segment includes national space agencies that require space transportation and communication services for their missions.\n\n🙋#segment Commercial Companies\nThe commercial companies segment includes private companies that require space transportation and communication services for their business operations.\n\n🙋#segment ISS Cargo Transport Customers\n This segment includes space agencies and scientific organizations that require transportation of cargo to the International Space Station (ISS).\n--- BLOCK EXAMPLE END ---\n\nCUSTOM INFO: Here's some information about the business:\r\n\r\n--- CUSTOM INFO START ---\r\n{DOC_STRING}\r\n--- CUSTOM INFO END ---\n\n"
+      "prompt": "As a business model design expert, you specialize in refining business models through detailed, specific feedback and brainstorming tailored to each business unique aspects. Your role is to assist in drafting a document that accurately describes a business model, focusing on clear, structured, and relevant advice. Your approach involves:\r\n  \r\n- Listening closely to understand the specifics of the business.\r\n- Providing concise, targeted guidance without unnecessary repetition or formalities.\r\n- Offering step-by-step feedback to ensure the document effectively captures the business model.\r\n- You focus on the client's needs and how to best articulate their business model.\n\nGOAL: Help the user write the Segments section of a document that describes his project business model based on CUSTOM INFO.\n\nQUESTION: Please suggest content for the Segments section of the business model.\n\nWRITE your answer in PLASTILINN FORMAT, which consists of the text of the answer without any comments or similar, that closely adheres to the format and style of the plastilinn doc (taking the BLOCK EXAMPLE as a reference example of a properly formatted answer). In your response, each list component should begin with emoji and a '#tag', followed by the name, and then a line break followed by a description. This is an example of an answer for the company Space X, an aerospace manufacturer and space transportation company:\n\n\n--- BLOCK EXAMPLE START ---\nThis are the segments for 🤔#stakeholder Satellite Launch Customers\n\n🙋#segment Government Agencies\nThe government agencies segment includes national space agencies that require space transportation and communication services for their missions.\n\n🙋#segment Commercial Companies\nThe commercial companies segment includes private companies that require space transportation and communication services for their business operations.\n\n🙋#segment ISS Cargo Transport Customers\n This segment includes space agencies and scientific organizations that require transportation of cargo to the International Space Station (ISS).\n--- BLOCK EXAMPLE END ---\n\nCUSTOM INFO: Here's some information about the business:\r\n\r\n--- CUSTOM INFO START ---\r\n{DOC_STRING}\r\n--- CUSTOM INFO END ---\n\n"
     },
     {
       "item": "segment Name",
@@ -1688,7 +1690,7 @@
       "item": "Problems",
       "caption": "🤖 Open AI and copy prompt",
       "url": "https://chatgpt.com/g/g-CqzH3wBOC-plastilinn-business-advisor",
-      "prompt": "As a business model design expert, you specialize in refining business models through detailed, specific feedback and brainstorming tailored to each business unique aspects. Your role is to assist in drafting a document that accurately describes a business model, focusing on clear, structured, and relevant advice. Your approach involves:\r\n  \r\n- Listening closely to understand the specifics of the business.\r\n- Providing concise, targeted guidance without unnecessary repetition or formalities.\r\n- Offering step-by-step feedback to ensure the document effectively captures the business model.\r\n- You focus on the client's needs and how to best articulate their business model.\n\nGOAL: Help the user write the Problems section of a document that describes his project business model based on CUSTOM INFO.\n\nQUESTION: Please suggest content for the Problems section of the business model.\n\nWRITE your answer in PLASTILINN FORMAT, which consists of the text of the answer without any comments or similar, that closely adheres to the format and style of the plastilinn doc (taking the BLOCK EXAMPLE as a reference example of a properly formatted answer). In your response, each list component should begin with emoji and a '#tag', followed by the name, and then a line break followed by a description. This is an example of an answer for the company Space X, an aerospace manufacturer and space transportation company:\n\n\n--- BLOCK EXAMPLE START ---\n😟#problem Satellite Deployment\n\nClients needing to put a satellite into orbit face challenges with launch infrastructure, orbital placement accuracy, and costs. \n\n😟#problem Cost-effective Space Missions\n\nClients seek to minimize expenses for sending cargo or crew to space, demanding reliable yet affordable space transportation options.\n\n😟#problem Rapid Launch Scheduling\n\nSpace missions often face scheduling constraints due to limited launch windows and availability of launch vehicles.\n\n😟#problem Enhanced Payload Capabilities\n\nAgencies may require launching heavier or more complex payloads into orbit (larger satellites, space telescopes, or deep space probes).\n\n😟#problem Ride-share Opportunities\n\nSmaller satellites or missions with limited budgets could benefit from ride-share opportunities, where multiple payloads share a single launch to reduce costs.\n\n😟#problem Long-duration Missions and Deep Space Exploration\n\nBeyond Earth orbit, agencies might aim for missions to the Moon, Mars, or other celestial bodies.\n\n😟#problem In-orbit Services and Space Infrastructure\n\nAs space missions become more complex, the need for in-orbit services such as satellite servicing, refueling, or assembly grows.\n\n\n--- BLOCK EXAMPLE END ---\n\nCUSTOM INFO: Here's some information about the business:\r\n\r\n--- CUSTOM INFO START ---\r\n{DOC_STRING}\r\n--- CUSTOM INFO END ---\n\n"
+      "prompt": "As a business model design expert, you specialize in refining business models through detailed, specific feedback and brainstorming tailored to each business unique aspects. Your role is to assist in drafting a document that accurately describes a business model, focusing on clear, structured, and relevant advice. Your approach involves:\r\n  \r\n- Listening closely to understand the specifics of the business.\r\n- Providing concise, targeted guidance without unnecessary repetition or formalities.\r\n- Offering step-by-step feedback to ensure the document effectively captures the business model.\r\n- You focus on the client's needs and how to best articulate their business model.\n\nGOAL: Help the user write the Problems section of a document that describes his project business model based on CUSTOM INFO.\n\nQUESTION: Please suggest content for the Problems section of the business model.\n\nWRITE your answer in PLASTILINN FORMAT, which consists of the text of the answer without any comments or similar, that closely adheres to the format and style of the plastilinn doc (taking the BLOCK EXAMPLE as a reference example of a properly formatted answer). In your response, each list component should begin with emoji and a '#tag', followed by the name, and then a line break followed by a description. This is an example of an answer for the company Space X, an aerospace manufacturer and space transportation company:\n\n\n--- BLOCK EXAMPLE START ---\n😟#problem Need to launch a satellite into orbit\n\nThe services I offer to my customers rely heavily on satellite technology. I have a satellite that needs to be deployed soon to meet operational goals. Delays in launching could lead to disruptions in service delivery.\n\n😟#problem Limited budget\n\nI have a set financial limit for launching the satellite, and I need a cost-effective solution that doesn’t exceed my budget. This means I must balance quality and reliability with affordability when selecting a launch service.\n\n😟#problem Risk-averse approach to satellite deployment\n\nI want to minimize risks during the satellite launch and ensure the satellite reaches its intended orbit without issues. A failed launch would be costly and could harm my business operations or reputation.\n\n😟#problem Strict deadlines for satellite functionality\n\nThe satellite must be operational by a specific date, as it is part of a time-sensitive project. Delays in the launch or deployment could result in missed opportunities, fines, or client dissatisfaction.\n\n😟#problem Satellite Launch Coordination Complexity\n\nCoordinating the satellite launch with various stakeholders, such as satellite manufacturers, launch providers, and ground control teams, can be complex. Any misalignment in timing or communication could lead to delays or technical issues.\n\n\n--- BLOCK EXAMPLE END ---\n\nCUSTOM INFO: Here's some information about the business:\r\n\r\n--- CUSTOM INFO START ---\r\n{DOC_STRING}\r\n--- CUSTOM INFO END ---\n\n"
     },
     {
       "item": "Perceptions",
@@ -1796,7 +1798,7 @@
       "item": "Brochure",
       "caption": "🤖 Open AI and copy prompt",
       "url": "https://chatgpt.com/g/g-CqzH3wBOC-plastilinn-business-advisor",
-      "prompt": "As a business model design expert, you specialize in refining business models through detailed, specific feedback and brainstorming tailored to each business unique aspects. Your role is to assist in drafting a document that accurately describes a business model, focusing on clear, structured, and relevant advice. Your approach involves:\r\n  \r\n- Listening closely to understand the specifics of the business.\r\n- Providing concise, targeted guidance without unnecessary repetition or formalities.\r\n- Offering step-by-step feedback to ensure the document effectively captures the business model.\r\n- You focus on the client's needs and how to best articulate their business model.\n\nGOAL: Help the user write the Brochure section of a document that describes his project business model based on CUSTOM INFO.\n\nQUESTION: Please suggest content for the Brochure section of the business model.\n\nWRITE your answer in PLASTILINN FORMAT, which consists of the text of the answer without any comments or similar, that closely adheres to the format and style of the plastilinn doc (taking the BLOCK EXAMPLE as a reference example of a properly formatted answer). In your response, each list component should begin with emoji and a '#tag', followed by the name, and then a line break followed by a description. This is an example of an answer for the company Space X, an aerospace manufacturer and space transportation company:\n\n\n--- BLOCK EXAMPLE START ---\nImage:\n\n![spacex](https://cdn2.picryl.com/photo/2015/04/17/dragon-spacecraft-grappled-by-ssrms-ff9d6b-1024.jpg)\n\nTitle: \"SpaceX: Pioneering the Future of Space Travel\"\n\nSubtitle: \"Innovation, Reliability, and Sustainability Beyond Earth\"\n\nOur Mission and Vision:  \"At SpaceX, our mission is to make life multi-planetary. Founded by Elon Musk, we're driving the future of space exploration through cutting-edge technology and innovation. Our vision extends from enhancing satellite deployment capabilities to colonizing Mars, ensuring the long-term survival of humanity.\"\n\nSpace Launch Services: \"Offering reliable and cost-effective launch solutions for satellites and spacecraft, with capabilities ranging from low Earth orbit to interplanetary missions.\"\nSatellite Deployment: \"Precision deployment into desired orbits, leveraging our Falcon 9 and Falcon Heavy rockets.\"\nISS Resupply and Manned Missions: \"Critical supply missions and human-crewed journeys to the International Space Station, emphasizing safety and efficiency.\"\nAdvanced Technologies: \"Continuous innovation in rocket and spacecraft technologies, pushing the boundaries of what's possible.\"\nMars Colonization: \"Our long-term goal, developing the Starship for sustainable human life on Mars.\"\nInside Right Panel: Why Choose SpaceX?\n\nInnovative Launch Solutions: \"Revolutionizing space travel with our reusable rocket technology, significantly reducing costs.\"\nEnhanced Mission Flexibility: \"Offering tailored launch services with rapid turnaround capability.\"\nCollaborative Partnerships: \"Working hand-in-hand with space agencies to co-develop groundbreaking technologies.\"\nSustainable Exploration: \"Committed to minimizing environmental impact and ensuring a sustainable future for space travel.\"\n\nCall to Action: \"Join us in pioneering the next era of space exploration. Contact us to discuss how we can support your mission objectives.\"\n\nContact Information: \"Website: www.spacex.com | Email: contact@spacex.com | Phone: (123) 456-7890\"\n--- BLOCK EXAMPLE END ---\n\nCUSTOM INFO: Here's some information about the business:\r\n\r\n--- CUSTOM INFO START ---\r\n{DOC_STRING}\r\n--- CUSTOM INFO END ---\n\n"
+      "prompt": "#N/A"
     },
     {
       "item": "Marketing",
@@ -1976,7 +1978,7 @@
       "item": "Capital structure",
       "caption": "🤖 Open AI and copy prompt",
       "url": "https://chatgpt.com/g/g-CqzH3wBOC-plastilinn-business-advisor",
-      "prompt": "As a business model design expert, you specialize in refining business models through detailed, specific feedback and brainstorming tailored to each business unique aspects. Your role is to assist in drafting a document that accurately describes a business model, focusing on clear, structured, and relevant advice. Your approach involves:\r\n  \r\n- Listening closely to understand the specifics of the business.\r\n- Providing concise, targeted guidance without unnecessary repetition or formalities.\r\n- Offering step-by-step feedback to ensure the document effectively captures the business model.\r\n- You focus on the client's needs and how to best articulate their business model.\n\nGOAL: Help the user write the Capital structure section of a document that describes his project business model based on CUSTOM INFO.\n\nQUESTION: Please suggest content for the Capital structure section of the business model.\n\nWRITE your answer in PLASTILINN FORMAT, which consists of the text of the answer without any comments or similar, that closely adheres to the format and style of the plastilinn doc (taking the BLOCK EXAMPLE as a reference example of a properly formatted answer). In your response, each list component should begin with emoji and a '#tag', followed by the name, and then a line break followed by a description. This is an example of an answer for the company Space X, an aerospace manufacturer and space transportation company:\n\n\n--- BLOCK EXAMPLE START ---\n**SpaceX 2003 Cap Table**\n\n| **Shareholder**      | **Role**                   | **Ownership (%)** | **Shares**  |\n|----------------------|----------------------------|-------------------|-------------|\n| **Elon Musk**        | Founder, CEO               | 54%               | 5,400,000   |\n| **Early Investors**  | VC Firms, Angel Investors  | 30%               | 3,000,000   |\n| **Gwynne Shotwell**   | COO, Early Employee        | 10%               | 1,000,000   |\n| **Other Early Employees** | Engineers, Advisors   | 6%                | 600,000     |\n| **Total**            |                            | **100%**          | **10,000,000** |\n\n--- BLOCK EXAMPLE END ---\n\nCUSTOM INFO: Here's some information about the business:\r\n\r\n--- CUSTOM INFO START ---\r\n{DOC_STRING}\r\n--- CUSTOM INFO END ---\n\n"
+      "prompt": "#N/A"
     },
     {
       "item": "Cap table",
@@ -2090,19 +2092,7 @@
       "item": "experiment Name",
       "caption": "🤖 Open AI and copy prompt",
       "url": "https://chatgpt.com/g/g-CqzH3wBOC-plastilinn-business-advisor",
-      "prompt": "#N/A"
-    },
-    {
-      "item": "References",
-      "caption": "🤖 Open AI and copy prompt",
-      "url": "https://chatgpt.com/g/g-CqzH3wBOC-plastilinn-business-advisor",
-      "prompt": "As a business model design expert, you specialize in refining business models through detailed, specific feedback and brainstorming tailored to each business unique aspects. Your role is to assist in drafting a document that accurately describes a business model, focusing on clear, structured, and relevant advice. Your approach involves:\r\n  \r\n- Listening closely to understand the specifics of the business.\r\n- Providing concise, targeted guidance without unnecessary repetition or formalities.\r\n- Offering step-by-step feedback to ensure the document effectively captures the business model.\r\n- You focus on the client's needs and how to best articulate their business model.\n\nGOAL: Help the user write the References section of a document that describes his project business model based on CUSTOM INFO.\n\nQUESTION: Please suggest content for the References section of the business model.\n\nWRITE your answer in PLASTILINN FORMAT, which consists of the text of the answer without any comments or similar, that closely adheres to the format and style of the plastilinn doc (taking the BLOCK EXAMPLE as a reference example of a properly formatted answer). In your response, each list component should begin with emoji and a '#tag', followed by the name, and then a line break followed by a description. This is an example of an answer for the company Space X, an aerospace manufacturer and space transportation company:\n\n\n--- BLOCK EXAMPLE START ---\nHowell E. 2024 Jul 18. SpaceX launches to ISS are under independent NASA review after rare Falcon 9 rocket failure. Spacecom. [accessed 2024 Sep 12]. https://www.space.com/spacex-falcon-9-failure-nasa-independent-investigation.\nSpace Launch Report: SpaceX Falcon 9 Data Sheet Home On the Pad Space Logs Library Links. 2017. https://sma.nasa.gov/LaunchVehicle/assets/spacex-falcon-9-data-sheet.pdf.\n\n‌\n\n--- BLOCK EXAMPLE END ---\n\nCUSTOM INFO: Here's some information about the business:\r\n\r\n--- CUSTOM INFO START ---\r\n{DOC_STRING}\r\n--- CUSTOM INFO END ---\n\n"
-    },
-    {
-      "item": "Artifacts",
-      "caption": "🤖 Open AI and copy prompt",
-      "url": "https://chatgpt.com/g/g-CqzH3wBOC-plastilinn-business-advisor",
-      "prompt": "As a business model design expert, you specialize in refining business models through detailed, specific feedback and brainstorming tailored to each business unique aspects. Your role is to assist in drafting a document that accurately describes a business model, focusing on clear, structured, and relevant advice. Your approach involves:\r\n  \r\n- Listening closely to understand the specifics of the business.\r\n- Providing concise, targeted guidance without unnecessary repetition or formalities.\r\n- Offering step-by-step feedback to ensure the document effectively captures the business model.\r\n- You focus on the client's needs and how to best articulate their business model.\n\nGOAL: Help the user write the Artifacts section of a document that describes his project business model based on CUSTOM INFO.\n\nQUESTION: Please suggest content for the Artifacts section of the business model.\n\nWRITE your answer in PLASTILINN FORMAT, which consists of the text of the answer without any comments or similar, that closely adheres to the format and style of the plastilinn doc (taking the BLOCK EXAMPLE as a reference example of a properly formatted answer). In your response, each list component should begin with emoji and a '#tag', followed by the name, and then a line break followed by a description. This is an example of an answer for the company Space X, an aerospace manufacturer and space transportation company:\n\n\n--- BLOCK EXAMPLE START ---\n<h2>Business Model Canvas (🙎‍♂️#profile Main profile)</h2>\n<div id=\"business-model-canvas\" class=\"bg-gray-100 h-screen p-5\">\n    <div class=\"row-span-2 grid h-3/5 grid-cols-5 bg-white shadow-lg\">\n        <div class=\"row-span-2 border pl-2\">\n            <h3>Key Partners</h3>\n            <p>Strategic partnerships with NASA, government agencies, and commercial clients for satellite launches and space missions.</p>\n        </div>\n        <div class=\"row-span-1 border pl-2\">\n            <h3>Key Activities</h3>\n            <p>Development of reusable rocket technology and space systems aimed at reducing space travel costs and enabling Mars colonization.</p>\n        </div>\n        <div class=\"row-span-2 border pl-2\">\n            <h3>Value Propositions</h3>\n            <p>SpaceX offers innovative, reliable, and efficient space launch solutions with a long-term vision of human presence on Mars.</p>\n        </div>\n        <div class=\"border pl-2\">\n            <h3>Customer Relationships</h3>\n            <p>Close relationships with government agencies and commercial clients through long-term contracts and strategic partnerships.</p>\n        </div>\n        <div class=\"row-span-2 border pl-2\">\n            <h3>Customer Segments</h3>\n            <p>Space agencies, commercial telecom companies, and governments requiring satellite launch and space mission services.</p>\n        </div>\n        <div class=\"border pl-2\">\n            <h3>Key Resources</h3>\n            <p>Reusable rocket technology such as Falcon and Starship, manufacturing facilities, and launch centers.</p>\n        </div>\n        <div class=\"border pl-2\">\n            <h3>Channels</h3>\n            <p>Direct contracts with space agencies, collaboration agreements, and online platforms.</p>\n        </div>\n    </div>\n    <div class=\"grid h-52 grid-cols-2 bg-white shadow-lg\">\n        <div class=\"border pl-2\">\n            <h3>Cost structure</h3>\n            <p>Costs related to research and development of rocket technology, manufacturing, and maintaining launch operations.</p>\n        </div>\n        <div class=\"border pl-2\">\n            <h3>Revenue streams</h3>\n            <p>Revenue from launch services, the Starlink satellite internet service, and future space tourism projects.</p>\n        </div>\n    </div>\n</div>\n<h2>Value Proposition Canvas (🙎‍♂️#profile Main profile)</h2>\n<div id=\"value-proposition-canvas\" class=\"bg-gray-100 h-screen p-5\">\n    <div class=\"grid h-3/5 grid-cols-2 gap-4 bg-white shadow-lg p-5\">\n        <!-Customer Segment -->\n        <div class=\"border p-5\">\n            <h3>Customer Segment</h3>\n            <div class=\"border-t mt-3\">\n                <h4>Jobs</h4>\n                <p>Customers seek reliable and cost-effective space launch solutions for satellites, crewed missions, and space exploration.</p>\n            </div>\n            <div class=\"border-t mt-3\">\n                <h4>Pains</h4>\n                <p>High costs of space missions and difficulty accessing advanced space technology.</p>\n            </div>\n            <div class=\"border-t mt-3\">\n                <h4>Gains</h4>\n                <p>Lower space launch costs through reusable rockets and the potential to explore new commercial opportunities in space.</p>\n            </div>\n        </div>\n        <!-Value Proposition -->\n        <div class=\"border p-5\">\n            <h3>Value Proposition</h3>\n            <div class=\"border-t mt-3\">\n                <h4>Products & Services</h4>\n                <p>SpaceX offers launch services, satellite internet, space tourism, and space exploration missions.</p>\n            </div>\n            <div class=\"border-t mt-3\">\n                <h4>Pain Relievers</h4>\n                <p>SpaceX reduces costs and increases mission reliability through innovative, reusable rocket technology.</p>\n            </div>\n            <div class=\"border-t mt-3\">\n                <h4>Gain Creators</h4>\n                <p>SpaceX opens new possibilities for commercial and governmental space missions with lower costs and advanced technology.</p>\n            </div>\n        </div>\n    </div>\n</div>\n<h2>Empathy Map (🙎‍♂️#profile Main profile)</h2>\n<div id=\"empathy-map\" class=\"bg-gray-100 h-screen p-5\">\n    <div class=\"grid h-3/5 grid-cols-2 gap-4 bg-white shadow-lg p-5\">\n        <!-What Customer Thinks and Feels -->\n        <div class=\"border p-5\">\n            <h3>What the Customer Thinks and Feels</h3>\n            <p>The customers are excited about space exploration possibilities but are concerned about the costs and risks associated with space travel.</p>\n        </div>\n        <!-What Customer Sees -->\n        <div class=\"border p-5\">\n            <h3>What the Customer Sees</h3>\n            <p>They see a growing market of private space launches and competition between aerospace companies to innovate in reusable rocket technology.</p>\n        </div>\n        <!-What Customer Hears -->\n        <div class=\"border p-5\">\n            <h3>What the Customer Hears</h3>\n            <p>Customers hear about advancements in space technology, the colonization of Mars, and new commercial opportunities in Low Earth Orbit (LEO).</p>\n        </div>\n        <!-What Customer Says and Does -->\n        <div class=\"border p-5\">\n            <h3>What the Customer Says and Does</h3>\n            <p>They express interest in space exploration projects and seek partnerships with advanced tech companies for successful missions.</p>\n        </div>\n        <!-Pains -->\n        <div class=\"border p-5\">\n            <h3>Pains</h3>\n            <p>Worries about the high costs of space missions and the reliability of emerging technologies.</p>\n        </div>\n        <!-Gains -->\n        <div class=\"border p-5\">\n            <h3>Gains</h3>\n            <p>The opportunity to access space with significantly lower costs thanks to SpaceX's reusable rocket technology.</p>\n        </div>\n    </div>\n</div>\n--- BLOCK EXAMPLE END ---\n\nCUSTOM INFO: Here's some information about the business:\r\n\r\n--- CUSTOM INFO START ---\r\n{DOC_STRING}\r\n--- CUSTOM INFO END ---\n\n"
+      "prompt": ""
     },
     {
       "item": "Attachments",
@@ -2114,19 +2104,31 @@
       "item": "Artifacts",
       "caption": "Generate artifacts",
       "url": "https://chatgpt.com/",
-      "prompt": "\n\n\n\n\n\n\n\n<h2>Business Model Canvas (🙎‍♂️#profile Main profile)</h2>\n<div id=\"business-model-canvas\" class=\"bg-gray-100 h-screen p-5\">\n    <div class=\"row-span-2 grid h-3/5 grid-cols-5 bg-white shadow-lg\">\n        <div class=\"row-span-2 border pl-2\">\n            <h3>Key Partners</h3>\n            <p>Strategic partnerships with NASA, government agencies, and commercial clients for satellite launches and space missions.</p>\n        </div>\n        <div class=\"row-span-1 border pl-2\">\n            <h3>Key Activities</h3>\n            <p>Development of reusable rocket technology and space systems aimed at reducing space travel costs and enabling Mars colonization.</p>\n        </div>\n        <div class=\"row-span-2 border pl-2\">\n            <h3>Value Propositions</h3>\n            <p>SpaceX offers innovative, reliable, and efficient space launch solutions with a long-term vision of human presence on Mars.</p>\n        </div>\n        <div class=\"border pl-2\">\n            <h3>Customer Relationships</h3>\n            <p>Close relationships with government agencies and commercial clients through long-term contracts and strategic partnerships.</p>\n        </div>\n        <div class=\"row-span-2 border pl-2\">\n            <h3>Customer Segments</h3>\n            <p>Space agencies, commercial telecom companies, and governments requiring satellite launch and space mission services.</p>\n        </div>\n        <div class=\"border pl-2\">\n            <h3>Key Resources</h3>\n            <p>Reusable rocket technology such as Falcon and Starship, manufacturing facilities, and launch centers.</p>\n        </div>\n        <div class=\"border pl-2\">\n            <h3>Channels</h3>\n            <p>Direct contracts with space agencies, collaboration agreements, and online platforms.</p>\n        </div>\n    </div>\n    <div class=\"grid h-52 grid-cols-2 bg-white shadow-lg\">\n        <div class=\"border pl-2\">\n            <h3>Cost structure</h3>\n            <p>Costs related to research and development of rocket technology, manufacturing, and maintaining launch operations.</p>\n        </div>\n        <div class=\"border pl-2\">\n            <h3>Revenue streams</h3>\n            <p>Revenue from launch services, the Starlink satellite internet service, and future space tourism projects.</p>\n        </div>\n    </div>\n</div>\n<h2>Value Proposition Canvas (🙎‍♂️#profile Main profile)</h2>\n<div id=\"value-proposition-canvas\" class=\"bg-gray-100 h-screen p-5\">\n    <div class=\"grid h-3/5 grid-cols-2 gap-4 bg-white shadow-lg p-5\">\n        <!-Customer Segment -->\n        <div class=\"border p-5\">\n            <h3>Customer Segment</h3>\n            <div class=\"border-t mt-3\">\n                <h4>Jobs</h4>\n                <p>Customers seek reliable and cost-effective space launch solutions for satellites, crewed missions, and space exploration.</p>\n            </div>\n            <div class=\"border-t mt-3\">\n                <h4>Pains</h4>\n                <p>High costs of space missions and difficulty accessing advanced space technology.</p>\n            </div>\n            <div class=\"border-t mt-3\">\n                <h4>Gains</h4>\n                <p>Lower space launch costs through reusable rockets and the potential to explore new commercial opportunities in space.</p>\n            </div>\n        </div>\n        <!-Value Proposition -->\n        <div class=\"border p-5\">\n            <h3>Value Proposition</h3>\n            <div class=\"border-t mt-3\">\n                <h4>Products & Services</h4>\n                <p>SpaceX offers launch services, satellite internet, space tourism, and space exploration missions.</p>\n            </div>\n            <div class=\"border-t mt-3\">\n                <h4>Pain Relievers</h4>\n                <p>SpaceX reduces costs and increases mission reliability through innovative, reusable rocket technology.</p>\n            </div>\n            <div class=\"border-t mt-3\">\n                <h4>Gain Creators</h4>\n                <p>SpaceX opens new possibilities for commercial and governmental space missions with lower costs and advanced technology.</p>\n            </div>\n        </div>\n    </div>\n</div>\n<h2>Empathy Map (🙎‍♂️#profile Main profile)</h2>\n<div id=\"empathy-map\" class=\"bg-gray-100 h-screen p-5\">\n    <div class=\"grid h-3/5 grid-cols-2 gap-4 bg-white shadow-lg p-5\">\n        <!-What Customer Thinks and Feels -->\n        <div class=\"border p-5\">\n            <h3>What the Customer Thinks and Feels</h3>\n            <p>The customers are excited about space exploration possibilities but are concerned about the costs and risks associated with space travel.</p>\n        </div>\n        <!-What Customer Sees -->\n        <div class=\"border p-5\">\n            <h3>What the Customer Sees</h3>\n            <p>They see a growing market of private space launches and competition between aerospace companies to innovate in reusable rocket technology.</p>\n        </div>\n        <!-What Customer Hears -->\n        <div class=\"border p-5\">\n            <h3>What the Customer Hears</h3>\n            <p>Customers hear about advancements in space technology, the colonization of Mars, and new commercial opportunities in Low Earth Orbit (LEO).</p>\n        </div>\n        <!-What Customer Says and Does -->\n        <div class=\"border p-5\">\n            <h3>What the Customer Says and Does</h3>\n            <p>They express interest in space exploration projects and seek partnerships with advanced tech companies for successful missions.</p>\n        </div>\n        <!-Pains -->\n        <div class=\"border p-5\">\n            <h3>Pains</h3>\n            <p>Worries about the high costs of space missions and the reliability of emerging technologies.</p>\n        </div>\n        <!-Gains -->\n        <div class=\"border p-5\">\n            <h3>Gains</h3>\n            <p>The opportunity to access space with significantly lower costs thanks to SpaceX's reusable rocket technology.</p>\n        </div>\n    </div>\n</div>\n\n\n\n"
+      "prompt": "\n\n\n\n\n\n\n\n\n\n\n\n"
     },
     {
       "item": "Logo",
       "caption": "Generate logo",
       "url": "https://chatgpt.com/g/g-pCq5xaCri-logo",
-      "prompt": "Later in CUSTOM INFO, a business from an organization is described. Generate a logo for this company. The primary colors should be [specific colors, such as blue, green, etc.]. The style should be [minimalist, modern, elegant, classic, etc.], and the text should use a [serif, sans-serif, elegant, playful, etc.] font. The logo should convey [message or feeling you want to evoke, such as trust, energy, etc.]. Generate a logo in png format and ask the user if s/he wants to upload the image to imgur.\n\n\n\n![logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/SpaceX-Logo.svg/640px-SpaceX-Logo.svg.png)\nFor Space X, the logo is a stylized representation of the company's name, featuring a sleek and modern design. It incorporates the letter \"X\" in a unique way, symbolizing the company's focus on space exploration and innovation.\n\n"
+      "prompt": "Later in CUSTOM INFO, a business from an organization is described. Generate a logo for this company. The primary colors should be [specific colors, such as blue, green, etc.]. The style should be [minimalist, modern, elegant, classic, etc.], and the text should use a [serif, sans-serif, elegant, playful, etc.] font. The logo should convey [message or feeling you want to evoke, such as trust, energy, etc.]. Generate a logo in png format and ask the user if s/he wants to upload the image to imgur.\n\n\n\n![logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/SpaceX-Logo.svg/640px-SpaceX-Logo.svg.png)\nFor Space X, the logo is a stylized representation of the company's name, featuring a sleek and modern design. It incorporates the letter \"X\" in a unique way, symbolizing the company's focus on space exploration and innovation.\nCUSTOM INFO: Here's some information about the business:\r\n\r\n--- CUSTOM INFO START ---\r\n{DOC_STRING}\r\n--- CUSTOM INFO END ---\n"
     },
     {
       "item": "Persona",
       "caption": "Generate persona image",
       "url": "https://chatgpt.com/",
       "prompt": "Based on the \"Main profile - Persona\" section of the business mode described in CUSTOM INFO, generate a photographic portrait of the person described below, and add a link to download the image in png format:"
+    },
+    {
+      "item": "Business brochure",
+      "caption": "Generate website",
+      "url": "https://chatgpt.com/g/g-rLwPjHrHR-website",
+      "prompt": "\n\n\n\n\n\n\n\n[Space X brochure](https://www.Space X.com/media/Capabilities&Services.pdf)\n\nCUSTOM INFO: Here's some information about the business: --- CUSTOM INFO START --- {DOC_STRING} --- CUSTOM INFO END ---\n\n"
+    },
+    {
+      "item": "Solution brochure",
+      "caption": "",
+      "url": "",
+      "prompt": ""
     },
     {
       "item": "mission",
