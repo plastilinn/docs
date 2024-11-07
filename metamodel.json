@@ -611,17 +611,6 @@
       "example": ""
     },
     {
-      "name": "Opportunity",
-      "weight": "**",
-      "format": "text",
-      "id": "Opportunity",
-      "classes": "",
-      "definition": "An opportunity is a potential area for a business to generate revenue or create value for customers within its business model.",
-      "info": "https://xbokmd.github.io/plastilinn/raw.html#/docs/xBoK/sections/Opportunity",
-      "question": "If Opportunity is defined as :An opportunity is a potential area for a business to generate revenue or create value for customers within its business model., what could it be?",
-      "example": "The opportunity for Space X lies in the growing demand for space exploration, satellite deployment, and commercial space travel. By developing innovative and cost-effective solutions, Space X aims to disrupt the traditional space industry. Space X aims to capture a significant market share."
-    },
-    {
       "name": "Inspiration",
       "weight": "**",
       "format": "text",
@@ -631,6 +620,17 @@
       "info": "https://xbokmd.github.io/plastilinn/raw.html#/docs/xBoK/sections/Inspiration",
       "question": "If Inspiration is defined as :Inspiration in the context of a business model refers to the creative spark that drives innovative ideas and solutions., what could it be?",
       "example": "🦋#inspiration Science Fiction Literature\n\nThe works of science fiction authors like Isaac Asimov and Arthur C. Clarke, especially Clarke's novel \"2001: A Space Odyssey,\" have significantly influenced Elon Musk's vision of space exploration and colonization, fueling his ambition to make life multi-planetary.\n\n🦋#inspiration Historical Space Missions\n\nThe Apollo Moon missions, particularly Apollo 11, the first manned mission to land on the Moon in 1969, served as a monumental inspiration for SpaceX.\n\n🦋#inspiration Space Enthusiast Communities and Forums\n\nThe early online communities of space enthusiasts and forums discussing the possibilities of Mars colonization and rocket technologies provided a platform for Musk to connect with like-minded individuals.s.\n\n"
+    },
+    {
+      "name": "Opportunity",
+      "weight": "**",
+      "format": "text",
+      "id": "Opportunity",
+      "classes": "",
+      "definition": "An opportunity is a potential area for a business to generate revenue or create value for customers within its business model.",
+      "info": "https://xbokmd.github.io/plastilinn/raw.html#/docs/xBoK/sections/Opportunity",
+      "question": "If Opportunity is defined as :An opportunity is a potential area for a business to generate revenue or create value for customers within its business model., what could it be?",
+      "example": "The opportunity for Space X lies in the growing demand for space exploration, satellite deployment, and commercial space travel. By developing innovative and cost-effective solutions, Space X aims to disrupt the traditional space industry. Space X aims to capture a significant market share."
     },
     {
       "name": "Business status",
@@ -2122,7 +2122,7 @@
       "item": "Business brochure",
       "caption": "Generate website",
       "url": "https://chatgpt.com/g/g-rLwPjHrHR-website",
-      "prompt": "\n\n\n\n\n\n\n\n[Space X brochure](https://www.Space X.com/media/Capabilities&Services.pdf)\n\nCUSTOM INFO: Here's some information about the business: --- CUSTOM INFO START --- {DOC_STRING} --- CUSTOM INFO END ---\n\n"
+      "prompt": "Prompt for Creating or Adjusting a Website Based on Complete Business Information\n\nHere’s detailed information about the business and its goals. Take into account the following key aspects when creating or adjusting the website:\n\nColor Scheme and Visual Aesthetic:\n\nUse the colors and elements from the Visual Identity section. Ensure the design reflects the brand identity, applying specific tones (e.g., monochromatic hues, bronze accents, or other indicated colors).\nPage Structure and Information Hierarchy:\n\nBased on the Business Summary and Value Proposition sections, structure the site to highlight key services, with clear calls-to-action and impactful messaging that communicates the value proposition.\nContent and Key Messages:\n\nInclude the main messages from the Business Summary and Messages sections, using specific phrases (e.g., “Don’t study history. Live it!”).\nMission, Vision, Values, and Competitive Differentiators:\n\nEmphasize the company's mission and vision from the Business Objectives section, and highlight the competitive advantages of the product (such as immersive experience and historical accuracy).\nTarget Audience and Segmentation:\n\nFocus content to attract the indicated segments, such as historians, academic institutions, and high-net-worth individuals seeking exclusive experiences (see Segments and Personas).\nProduct Features and Technology:\n\nIn the services page, detail the technological and safety features of the time machine, using the Features section to describe its precision, temporal navigation, and safety protocols.\nContact Information and Communication Channels:\n\nAdd contact information from the Contact Information section, including a contact form for easy inquiries, demos, and bookings.\n\n\n\n\n\n\n\n[Space X brochure](https://www.Space X.com/media/Capabilities&Services.pdf)\n\nCUSTOM INFO: Here's some information about the business: --- CUSTOM INFO START --- {DOC_STRING} --- CUSTOM INFO END ---\n\n"
     },
     {
       "item": "Solution brochure",
