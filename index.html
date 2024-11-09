@@ -14,53 +14,76 @@
 <body>
   <div id="app"></div>
 
-  <!-- Inicialización de Google Analytics 4 -->
+  <!-- Cargar Google Analytics 4 -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-5GZQW7B3NW"></script>
   <script>
-    // Inicializar Google Analytics 4
     console.log("Inicializando Google Analytics 4");
     window.dataLayer = window.dataLayer || [];
     function gtag() { dataLayer.push(arguments); }
     gtag('js', new Date());
     gtag('config', 'G-5GZQW7B3NW', { 'debug_mode': true });
-    console.log("Google Analytics configurado correctamente");
+    console.log("Google Analytics configurado");
 
     // Función para obtener parámetros de la URL
     function getQueryParam(param) {
       const urlParams = new URLSearchParams(window.location.search);
       const value = urlParams.get(param);
-      console.log(`Valor obtenido para ${param}: ${value}`);
+      console.log(`Parámetro ${param}: ${value}`);
       return value;
     }
 
-    // Obtener los valores de `user` y `page`
+    // Obtener los parámetros `user` y `page`
     const userHash = getQueryParam('user');
     const pageParam = getQueryParam('page');
 
-    // Verificar si los parámetros están presentes
-    if (!userHash) {
-      console.error("El parámetro 'user' no está presente en la URL.");
-    } else {
+    // Validar la obtención de parámetros
+    if (userHash) {
       console.log(`userHash: ${userHash}`);
+    } else {
+      console.warn("El parámetro 'user' no está presente en la URL.");
     }
 
-    if (!pageParam) {
-      console.error("El parámetro 'page' no está presente en la URL.");
-    } else {
+    if (pageParam) {
       console.log(`pageParam: ${pageParam}`);
+    } else {
+      console.warn("El parámetro 'page' no está presente en la URL.");
     }
 
-    // Enviar un evento personalizado con `user` y `page`
-    if (userHash && pageParam) {
-      gtag('event', 'page_visit', {
-        'user_id': userHash,
-        'page_name': pageParam,
-        'page_url': window.location.href
-      });
-      console.log(`Evento 'page_visit' enviado: user_id=${userHash}, page_name=${pageParam}`);
-    } else {
-      console.error("No se enviará el evento 'page_visit' porque faltan parámetros.");
-    }
+    // Esperar a que Google Analytics esté listo antes de enviar el evento
+    window.addEventListener('load', () => {
+      console.log("Página cargada. Preparando envío de eventos...");
+
+      // Enviar evento personalizado `page_visit` solo si ambos parámetros están presentes
+      if (userHash && pageParam) {
+        gtag('event', 'page_visit', {
+          'user_id': userHash,
+          'page_name': pageParam,
+          'page_url': window.location.href
+        });
+        console.log(`Evento 'page_visit' enviado: user_id=${userHash}, page_name=${pageParam}`);
+      } else {
+        console.error("No se enviará el evento 'page_visit' porque faltan parámetros.");
+      }
+    });
+
+    // Manejo de cambios de página en Docsify
+    window.$docsify = {
+      plugins: [
+        (hook, vm) => {
+          hook.doneEach(() => {
+            const currentPage = vm.route.path;
+            console.log('Página actual:', currentPage);
+
+            // Enviar evento `virtual_pageview`
+            gtag('event', 'virtual_pageview', {
+              'page_path': currentPage,
+              'page_title': document.title
+            });
+            console.log('Evento virtual_pageview enviado:', currentPage);
+          });
+        }
+      ]
+    };
   </script>
 
   <!-- Scripts de Docsify -->
