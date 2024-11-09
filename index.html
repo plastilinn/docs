@@ -22,7 +22,6 @@
     function gtag() { dataLayer.push(arguments); }
     gtag('js', new Date());
     gtag('config', 'G-5GZQW7B3NW', { 'debug_mode': true });
-    console.log("Google Analytics configurado");
 
     // Función para obtener parámetros de la URL incluyendo el fragmento (#)
     function getQueryParam(param) {
@@ -40,7 +39,7 @@
 
     // Validar la obtención de parámetros
     if (userHash) {
-      console.log(`userHash: ${userHash}`);
+      console.log(`Hash: ${userHash}`);
     } else {
       console.warn("El parámetro 'user' no está presente en la URL.");
     }
@@ -58,11 +57,11 @@
       // Enviar evento personalizado `page_visit` solo si ambos parámetros están presentes
       if (userHash && pageParam) {
         gtag('event', 'page_visit', {
-          'user_id': userHash,
+          'hash': userHash,
           'page_name': pageParam,
           'page_url': window.location.href
         });
-        console.log(`Evento 'page_visit' enviado: user_id=${userHash}, page_name=${pageParam}`);
+        console.log(`Evento 'page_visit' enviado: hash=${userHash}, page_name=${pageParam}`);
       } else {
         console.error("No se enviará el evento 'page_visit' porque faltan parámetros.");
       }
