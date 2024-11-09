@@ -33,15 +33,15 @@
       return value;
     }
 
-    // Obtener los valores de `user` y `page`
-    const userHash = getQueryParam('user');
+    // Obtener los valores de `hash` y `page`
+    const userHash = getQueryParam('hash');
     const pageParam = getQueryParam('page');
 
     // Validar la obtención de parámetros
     if (userHash) {
-      console.log(`Hash: ${userHash}`);
+      console.log(`userHash (hash): ${userHash}`);
     } else {
-      console.warn("El parámetro 'user' no está presente en la URL.");
+      console.warn("El parámetro 'hash' no está presente en la URL.");
     }
 
     if (pageParam) {
