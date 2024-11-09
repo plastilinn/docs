@@ -17,21 +17,10 @@
   <link rel="stylesheet" href="logsify.css">
 </head>
 
-<!-- Google Tag Manager -->
-<script>
-  (function (w, d, s, l, i) {
-    w[l] = w[l] || []; w[l].push({
-      'gtm.start':
-        new Date().getTime(), event: 'gtm.js'
-    }); var f = d.getElementsByTagName(s)[0],
-      j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
-        'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
-  })(window, document, 'script', 'dataLayer', 'GTM-NJPKPLW8'); // Reemplaza 'GTM-XXXXXXX' con tu ID
-</script>
-<!-- End Google Tag Manager -->
-
 <body>
   <div id="app"></div>
+
+  <!-- Configuración de Docsify -->
   <script>
     window.$docsify = {
       name: 'title',
@@ -44,78 +33,27 @@
       loadNavbar: true,
       relativePath: false,
       ga: 'UA-XXXXX-Y',
-    }
+    };
   </script>
-  <!-- Docsify v4 -->
+
+  <!-- Scripts de Docsify -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify-wikilink@1"></script>
   <script src="https://unpkg.com/docsify-betterembed@1.1.1/dist/betterEmbed.min.js"></script>
+
+  <!-- Integración de Google Analytics 4 (sin Tag Manager) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-5GZQW7B3NW"></script>
   <script>
-    // Asegúrate de que el dataLayer esté disponible
+    // Inicializar Google Analytics 4
     window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
 
-    // Detecta cambios de página en Docsify
-    window.$docsify.plugins = [].concat((hook, vm) => {
-      hook.doneEach(() => {
-        const currentPage = vm.route.path;
-        console.log('Página actual:', currentPage);
+    // Configuración de Google Analytics
+    gtag('config', 'G-5GZQW7B3NW', {
+      'debug_mode': true
+    });
 
-        // Envía evento al dataLayer
-        window.dataLayer.push({
-          event: 'virtual_pageview',
-          page_path: currentPage,
-          page_title: document.title
-        });
-        console.log('Evento de página virtual enviado:', currentPage);
-      });
-    }, window.$docsify.plugins);
-  </script>
-  <script>
-    // Asegúrate de que el dataLayer esté disponible
-    window.dataLayer = window.dataLayer || [];
-
-    // Detecta cambios de página en Docsify
-    window.$docsify.plugins = [].concat((hook, vm) => {
-      hook.doneEach(() => {
-        const currentPage = vm.route.path;
-        console.log('Página actual:', currentPage);
-
-        // Envía evento al dataLayer
-        window.dataLayer.push({
-          event: 'virtual_pageview',
-          page_path: currentPage,
-          page_title: document.title
-        });
-        console.log('Evento de página virtual enviado:', currentPage);
-      });
-    }, window.$docsify.plugins);
-  </script>
-  <!-- Google Tag Manager (noscript) -->
-  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NJPKPLW8" height="0" width="0"
-      style="display:none;visibility:hidden"></iframe></noscript>
-  <!-- End Google Tag Manager (noscript) -->
-  <script>
-    // Asegúrate de que el dataLayer esté disponible
-    window.dataLayer = window.dataLayer || [];
-
-    // Detecta cambios de página en Docsify
-    window.$docsify.plugins = [].concat((hook, vm) => {
-      hook.doneEach(() => {
-        const currentPage = vm.route.path;
-        console.log('Página actual:', currentPage);
-
-        // Envía evento al dataLayer
-        window.dataLayer.push({
-          event: 'virtual_pageview',
-          page_path: currentPage,
-          page_title: document.title
-        });
-        console.log('Evento de página virtual enviado:', currentPage);
-      });
-    }, window.$docsify.plugins);
-  </script>
-
-  <script>
     // Función para obtener parámetros de la URL
     function getQueryParam(param) {
       const urlParams = new URLSearchParams(window.location.search);
@@ -125,15 +63,6 @@
     // Obtener los valores de `user` y `page`
     const userHash = getQueryParam('user');
     const pageParam = getQueryParam('page');
-
-    // Inicializar Google Analytics 4
-    window.gtag = window.gtag || function () { (window.dataLayer = window.dataLayer || []).push(arguments); };
-    gtag('js', new Date());
-
-    // Configura tu ID de propiedad de Google Analytics 4 (reemplaza `G-XXXXXXXXXX`)
-    gtag('config', 'G-5GZQW7B3NW', {
-      'user_id': userHash
-    });
 
     // Enviar un evento personalizado con `user` y `page`
     if (userHash && pageParam) {
@@ -146,8 +75,22 @@
     }
   </script>
 
+  <!-- Scripts adicionales para manejo de página -->
+  <script>
+    window.$docsify.plugins = [].concat((hook, vm) => {
+      hook.doneEach(() => {
+        const currentPage = vm.route.path;
+        console.log('Página actual:', currentPage);
 
+        // Enviar evento de cambio de página
+        gtag('event', 'virtual_pageview', {
+          'page_path': currentPage,
+          'page_title': document.title
+        });
+        console.log('Evento de virtual_pageview enviado:', currentPage);
+      });
+    }, window.$docsify.plugins);
+  </script>
 </body>
-
 
 </html>
