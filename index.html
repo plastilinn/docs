@@ -114,6 +114,39 @@
       });
     }, window.$docsify.plugins);
   </script>
+
+  <script>
+    // Función para obtener parámetros de la URL
+    function getQueryParam(param) {
+      const urlParams = new URLSearchParams(window.location.search);
+      return urlParams.get(param);
+    }
+
+    // Obtener los valores de `user` y `page`
+    const userHash = getQueryParam('user');
+    const pageParam = getQueryParam('page');
+
+    // Inicializar Google Analytics 4
+    window.gtag = window.gtag || function () { (window.dataLayer = window.dataLayer || []).push(arguments); };
+    gtag('js', new Date());
+
+    // Configura tu ID de propiedad de Google Analytics 4 (reemplaza `G-XXXXXXXXXX`)
+    gtag('config', 'G-XXXXXXXXXX', {
+      'user_id': userHash
+    });
+
+    // Enviar un evento personalizado con `user` y `page`
+    if (userHash && pageParam) {
+      gtag('event', 'page_visit', {
+        'user_id': userHash,
+        'page_name': pageParam,
+        'page_url': window.location.href
+      });
+      console.log(`Evento enviado: user_id=${userHash}, page_name=${pageParam}`);
+    }
+  </script>
+
+
 </body>
 
 
