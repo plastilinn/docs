@@ -14,7 +14,7 @@
 <body>
   <div id="app"></div>
 
-  <!-- Cargar Google Analytics 4 -->
+  <!-- Inicialización de Google Analytics 4 -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-5GZQW7B3NW"></script>
   <script>
     console.log("Inicializando Google Analytics 4");
@@ -24,15 +24,17 @@
     gtag('config', 'G-5GZQW7B3NW', { 'debug_mode': true });
     console.log("Google Analytics configurado");
 
-    // Función para obtener parámetros de la URL
+    // Función para obtener parámetros de la URL incluyendo el fragmento (#)
     function getQueryParam(param) {
-      const urlParams = new URLSearchParams(window.location.search);
+      const hash = window.location.hash.split('?')[1];
+      if (!hash) return null;
+      const urlParams = new URLSearchParams(hash);
       const value = urlParams.get(param);
       console.log(`Parámetro ${param}: ${value}`);
       return value;
     }
 
-    // Obtener los parámetros `user` y `page`
+    // Obtener los valores de `user` y `page`
     const userHash = getQueryParam('user');
     const pageParam = getQueryParam('page');
 
@@ -65,25 +67,6 @@
         console.error("No se enviará el evento 'page_visit' porque faltan parámetros.");
       }
     });
-
-    // Manejo de cambios de página en Docsify
-    window.$docsify = {
-      plugins: [
-        (hook, vm) => {
-          hook.doneEach(() => {
-            const currentPage = vm.route.path;
-            console.log('Página actual:', currentPage);
-
-            // Enviar evento `virtual_pageview`
-            gtag('event', 'virtual_pageview', {
-              'page_path': currentPage,
-              'page_title': document.title
-            });
-            console.log('Evento virtual_pageview enviado:', currentPage);
-          });
-        }
-      ]
-    };
   </script>
 
   <!-- Scripts de Docsify -->
