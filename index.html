@@ -50,10 +50,71 @@
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify-wikilink@1"></script>
   <script src="https://unpkg.com/docsify-betterembed@1.1.1/dist/betterEmbed.min.js"></script>
+  <script>
+    // Asegúrate de que el dataLayer esté disponible
+    window.dataLayer = window.dataLayer || [];
+
+    // Detecta cambios de página en Docsify
+    window.$docsify.plugins = [].concat((hook, vm) => {
+      hook.doneEach(() => {
+        const currentPage = vm.route.path;
+        console.log('Página actual:', currentPage);
+
+        // Envía evento al dataLayer
+        window.dataLayer.push({
+          event: 'virtual_pageview',
+          page_path: currentPage,
+          page_title: document.title
+        });
+        console.log('Evento de página virtual enviado:', currentPage);
+      });
+    }, window.$docsify.plugins);
+  </script>
+  <script>
+    // Asegúrate de que el dataLayer esté disponible
+    window.dataLayer = window.dataLayer || [];
+
+    // Detecta cambios de página en Docsify
+    window.$docsify.plugins = [].concat((hook, vm) => {
+      hook.doneEach(() => {
+        const currentPage = vm.route.path;
+        console.log('Página actual:', currentPage);
+
+        // Envía evento al dataLayer
+        window.dataLayer.push({
+          event: 'virtual_pageview',
+          page_path: currentPage,
+          page_title: document.title
+        });
+        console.log('Evento de página virtual enviado:', currentPage);
+      });
+    }, window.$docsify.plugins);
+  </script>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NJPKPLW8" height="0" width="0"
+      style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  <script>
+    // Asegúrate de que el dataLayer esté disponible
+    window.dataLayer = window.dataLayer || [];
+
+    // Detecta cambios de página en Docsify
+    window.$docsify.plugins = [].concat((hook, vm) => {
+      hook.doneEach(() => {
+        const currentPage = vm.route.path;
+        console.log('Página actual:', currentPage);
+
+        // Envía evento al dataLayer
+        window.dataLayer.push({
+          event: 'virtual_pageview',
+          page_path: currentPage,
+          page_title: document.title
+        });
+        console.log('Evento de página virtual enviado:', currentPage);
+      });
+    }, window.$docsify.plugins);
+  </script>
 </body>
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NJPKPLW8" height="0" width="0"
-    style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+
 
 </html>
