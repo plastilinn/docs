@@ -1,4 +1,6 @@
-# Markers
+
+
+
 
 ## ➕weight
 
@@ -130,7 +132,7 @@ This marker assesses the relevance of each block to the business model. Understa
 * 🎙️#channel Well-established online sales 🔴1 (High audience reach)
 * 💊#solution Flexible and adaptable product 🔴1 (Easy to modify)
 
-## Advanced
+
 
 ## ✔️completion
 
@@ -179,3 +181,21 @@ This marker assesses the relevance of each block to the business model. Understa
 ## ▶️journey
 
 This marker assesses the relevance of each block to the business model. Understanding the weight of each aspect helps prioritize areas that are crucial for the business's foundation, ensuring core elements are stable and impactful.
+
+* Where is this block positioned within the customer journey?
+* Does it relate to the early stages of engagement or to ongoing support?
+* Is this element critical at a particular point in the journey?
+
+**High Score (5) Examples**
+
+* 🎙️#channel Blog posts ▶️5 (Supporting material for awareness phase)
+* 💊#solution FAQ section ▶️5 (Useful but not critical in initial engagement)
+* 💰#revenue One-time purchases ▶️5 (Limited to specific customer journey phases)
+
+**Low Score (1) Examples**
+
+* 💰#revenue Initial consultation ▶️1 (First touchpoint with clients)
+* 🎙️#channel Customer onboarding ▶️1 (Essential for retention)
+* 💊#solution Ongoing support service ▶️1 (Key for long-term engagement)
+
+

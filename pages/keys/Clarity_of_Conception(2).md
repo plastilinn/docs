@@ -12,6 +12,3 @@
     - Assess the effectiveness and coherence of the vision statement and consider its potential for guiding and aligning the organization.
 
 
-docs\xBoK\classes\xBoK_class_list_items.md
-
-
