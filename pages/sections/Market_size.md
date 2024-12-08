@@ -3,32 +3,32 @@
 
 
 ## 🔍 Definition
-Size of a market in which the number of actors is involved. It exists in it and above all the amount of money that is involved. In transactions between suppliers and customers
+Size of a market in which the number of actors is involved. It exists in it and above all the amount of money that is involved in transactions between suppliers and customers
 
 
 ## 📹 Internet info and videos
 🤖 [Search info and videos about Market size using AI](https://www.perplexity.ai/search?q=videos+about+Market+size:+Size+of+a+market+in+which+the+number+of+actors+is+involved.+That+exist+in+it+and+above+all+the+amount+of+money+that+is+moved.+In+transactions+between+suppliers+and+customers
-)&
+)
 
 ## 📰 Content type 
 Content is of type text
 
 ## 📖 Description
-the concept of "segment/market size" refers to the identification and quantification of a specific group of potential customers within a market that a company aims to reach with its products or services. This segment is typically defined by certain characteristics such as age, income, geography, or behavior, which the company believes will make these customers more likely to purchase its offerings.
+the concept of "market size" refers to the identification and quantification of a specific group of potential customers (segment) within a market that a company aims to reach with its products or services. This segment is typically defined by certain characteristics (segmentation criteria) such as age, income, geography, or behavior, which the company believes will make these customers more likely to purchase its offerings.
 
 The market size, on the other hand, is the total number of potential customers or the total revenue potential within the identified segment. It provides an estimate of the maximum potential that a business can hope to achieve if it were to capture the entire market segment.
 
 For example, a company that produces organic baby food might identify its market segment as health-conscious parents of infants and toddlers. The market size would then be determined by the total number of such parents, or alternatively, the total amount they spend on baby food annually.
 
-The concept of "segment/market size" is crucial in business modeling as it helps a company to focus its resources on the most promising customers, tailor its offerings to meet their specific needs, and estimate the potential revenue it can generate. It is a fundamental aspect of business design, shaping the company's marketing strategy, product development, and overall business strategy. It influences how the company positions itself in the market, competes with other businesses, and achieves its financial goals.
+The concept of "market size" is crucial in business modeling as it helps a company to focus its resources on the most promising customers, tailor its offerings to meet their specific needs, and estimate the potential revenue it can generate. It is a fundamental aspect of business design, shaping the company's marketing strategy, product development, and overall business strategy. It influences how the company positions itself in the market, competes with other businesses, and achieves its financial goals.
 
 ## 👉 Example (SpaceX)
 
-**Total Addressable Market (TAM)**
+Total Addressable Market (TAM)
 
 SpaceX's TAM encompasses the entire global satellite launch vehicle market, which was valued at USD 16.3 billion in 2023 `[Ken research report]`. This includes all potential revenue from government, commercial, and scientific satellite launches worldwide.
 
-**Serviceable Addressable Market (SAM)**
+Serviceable Addressable Market (SAM)
 
 SpaceX's SAM is more focused on the segments it can realistically serve with its current capabilities and business model. This includes:
 
@@ -38,9 +38,9 @@ SpaceX's SAM is more focused on the segments it can realistically serve with its
 
 A significant portion of SpaceX's SAM comes from the U.S. government contracts. For instance, SpaceX was selected along with Blue Origin and United Launch Alliance for the National Security Space Launch Phase 3 program, with contracts potentially worth $5.6 billion over five years `[Ken research report]`.
 
-**Serviceable Obtainable Market (SOM)**
+Serviceable Obtainable Market (SOM)
 
-SpaceX's SOM represents the portion of the market it can realistically capture in the near term. While exact figures are not publicly available, we can estimate based on SpaceX's achievements and market position:
+SpaceX's SOM represents the portion of the market it can realistically capture in the near term. Figures are not publicly available:
 
 * SpaceX has become a dominant player in the commercial launch market, with its reusable Falcon 9 rocket significantly reducing launch costs.  
 * The company has secured major contracts, such as NASA's Human Landing System for the Artemis program.

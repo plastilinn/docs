@@ -8,14 +8,14 @@ A profile/transaction refers to the collection of data and activities associated
 
 ## 📹 Internet info and videos
 🤖 [Search info and videos about Transactions using AI](https://www.perplexity.ai/search?q=videos+about+Transactions:+
-)&
+)
 
 ## 📰 Content type (#transaction)
 Content is of type list and uses the following tags: #transaction
 
 
 ## 📖 Description
-The concept of "profile/transactions" in business modeling refers to the collection of data and activities associated with a specific customer or business transaction. This concept is crucial in understanding and managing the interactions between a business and its customers or partners.
+The concept of "transactions" in business modeling refers to the collection of data and activities associated with a specific customer or business transaction. This concept is crucial in understanding and managing the interactions between a business and its customers or partners.
 
 In this model, a profile represents a unique identifier for a customer or a transaction. This could be a customer's account number, a transaction ID, or any other unique identifier. This profile is used to track, manage, and analyze all the transactions associated with that particular customer or transaction.
 
@@ -25,7 +25,7 @@ For example, in a retail business, the profile could be the customer's account n
 
 In a supply chain business, the profile could be a transaction ID, and the transactions could include the ordering, delivery, and payment activities between the business and its suppliers or customers. The business can use this data to manage its supply chain operations, improve its efficiency, and reduce its costs.
 
-In essence, the profile/transactions model is a powerful tool for businesses to manage their operations, understand their customers, and drive their performance. It is a key component of business design and a critical driver of business success.
+In essence, the transactions model is a powerful tool for businesses to manage their operations, understand their customers, and drive their performance. It is a key component of business design and a critical driver of business success.
 
 ## 👉 Example (SpaceX)
 

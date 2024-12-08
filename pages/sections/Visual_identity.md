@@ -8,7 +8,7 @@ the overall look and feel of a company's brand, including its logo, color scheme
 
 ## 📹 Internet info and videos
 🤖 [Search info and videos about Visual identity using AI](https://www.perplexity.ai/search?q=videos+about+Visual+identity:+the+overall+look+and+feel+of+a+company's+brand,+including+its+logo,+color+scheme,+typography,+and+other+visual+elements.
-)&
+)
 
 ## 📰 Content type 
 Content is of type text
@@ -26,14 +26,15 @@ In conclusion, the "Visual Identity" concept in business modeling is essential a
 
 ## 👉 Example (SpaceX)
 
-Color scheme
-Space X's visual identity is characterized by a predominantly black and white color scheme, with occasional use of red and silver accents. The black and white colors convey a sense of sophistication and modernity, while the red and silver accents add a touch of energy and futuristic appeal.
+Color Scheme  
+Space X's visual identity is characterized by a predominantly **black (#000000)** and **white (#FFFFFF)** color scheme, with occasional use of **red (#FF0000)** and **silver (#C0C0C0)** accents. The black and white colors convey a sense of sophistication and modernity, while the red and silver accents add a touch of energy and futuristic appeal.
 
-Typography
-Space X uses a clean and modern typeface for its branding materials, with a preference for sans-serif fonts. The typography is typically bold and easily readable, reflecting the company's commitment to clarity and professionalism.
+Typography  
+Space X uses a clean and modern typeface for its branding materials, with a preference for sans-serif fonts like **"Roboto"** or **"Helvetica Neue"**. The typography is typically bold and easily readable, reflecting the company's commitment to clarity and professionalism.
 
-Imagery
-Space X's visual identity often incorporates imagery related to space exploration, such as rockets, satellites, and astronauts.
+Imagery  
+Space X's visual identity often incorporates imagery related to space exploration, such as rockets, satellites, and astronauts. This reinforces its pioneering spirit and focus on innovation.
+
 
 ## 🔑 Keys
 

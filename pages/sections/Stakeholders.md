@@ -8,7 +8,7 @@ A stakeholder in business is any individual or group with an interest in or infl
 
 ## 📹 Internet info and videos
 🤖 [Search info and videos about Stakeholders using AI](https://www.perplexity.ai/search?q=videos+about+Stakeholders:+Market+segments+are+groups+of+customers+with+similar+needs,+behaviors,+or+characteristics+that+a+business+targets+with+its+products+or+services.
-)&
+)
 
 ## 📰 Content type (#stakeholder)
 Content is of type text and uses the following tags: #stakeholder
@@ -37,7 +37,7 @@ Stakeholder management involves analyzing the level of interest and influence of
 
 ## 👉 Example (SpaceX)
 
-🤔#stakeholder Satellite Launch Customers
+🤔#stakeholder Satellite Launch Customers #customer
 
 Commercial and government organizations that require satellite launch services. They are looking for a reliable and cost-effective platform to deploy their satellites and enhance their communication and Earth observation capabilities.
 

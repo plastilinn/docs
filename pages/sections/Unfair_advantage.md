@@ -8,7 +8,7 @@ Unfair advantage refers to a unique and difficult-to-replicate attribute or stra
 
 ## 📹 Internet info and videos
 🤖 [Search info and videos about Unfair advantage using AI](https://www.perplexity.ai/search?q=videos+about+Unfair+advantage:+
-)&
+)
 
 ## 📰 Content type 
 Content is of type text

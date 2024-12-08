@@ -3,30 +3,24 @@
 
 
 ## 🔍 Definition
-Objectives are the specific goals or targets that a business model aims to achieve in order to create value for its stakeholders.
+Business objectives are the targets that a business model aims to achieve in order to create value for its stakeholders.
 
 
 ## 📹 Internet info and videos
 🤖 [Search info and videos about Business objectives using AI](https://www.perplexity.ai/search?q=videos+about+Business+objectives:+Objectives+are+the+specific+goals+or+targets+that+a+business+model+aims+to+achieve+in+order+to+create+value+for+its+stakeholders.
-)&
+)
 
 ## 📰 Content type 
-Content is of type text
+Content is of type category
 
 ## 📖 Description
-the concept of "business objectives" refers to the specific, measurable goals that a company sets out to achieve in a certain period of time. These objectives are the driving force behind all business decisions, providing a clear direction and focus for the company. They are typically aligned with the company's overall mission and vision, and are used to guide the development of strategies and action plans.
-
-Business objectives can cover a wide range of areas, including financial performance, customer satisfaction, market share, product development, and employee engagement, among others. They are usually quantifiable and time-bound, allowing the company to track its progress and measure its success in achieving these goals.
-
-For example, a business objective for a retail company might be "to increase sales by 10% over the next fiscal year." This objective is specific (increase sales), measurable (by 10%), and time-bound (over the next fiscal year). It provides a clear direction for the company and can guide the development of strategies and action plans, such as launching new products, expanding into new markets, or improving customer service.
+The concept of "business objectives" refers to the high level goals that a company sets out to achieve in a certain period of time. These objectives are the driving force behind all business decisions, providing a clear direction and focus for the company. They are typically aligned with the company's overall mission and vision, and are used to guide the development of strategies and action plans.
 
 In essence, the concept of "business objectives" in business modeling is about setting clear, measurable goals that guide the company's actions and decisions. It is a critical element in business design, providing a clear direction for the company and shaping the development of its strategies and operations.
 
 ## 👉 Example (SpaceX)
 
-* Revolutionize space technology and make space travel more accessible and affordable
-* Develop reusable rockets and spacecraft to reduce the cost of space missions
-* Establish a sustainable presence on Mars and enable human colonization
+
 
 ## 🔑 Keys
 

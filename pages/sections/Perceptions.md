@@ -8,40 +8,38 @@ Signals that our stakeholders receive... that generate some kind of emotion for 
 
 ## 📹 Internet info and videos
 🤖 [Search info and videos about Perceptions using AI](https://www.perplexity.ai/search?q=videos+about+Perceptions:+Signals+that+our+stakeholders+receive...that+generate+some+type+of+emotion+for+them
-)&
+)
 
 ## 📰 Content type (#perception)
 Content is of type list and uses the following tags: #perception
 
 
 ## 📖 Description
-the concept of "profile/perceptions" refers to the understanding and interpretation of a specific group of customers, users, or stakeholders based on their individual profiles. This concept goes beyond the mere collection of demographic or psychographic characteristics, and delves into how these individuals perceive a product, service, or the company itself.
+the concept of "perceptions" refers to the understanding and interpretation of a specific group of customers, users, or stakeholders based on their individual profiles. This concept goes beyond the mere collection of demographic or psychographic characteristics, and delves into how these individuals perceive a product, service, or the company itself.
 
-The "profile/perceptions" concept involves gathering and analyzing data on how the target audience perceives the value, quality, and relevance of a product or service. It also includes their perceptions of the company's brand, reputation, and customer service. This information is often collected through surveys, interviews, focus groups, social media monitoring, and other forms of market research.
+The "perceptions" concept involves gathering and analyzing data on how the target audience perceives the value, quality, and relevance of a product or service. It also includes their perceptions of the company's brand, reputation, and customer service. This information is often collected through surveys, interviews, focus groups, social media monitoring, and other forms of market research.
 
-For example, a company that sells eco-friendly products might have a profile/perceptions model that includes perceptions about the importance of sustainability, the perceived value and quality of eco-friendly products, attitudes towards the company's environmental initiatives, and beliefs about the company's commitment to sustainability.
+For example, a company that sells eco-friendly products might have a perceptions model that includes perceptions about the importance of sustainability, the perceived value and quality of eco-friendly products, attitudes towards the company's environmental initiatives, and beliefs about the company's commitment to sustainability.
 
-The concept of "profile/perceptions" is crucial in business modeling as it provides insights into the target audience's mindset, which can guide the development of products, services, and marketing strategies. By understanding their customers' perceptions, companies can address any misconceptions, align their offerings with customer expectations, and build a strong, positive brand image. This can enhance customer satisfaction, loyalty, and ultimately, business performance.
+The concept of "perceptions" is crucial in business modeling as it provides insights into the target audience's mindset, which can guide the development of products, services, and marketing strategies. By understanding their customers' perceptions, companies can address any misconceptions, align their offerings with customer expectations, and build a strong, positive brand image. This can enhance customer satisfaction, loyalty, and ultimately, business performance.
 
 ## 👉 Example (SpaceX)
 
-👁️#perception Cutting-edge technology and innovation in rocket design and space exploration
-
+👁️#perception Cutting-edge technology and innovation #see
+  
 Space X has been recognized for its cutting-edge technology and innovative approach to rocket design and space exploration.
 
-👁️#perception Successful track record of Space X in satellite launches and cargo missions
-
+👁️#perception Successful track record of Space X #see
+  
 Space X has demonstrated a successful track record in satellite launches and cargo missions, showcasing its ability to meet the objectives and requirements of its clients.
 
-👁️#perception Reusable rocket systems that can reduce launch costs and increase operational efficiency
+👁️#perception Reusable rocket systems that can reduce launch costs #see  
 
 Space X has developed reusable rocket systems, such as the Falcon 9 and Falcon Heavy, which have the potential to significantly reduce launch costs and improve operational efficiency.
 
-👁️#perception Positive feedback and reviews from other space agencies or clients who have worked with Space X
-
+👁️#perception Positive feedback and reviews from other space agencies #hear 
+ 
 Space X has received positive feedback and reviews from other space agencies and clients it has collaborated with.
-
-👁️#perception Industry news and expectations surrounding Space X's achievements
 
 
 

@@ -8,7 +8,7 @@ the online platform or digital presence of a business model, which includes webs
 
 ## 📹 Internet info and videos
 🤖 [Search info and videos about Web using AI](https://www.perplexity.ai/search?q=videos+about+Web:+the+online+platform+or+digital+presence+of+a+business+model,+which+includes+websites,+social+media,+and+other+online+channels.
-)&
+)
 
 ## 📰 Content type 
 Content is of type text
@@ -32,7 +32,11 @@ For instance, a retail business might use the "Web" concept in its business mode
 
 ## 👉 Example (SpaceX)
 
-SpaceX's website [SpaceX.com](https://www.Space X.com)serves as a central hub for showcasing its groundbreaking endeavors in aerospace technology and space exploration. The primary objectives of the website include:
+SpaceX's website [SpaceX.com](https://www.Space X.com) serves as a central hub for showcasing its groundbreaking endeavors in aerospace technology and space exploration.
+
+The SpaceX website utilizes a robust technology stack to ensure optimal performance and user experience. Server-side operations are managed by NGINX and Apache HTTP Server, which handle incoming requests efficiently. The frontend is developed using PHP for dynamic content generation, complemented by Bootstrap and jQuery UI to create responsive and interactive user interfaces. To enhance user engagement and provide insights into site traffic, Google Analytics is integrated. Additionally, the site employs Google Fonts to enrich its visual design with a variety of typography options.
+
+The primary objectives of the website include:
 
 Educating the Public: Offering comprehensive information about SpaceX's missions, technologies, and achievements to inform and inspire the public about the possibilities of space travel and exploration.
 

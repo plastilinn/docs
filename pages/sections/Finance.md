@@ -3,15 +3,15 @@
 
 
 ## 🔍 Definition
-the management of financial resources and the allocation of funds within a business model.
+The management of financial resources and the allocation of funds within a business model.
 
 
 ## 📹 Internet info and videos
 🤖 [Search info and videos about Finance using AI](https://www.perplexity.ai/search?q=videos+about+Finance:+the+management+of+financial+resources+and+the+allocation+of+funds+within+a+business+model.
-)&
+)
 
 ## 📰 Content type 
-Content is of type text
+Content is of type category
 
 ## 📖 Description
 The concept of Finance in business modeling refers to the strategic management and allocation of financial resources within a business model. This involves the planning, organizing, controlling, and monitoring of financial resources to achieve the business objectives.
@@ -22,7 +22,7 @@ The purpose of the Finance model is to ensure that the business has sufficient f
 
 For example, in a manufacturing company, the Finance model might involve decisions about how much to invest in new machinery, how much to spend on raw materials and labor, how much to save for future expansion, and how much to return to shareholders as dividends. These decisions would be based on a careful analysis of the company's financial resources, market conditions, business strategy, and risk tolerance.
 
-In essence, the Finance model is a critical aspect of business design. It provides a framework for making strategic financial decisions, managing financial risks, and ensuring the financial health and success of the business. It also interacts with other business modeling concepts, such as the Person/Functions model, by determining the financial resources available for each function and role within the business.
+In essence, the Finance model is a critical aspect of business design. It provides a framework for making strategic financial decisions, managing financial risks, and ensuring the financial health and success of the business. It also interacts with other business modeling concepts, such as the Functions model, by determining the financial resources available for each function and role within the business.
 
 ## 👉 Example (SpaceX)
 

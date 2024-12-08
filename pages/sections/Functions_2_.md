@@ -3,11 +3,11 @@
 
 
 ## 🔍 Definition
-High-level specification of the set of tasks that are necessary to carry out a business activity towards the achievement of a business goal.
+Specification of the functions that a person who is a stakeholder of the business can carry out, because they possess the capacity and experience to successfully complete them.
 
 
 ## 📹 Internet info and videos
-🤖 [Search info and videos about Functions using AI](https://www.perplexity.ai/search?q=videos+about+Functions:+High-level+specification+of+the+set+of+tasks+that+are+necessary+to+carry+out+a+business+activity+aimed+at+achieving+a+business+objective.
+🤖 [Search info and videos about Functions using AI](https://www.perplexity.ai/search?q=videos+about+Functions:+Specification+of+the+functions+that+a+person+who+is+a+stakeholder+of+the+business+can+carry+out,+because+they+possess+the+capacity+and+experience+to+successfully+accomplish+them.
 )
 
 ## 📰 Content type (#function)
@@ -123,51 +123,44 @@ Content is of type list and uses the following tags: #function
 </div>
 
 ## 📖 Description
-The concept of "Function List" in business modeling refers to a high-level specification of the tasks that are necessary to carry out a business activity towards the achievement of a business goal. This list is a crucial component of a business model as it outlines the key functions or tasks that need to be performed to deliver a product or service, create value for customers, and achieve the business objectives.
+The concept of Functions in business modeling refers to the identification and specification of the roles and responsibilities that a person, a team member, can perform. This is based on their capacity, skills, and experience to successfully carry out these functions. These functions can range from strategic decision-making and management tasks to operational activities and customer service roles. 
 
-The function list is typically organized in a logical sequence, starting from the initial stages of the business process to the final stages. Each function or task in the list is clearly defined and includes details such as the resources required, the expected output, and the responsible party or department.
+The purpose of the Functions model is to clearly delineate the roles and responsibilities within a business, ensuring that every function is covered by a competent person. This helps to avoid confusion, overlaps, and gaps in responsibilities, which can lead to inefficiencies and errors. It also enables the business to leverage the strengths and expertise of its stakeholders, by assigning them functions that they are best suited to perform.
 
-For example, in a manufacturing business, the function list might include tasks such as sourcing raw materials, production, quality control, packaging, distribution, and customer service. Each of these tasks is essential for the business to produce and deliver its products to the customers.
+For example, in a software development company, a person might be assigned functions such as 'Code Development', 'Code Review', and 'Bug Fixing'. Another person might be assigned functions such as 'Project Management', 'Resource Allocation', and 'Performance Evaluation'. 
 
-The function list is not just a to-do list; it is a strategic tool that helps businesses to plan and manage their operations efficiently. It allows businesses to identify the key activities that drive value creation and focus their resources and efforts on these activities. It also helps to identify potential bottlenecks or inefficiencies in the business process and find ways to improve them.
-
-Moreover, the function list can be used as a communication tool to clarify roles and responsibilities within the organization and ensure that everyone understands what needs to be done to achieve the business goals.
-
-In conclusion, the "Function List" concept in business modeling is a vital tool that helps businesses to plan, manage, and optimize their operations towards the achievement of their business goals.
+In essence, the Functions model is a critical aspect of business design. It helps to structure the business, optimize its operations, and ensure that every stakeholder is contributing effectively to its success. It also provides a foundation for other business modeling concepts, such as process mapping and workflow design, by defining who does what in the business.
 
 ## 👉 Example (SpaceX)
 
-👔#function Development and manufacturing
+👔#function Strategy definition
 
-SpaceX designs and manufactures reusable rockets like the Falcon 9 and spacecraft like the Dragon, focusing on reducing launch costs and increasing mission frequency.
+Setting the strategic direction and vision for the company
 
-👔#function Operations and mission management
+👔#function High level decision making
 
-Coordinates and executes satellite launches and crewed missions, ensuring that each mission meets technical requirements and deadlines.
+Making high-level decisions regarding technology development, investments, and partnerships
 
-👔#function Research and development (R&D)
+👔#function Operational oversight
 
-Invests in continuous research and development to advance space technology, with the ultimate goal of facilitating Mars colonization and improving rocket reusability.
+Overseeing the overall operations and performance of Space X
 
-👔#function Finance and contracts
+👔#function Leadership and team motivation
 
-Manages financial resources through securing government contracts, commercial agreements, and private funding, optimizing investment in new technologies and operations.
+Leading and inspiring the team to achieve ambitious goals
 
-👔#function Marketing and PR
+👔#function Stakeholder engagement
 
-Handles strategic communication and media promotion, leveraging live launches and Elon Musk’s personal brand to increase the company’s visibility and attract customers.
+Engaging with stakeholders, including government agencies, investors, and customers
 
-👔#function Supply chain
+👔#function Public representation
 
-Coordinates suppliers, manufacturers, and distributors to ensure the efficient delivery of components and materials necessary for rocket manufacturing and launches.
+Representing Space X in public events, conferences, and media appearances
 
-👔#function Compliance
+👔#function Industry collaboration
 
-Ensures that SpaceX complies with all local and international regulations regarding rocket launches, satellite deployment, and safety for crewed flights.
+Collaborating with other industry leaders and organizations to advance space exploration and technology
 
-👔#function Customer support
-
-Provides technical assistance and support services to clients using satellite launch services and Starlink internet access, ensuring customer satisfaction and retention.
 
 
 ## 🔑 Keys
@@ -178,15 +171,15 @@ Provides technical assistance and support services to clients using satellite la
 
 
 ## 🧰 Tools
-- [[Business Process Modeling Notation (BPMN)]]
-  - BPMN is a graphical representation for specifying business processes in a business process model. It provides businesses with a standard method of illustrating the flow of activities (functions) in a process, making it easier to understand and improve.
-- [[Value Stream Mapping]]
-  - This lean-management method is used for analyzing the current state and designing a future state for the series of events that take a product or service from its beginning through to the customer. It helps to visualize and understand the flow of material and information as a product or service makes its way through the value stream.
-- [[Gantt Chart]]
-  - A Gantt chart is a type of bar chart that illustrates a project schedule. This chart lists the tasks to be performed on the vertical axis, and time intervals on the horizontal axis. The width of the horizontal bars in the graph shows the duration of each activity.
-- [[Work Breakdown Structure (WBS)]]
-  - WBS is a key project deliverable that organizes the team's work into manageable sections. The Project Management Body of Knowledge (PMBOK) defines the work breakdown structure as a "hierarchical decomposition of the total scope of work to be carried out by the project team to accomplish the project objectives and create the required deliverables."
-- [[Critical Path Method (CPM)]]
-  - CPM is an algorithm for scheduling a set of project activities. It is a step-by-step project management technique to identify activities on the critical path. It is an approach to project scheduling that allows the project manager to manage the trade-off between the time and cost necessary to complete the project.
-- [[Lean Six Sigma]]
-  - Lean Six Sigma is a method that relies on a collaborative team effort to improve performance by systematically removing waste and reducing variation. It combines lean manufacturing/lean enterprise and Six Sigma to eliminate the eight kinds of waste: Defects, Over-Production, Waiting, Non-Utilized Talent, Transportation, Inventory, Motion, and Extra-Processing.
+- [[Business Model Canvas]]
+  - In the Business Model Canvas, the "Key Activities" component can be related to the functions that a person or stakeholder can carry out. These activities are the most important tasks a company must carry out in order to fulfill its business purpose and create its value proposition. The people who perform these activities should have the necessary skills and experience.
+- [[RACI Matrix]]
+  - The RACI Matrix (Responsible, Accountable, Consulted, Informed) is a tool used to clarify roles and responsibilities in project and business process management. It can be used to specify the functions that a person or stakeholder can carry out, based on their capacity and experience.
+- [[Functional Organizational Structure]]
+  - This is a type of organizational structure where employees are grouped based on their specialties and roles. It can be used to specify the functions that a person or stakeholder can carry out, as each person in the organization is assigned specific roles and responsibilities based on their skills and experience.
+- [[Job Description]]
+  - A job description is a document that outlines the responsibilities, duties, and skills required for a particular job. It can be used to specify the functions that a person or stakeholder can carry out, as it clearly defines what is expected from the person in that role.
+- [[Competency Framework]]
+  - A competency framework is a structure that sets out and defines each individual competency (such as skills, behaviors, and attitudes) required by individuals in their roles. It can be used to specify the functions that a person or stakeholder can carry out, as it identifies the specific competencies needed to perform a role successfully.
+- [[Skills Matrix]]
+  - A skills matrix is a visual tool that shows the skills and competencies of a team. It can be used to specify the functions that a person or stakeholder can carry out, as it identifies the skills and experience of each team member, helping to assign roles and responsibilities effectively.

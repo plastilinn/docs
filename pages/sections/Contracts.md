@@ -8,7 +8,7 @@ A contract list refers to a comprehensive inventory of all the agreements and le
 
 ## 📹 Internet info and videos
 🤖 [Search info and videos about Contracts using AI](https://www.perplexity.ai/search?q=videos+about+Contracts:+
-)&
+)
 
 ## 📰 Content type 
 Content is of type text
@@ -26,13 +26,9 @@ In essence, the concept of "Contract List" in business modeling is about underst
 
 ## 👉 Example (SpaceX)
 
-Government Contracts for Launch Services
+Government Contracts for Launch Services: Contracts with government entities, notably NASA and the Department of Defense (DoD), for launching satellites, cargo, and crew to space.
 
-Contracts with government entities, notably NASA and the Department of Defense (DoD), for launching satellites, cargo, and crew to space.
-
-Commercial Satellite Launch Contracts
-
-Agreements with commercial entities for launching satellites into orbit.
+Commercial Satellite Launch Contracts: Agreements with commercial entities for launching satellites into orbit.
 
 ## 🔑 Keys
 

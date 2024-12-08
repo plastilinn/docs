@@ -8,7 +8,7 @@ the financial resources, assets, and investments that a business uses to generat
 
 ## 📹 Internet info and videos
 🤖 [Search info and videos about Shareholders using AI](https://www.perplexity.ai/search?q=videos+about+Shareholders:+the+financial+resources,+assets,+and+investments+that+a+business+uses+to+generate+income+and+support+its+operations.
-)&
+)
 
 ## 📰 Content type (#shareholder)
 Content is of type template and uses the following tags: #shareholder

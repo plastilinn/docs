@@ -8,10 +8,10 @@ Marketing is the process of identifying and satisfying customer needs through th
 
 ## 📹 Internet info and videos
 🤖 [Search info and videos about Marketing using AI](https://www.perplexity.ai/search?q=videos+about+Marketing:+Marketing+is+the+process+of+identifying+and+satisfying+customer+needs+through+the+creation,+promotion,+and+distribution+of+products+or+services.
-)&
+)
 
 ## 📰 Content type 
-Content is of type text
+Content is of type category
 
 ## 📖 Description
 In business design, the concept of "marketing" is understood as the strategic process of identifying, anticipating, and satisfying customer needs and wants, with the ultimate goal of driving profit. This process involves the creation, promotion, and distribution of products or services, and it is a critical component of any successful business model.
@@ -28,7 +28,7 @@ In conclusion, marketing is a vital process in business design that helps compan
 
 ## 👉 Example (SpaceX)
 
-SpaceX's marketing strategy hinges on leveraging its groundbreaking technological advancements and visionary goals to build a compelling brand narrative that captivates both industry stakeholders and the general public. Rather than relying on traditional advertising, SpaceX focuses on media coverage of its high-profile launches, partnerships with government agencies like NASA, and Elon Musk's personal brand and social media presence to generate buzz and engagement. This approach is augmented by live streaming of launches, which not only serves to democratize access to space exploration but also fosters a sense of community among space enthusiasts.
+SpaceX's marketing strategy hinges on leveraging its ground breaking technological advancements and visionary goals to build a compelling brand narrative that captivates both industry stakeholders and the general public. Rather than relying on traditional advertising, SpaceX focuses on media coverage of its high-profile launches, partnerships with government agencies like NASA, and Elon Musk's personal brand and social media presence to generate buzz and engagement. This approach is augmented by live streaming of launches, which not only serves to democratize access to space exploration but also fosters a sense of community among space enthusiasts.
 
 ## 🔑 Keys
 

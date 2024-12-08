@@ -8,13 +8,13 @@ Technologies and components that are part of the final solution, that is, the pr
 
 ## 📹 Internet info and videos
 🤖 [Search info and videos about Components using AI](https://www.perplexity.ai/search?q=videos+about+Components:+Technologies+and+components+that+are+part+of+the+final+solution,+that+is,+the+product+or+service+offered+to+the+customer+to+solve+their+problem.+For+example,+the+programming+language+used,+the+cloud+platform+used,+or+the+parts+that+are+part+of+the...+blah+in+case+it+is+a+physical+product.
-)&
+)
 
 ## 📰 Content type 
 Content is of type text
 
 ## 📖 Description
-The concept of "solution/components" in business modeling refers to the various technologies and components that make up the final product or service that a company offers to its customers. These components are the building blocks that work together to solve a customer's problem or meet their needs.
+The concept of "components" in business modeling refers to the various technologies and components that make up the final product or service that a company offers to its customers. These components are the building blocks that work together to solve a customer's problem or meet their needs.
 
 The "solution" part of the concept refers to the unique identifier of the final product or service. This could be a specific model of a product, a version of a software, or a type of service. The solution is what the customer interacts with and what ultimately delivers the value that the customer is seeking.
 
@@ -22,21 +22,21 @@ The "components" part of the concept refers to the different technologies and pa
 
 Each component plays a crucial role in the functionality and performance of the solution. Therefore, it's important to carefully select and manage these components to ensure that they work together effectively to deliver a high-quality solution.
 
-In essence, the concept of "solution/components" in business modeling is about understanding and managing the building blocks of a product or service. It provides a framework for designing and optimizing the solution, and helps the company to make informed decisions about the technologies and components to use. This is a key aspect of business design, as it directly impacts the quality of the product or service and the value it delivers to customers.
+In essence, the concept of "components" in business modeling is about understanding and managing the building blocks of a product or service. It provides a framework for designing and optimizing the solution, and helps the company to make informed decisions about the technologies and components to use. This is a key aspect of business design, as it directly impacts the quality of the product or service and the value it delivers to customers.
 
 ## 👉 Example (SpaceX)
 
-* Rocket engines
-* Propellant tanks
-* Avionics systems
-* Guidance and navigation systems
-* Payload fairings
-* Heat shields
-* Communication systems
-* Landing legs (for reusable rockets)
-* Parachutes (for cargo recovery)
-* Ground control systems
-* Launch pads and facilities
+Rocket engines
+Propellant tanks
+Avionics systems
+Guidance and navigation systems
+Payload fairings
+Heat shields
+Communication systems
+Landing legs (for reusable rockets)
+Parachutes (for cargo recovery)
+Ground control systems
+Launch pads and facilities
 
 ## 🔑 Keys
 

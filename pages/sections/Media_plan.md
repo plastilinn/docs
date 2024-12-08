@@ -8,7 +8,7 @@ A marketing plan outlines the strategies and tactics a business will use to prom
 
 ## 📹 Internet info and videos
 🤖 [Search info and videos about Media plan using AI](https://www.perplexity.ai/search?q=videos+about+Media+plan:+A+marketing+plan+outlines+the+strategies+and+tactics+a+business+will+use+to+promote+and+sell+its+products+or+services.
-)&
+)
 
 ## 📰 Content type 
 Content is of type template

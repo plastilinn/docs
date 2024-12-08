@@ -3,21 +3,21 @@
 
 
 ## 🔍 Definition
-the unique identification and competencies of individuals within a business model.
+The unique identification and competencies of individuals within a team.
 
 
 ## 📹 Internet info and videos
 🤖 [Search info and videos about Skills using AI](https://www.perplexity.ai/search?q=videos+about+Skills:+the+unique+identification+and+competencies+of+individuals+within+a+business+model.
-)&
+)
 
 ## 📰 Content type (#skill)
 Content is of type list and uses the following tags: #skill
 
 
 ## 📖 Description
-The concept of "Person/Skills" in business modeling refers to the unique identification and competencies of individuals within a business model. This concept is crucial in business design as it helps businesses understand the unique value each individual brings to the organization and informs strategic decisions about talent acquisition, development, and management.
+The concept of "Skills" in business modeling refers to the unique identification and competencies of individuals within a business model. This concept is crucial in business design as it helps businesses understand the unique value each individual brings to the organization and informs strategic decisions about talent acquisition, development, and management.
 
-Here are the key aspects of "Person/Skills" in business modeling:
+Here are the key aspects of "Skills" in business modeling:
 
 - Unique Identification: This involves assigning a unique identifier to each individual in the organization. This allows for accurate tracking and management of individuals, which is essential for effective human resource management.
 
@@ -29,7 +29,7 @@ Here are the key aspects of "Person/Skills" in business modeling:
 
 - Talent Management: This involves the strategies used to retain, motivate, and manage individuals within the organization. Effective talent management can increase employee satisfaction, reduce turnover, and improve organizational performance.
 
-By understanding and optimizing these aspects of "Person/Skills", a business can maximize the value of its human resources. For instance, a tech company might invest in training and development programs to enhance the skills of its employees, thereby increasing the overall capability of the organization. This would demonstrate the company's ability to leverage "Person/Skills" to drive its business model and create value.
+By understanding and optimizing these aspects of "Skills", a business can maximize the value of its human resources. For instance, a tech company might invest in training and development programs to enhance the skills of its employees, thereby increasing the overall capability of the organization. This would demonstrate the company's ability to leverage "Skills" to drive its business model and create value.
 
 ## 👉 Example (SpaceX)
 

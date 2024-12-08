@@ -3,18 +3,18 @@
 
 
 ## 🔍 Definition
-Challenges in the context of a business model refer to obstacles or difficulties that hinder the achievement of desired outcomes.
+Challenges refer to obstacles or difficulties that hinder the achievement of desired outcomes.
 
 
 ## 📹 Internet info and videos
 🤖 [Search info and videos about Challenges using AI](https://www.perplexity.ai/search?q=videos+about+Challenges:+
-)&
+)
 
 ## 📰 Content type 
 Content is of type text
 
 ## 📖 Description
-"challenges" refer to the obstacles or difficulties that a business may encounter in its journey to achieve its goals. These can range from internal issues such as operational inefficiencies, lack of resources, or skill gaps, to external factors like market competition, regulatory changes, or economic downturns. 
+"Challenges" refer to the obstacles or difficulties that a business may encounter in its journey to achieve its goals. These can range from internal issues such as operational inefficiencies, lack of resources, or skill gaps, to external factors like market competition, regulatory changes, or economic downturns. 
 
 Challenges are an integral part of business design as they test the resilience and adaptability of a business model. They force businesses to critically analyze their strategies, processes, and resources, and make necessary adjustments to overcome the hurdles. This process of problem-solving and continuous improvement often leads to the development of more robust and sustainable business models.
 
@@ -26,19 +26,24 @@ In essence, challenges are the stepping stones to business success. They push bu
 
 ## 👉 Example (SpaceX)
 
-🏆#challenge Technical Challenge
+🏆#challenge Reusability of spacecraft
+
 Achieving full reusability of spacecraft, including the Starship, to significantly reduce the cost of space travel.
 
 🏆#challenge Regulatory and Legal Hurdles
+
 Navigating complex international and domestic regulatory environments for launching spacecraft and deploying satellites, such as the Starlink internet constellation.
 
 🏆#challenge Financial and Market Risks
+
 Securing continued funding and investment for ambitious projects like Mars colonization, which require significant long-term capital.
 
 🏆#challenge Technical Infrastructure
+
 Building the infrastructure needed for the launch, landing, and refurbishment of rockets on a scale never before attempted and developing the ground and in-orbit infrastructure required for the Starlink network to provide global high-speed internet.
 
-🏆#challenge Public Perception and Stakeholder Engagement:
+🏆#challenge Public Perception and Stakeholder Engagement
+
 Maintaining public interest and support for space exploration and development, especially for long-term projects like colonizing Mars.
 
 ## 🔑 Keys

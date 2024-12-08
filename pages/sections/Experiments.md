@@ -8,10 +8,10 @@ Experiments are tests or trials designed to validate assumptions and hypotheses 
 
 ## 📹 Internet info and videos
 🤖 [Search info and videos about Experiments using AI](https://www.perplexity.ai/search?q=videos+about+Experiments:+Experiments+are+tests+or+trials+designed+to+validate+assumptions+and+hypotheses+about+a+business+model's+value+proposition,+customer+segments,+and+revenue+streams.
-)&
+)
 
 ## 📰 Content type (#experiment)
-Content is of type text and uses the following tags: #experiment
+Content is of type list and uses the following tags: #experiment
 
 
 
@@ -21,122 +21,120 @@ Content is of type text and uses the following tags: #experiment
   <ul style='list-style-type: none; padding-left: 0;'>
 
 
-<li>- #experiment  Risk Assessment</li>
-<li>- #experiment  Learning Experiment</li>
-<li>- #experiment  Experiment Prioritization</li>
-<li>- #experiment  Assumption Testing</li>
-<li>- #experiment  Customer Interviews</li>
-<li>- #experiment  Problem Interviews</li>
-<li>- #experiment  Solution Interviews</li>
-<li>- #experiment  Online Surveys</li>
-<li>- #experiment  Value Proposition Experiment</li>
-<li>- #experiment  Value Proposition Testing</li>
-<li>- #experiment  Value Proposition Evaluation</li>
-<li>- #experiment  Minimum Desirable Product (MDP)</li>
-<li>- #experiment  Landing Pages and Lead Capture</li>
-<li>- #experiment  Problem-Solution Fit</li>
-<li>- #experiment  Problem-Solution Fit Testing</li>
-<li>- #experiment  Customer Validation</li>
-<li>- #experiment  Customer Development</li>
-<li>- #experiment  Minimum Viable Product (MVP)</li>
-<li>- #experiment  Pretotyping</li>
-<li>- #experiment  The Mechanical Turk</li>
-<li>- #experiment  The Pinocchio</li>
-<li>- #experiment  The Minimalist Manual</li>
-<li>- #experiment  The Provincial</li>
-<li>- #experiment  The One Night Stand</li>
-<li>- #experiment  The Fake Door</li>
-<li>- #experiment  The Pretend-a-Co</li>
-<li>- #experiment  Usability Testing</li>
-<li>- #experiment  Technical Validation</li>
-<li>- #experiment  Monetization Experiment</li>
-<li>- #experiment  Price Acceptance Testing</li>
-<li>- #experiment  Pricing Experiment</li>
-<li>- #experiment  Revenue Streams Evaluation</li>
-<li>- #experiment  Economic Viability Analysis</li>
-<li>- #experiment  Product-Market Fit</li>
-<li>- #experiment  Product-Market Fit Assessment</li>
-<li>- #experiment  Product Development Iteration</li>
-<li>- #experiment  Segmentation Experiment</li>
-<li>- #experiment  Customer Lifecycle Evaluation</li>
-<li>- #experiment  Customer Acquisition Experiment</li>
-<li>- #experiment  Customer Experience Experiment</li>
-<li>- #experiment  Sales Copy Testing</li>
-<li>- #experiment  Sales Funnel Optimization Experiment</li>
-<li>- #experiment  A-B Testing</li>
-<li>- #experiment  Pirate Metrics Tracking</li>
-<li>- #experiment  MVP Development</li>
-<li>- #experiment  Lean Marketing Experiments</li>
-<li>- #experiment  Initial Traction Evaluation</li>
-<li>- #experiment  Customer Acquisition Cost Analysis</li>
-<li>- #experiment  Continuous Customer Feedback</li>
-<li>- #experiment  Strategic Collaborations Experiment</li>
-<li>- #experiment  Shared Value Generation Experiment</li>
-<li>- #experiment  Marketing ROI Analysis</li>
-<li>- #experiment  Marketing Channels Experiment</li>
-<li>- #experiment  International Expansion Experiment</li>
-<li>- #experiment  Customer Retention Experiment</li>
-<li>- #experiment  Supply Chain Analysis</li>
-<li>- #experiment  Scalability Testing</li>
-<li>- #experiment  Revenue Model Evaluation</li>
-<li>- #experiment  Prototyping and Concept Testing</li>
-<li>- #experiment  Pre-sales or Pre-orders</li>
-<li>- #experiment  Positioning Testing</li>
-<li>- #experiment  Partnership Experiments</li>
-<li>- #experiment  Marketing Experiments</li>
-<li>- #experiment  Market Validation</li>
-<li>- #experiment  Keyword Analysis</li>
-<li>- #experiment  International Market Validation</li>
-<li>- #experiment  Lean Analytics</li>
-<li>- #experiment  Upselling and Cross-selling Experiment</li>
-<li>- #experiment  Geographical Localization Experiments</li>
-<li>- #experiment  Expansion Potential Evaluation</li>
-<li>- #experiment  Customer Service Feedback Analysis</li>
-<li>- #experiment  Competitor Analysis</li>
-<li>- #experiment  Branding Experiments</li>
-<li>- #experiment  Affiliate Programs</li>
+<li>🧪#experiment  Risk Assessment</li>
+<li>🧪#experiment  Learning Experiment</li>
+<li>🧪#experiment  Experiment Prioritization</li>
+<li>🧪#experiment  Assumption Testing</li>
+<li>🧪#experiment  Customer Interviews</li>
+<li>🧪#experiment  Problem Interviews</li>
+<li>🧪#experiment  Solution Interviews</li>
+<li>🧪#experiment  Online Surveys</li>
+<li>🧪#experiment  Value Proposition Experiment</li>
+<li>🧪#experiment  Value Proposition Testing</li>
+<li>🧪#experiment  Value Proposition Evaluation</li>
+<li>🧪#experiment  Minimum Desirable Product (MDP)</li>
+<li>🧪#experiment  Landing Pages and Lead Capture</li>
+<li>🧪#experiment  Problem-Solution Fit</li>
+<li>🧪#experiment  Problem-Solution Fit Testing</li>
+<li>🧪#experiment  Customer Validation</li>
+<li>🧪#experiment  Customer Development</li>
+<li>🧪#experiment  Minimum Viable Product (MVP)</li>
+<li>🧪#experiment  Pretotyping</li>
+<li>🧪#experiment  The Mechanical Turk</li>
+<li>🧪#experiment  The Pinocchio</li>
+<li>🧪#experiment  The Minimalist Manual</li>
+<li>🧪#experiment  The Provincial</li>
+<li>🧪#experiment  The One Night Stand</li>
+<li>🧪#experiment  The Fake Door</li>
+<li>🧪#experiment  The Pretend-a-Co</li>
+<li>🧪#experiment  Usability Testing</li>
+<li>🧪#experiment  Technical Validation</li>
+<li>🧪#experiment  Monetization Experiment</li>
+<li>🧪#experiment  Price Acceptance Testing</li>
+<li>🧪#experiment  Pricing Experiment</li>
+<li>🧪#experiment  Revenue Streams Evaluation</li>
+<li>🧪#experiment  Economic Viability Analysis</li>
+<li>🧪#experiment  Product-Market Fit</li>
+<li>🧪#experiment  Product-Market Fit Assessment</li>
+<li>🧪#experiment  Product Development Iteration</li>
+<li>🧪#experiment  Segmentation Experiment</li>
+<li>🧪#experiment  Customer Lifecycle Evaluation</li>
+<li>🧪#experiment  Customer Acquisition Experiment</li>
+<li>🧪#experiment  Customer Experience Experiment</li>
+<li>🧪#experiment  Sales Copy Testing</li>
+<li>🧪#experiment  Sales Funnel Optimization Experiment</li>
+<li>🧪#experiment  A-B Testing</li>
+<li>🧪#experiment  Pirate Metrics Tracking</li>
+<li>🧪#experiment  MVP Development</li>
+<li>🧪#experiment  Lean Marketing Experiments</li>
+<li>🧪#experiment  Initial Traction Evaluation</li>
+<li>🧪#experiment  Customer Acquisition Cost Analysis</li>
+<li>🧪#experiment  Continuous Customer Feedback</li>
+<li>🧪#experiment  Strategic Collaborations Experiment</li>
+<li>🧪#experiment  Shared Value Generation Experiment</li>
+<li>🧪#experiment  Marketing ROI Analysis</li>
+<li>🧪#experiment  Marketing Channels Experiment</li>
+<li>🧪#experiment  International Expansion Experiment</li>
+<li>🧪#experiment  Customer Retention Experiment</li>
+<li>🧪#experiment  Supply Chain Analysis</li>
+<li>🧪#experiment  Scalability Testing</li>
+<li>🧪#experiment  Revenue Model Evaluation</li>
+<li>🧪#experiment  Prototyping and Concept Testing</li>
+<li>🧪#experiment  Pre-sales or Pre-orders</li>
+<li>🧪#experiment  Positioning Testing</li>
+<li>🧪#experiment  Partnership Experiments</li>
+<li>🧪#experiment  Marketing Experiments</li>
+<li>🧪#experiment  Market Validation</li>
+<li>🧪#experiment  Keyword Analysis</li>
+<li>🧪#experiment  International Market Validation</li>
+<li>🧪#experiment  Lean Analytics</li>
+<li>🧪#experiment  Upselling and Cross-selling Experiment</li>
+<li>🧪#experiment  Geographical Localization Experiments</li>
+<li>🧪#experiment  Expansion Potential Evaluation</li>
+<li>🧪#experiment  Customer Service Feedback Analysis</li>
+<li>🧪#experiment  Competitor Analysis</li>
+<li>🧪#experiment  Branding Experiments</li>
+<li>🧪#experiment  Affiliate Programs</li>
 
   </ul>
 </div>
 
 ## 📖 Description
-The concept of "Experiment" in business modeling refers to the systematic process of testing and validating the assumptions and hypotheses that underpin a business model. These experiments are designed to provide empirical evidence about the viability of the business model's value proposition, customer segments, and revenue streams. 
+The concept of "Experiment List" in business modeling refers to a systematic list of tests or trials designed to validate the assumptions and hypotheses about a business model's value proposition, customer segments, and revenue streams. This list is used as a roadmap to test and validate the viability and effectiveness of a business model before its full-scale implementation.
 
-Here are the key aspects of "Experiment" in business modeling:
+An experiment list can include various types of tests depending on the specific aspects of the business model that need validation. For instance, it may include customer interviews to validate assumptions about customer needs and preferences. It may also include prototype testing to validate the feasibility and attractiveness of a product or service offering.
 
-- Hypothesis Testing: This involves formulating specific, testable predictions based on the business model's assumptions. For example, if a business assumes that customers value quality over price, an experiment might be designed to test whether customers are willing to pay a premium for a higher-quality product.
+Moreover, an experiment list can also include market tests to validate assumptions about the size and profitability of a market segment. It may also include financial tests to validate assumptions about revenue streams and cost structures.
 
-- Data Collection: This involves gathering data to test the hypotheses. This could involve a variety of methods, including customer surveys, market research, A/B testing, and sales data analysis.
+The experiment list serves as a structured approach to risk management in business design and modeling. It helps business leaders and stakeholders to identify and address potential flaws and weaknesses in a business model before they become costly mistakes. It also provides valuable insights and learnings that can be used to refine and improve the business model.
 
-- Analysis: This involves analyzing the data to determine whether the hypotheses are supported or refuted. For example, if the data shows that customers are not willing to pay a premium for a higher-quality product, this would refute the hypothesis and suggest that the business model needs to be adjusted.
-
-- Iteration: This involves using the results of the experiments to refine and improve the business model. If an assumption is validated, it can be incorporated into the business model with greater confidence. If an assumption is invalidated, the business model needs to be adjusted accordingly.
-
-- Learning: The ultimate goal of these experiments is to learn more about the market, the customers, and the business environment. This learning can then be used to make more informed decisions and to develop a more effective and successful business model.
-
-In essence, the "Experiment" concept in business modeling is about reducing uncertainty and risk by systematically testing and validating the assumptions that underpin a business model. It's about learning and adapting based on empirical evidence, rather than simply relying on beliefs or guesses.
+In conclusion, an experiment list is a critical tool in business design and modeling. It provides a systematic and evidence-based approach to validating the key assumptions and hypotheses of a business model, reducing risks and increasing the chances of success. It is a crucial component of a lean and agile business model, promoting continuous learning and adaptation in response to market feedback and changes.
 
 ## 👉 Example (SpaceX)
 
 🧪#experiment Reusable Rocket Test
 
-Objective: Validate the Assumption: Cost reduction through reusable rockets by launching and reusing a Falcon 9 rocket multiple times to measure cost savings and operational efficiency.
+Assumption: Cost reduction through reusable rockets will significantly lower launch costs.
 
-Tasks and Objectives
+Experiment: Conduct rapid, repeated launches with reusable rockets (e.g., Falcon 9) in a short timeframe to assess wear, repair costs, and operational efficiency compared to traditional rockets.
 
-⚙️#work Prepare Falcon 9 for Multiple Reuses
+Metric: Cost per launch and turnaround time for the next flight.
 
-Refurbish a previously flown Falcon 9 for 3 consecutive launches. Complete refurbishment within 10 days between launches.
+🧪#experiment Market Demand Validation for Commercial Space Services
 
-⚙️#work Conduct 3 Falcon 9 Launches
+Assumption: There is Demand for commercial space services that is growing and sustained.
 
-Perform 3 launches within a 60-day period to test rapid reuse capabilities. Complete all 3 launches in 60 days.
+Experiment: Launch a pre-sale campaign or survey potential clients (e.g., satellite companies) to measure interest in launch services and track how many requests for quotes are received.
 
-⚙️#work Analyze Cost and Time Savings
+Metric: Number of quote requests and early reservations.
 
-Calculate the cost per launch and measure savings compared to single-use rockets. Complete cost analysis within 10 days after the last launch.
+🧪#experiment Crewed Mission Safety Simulation
 
+Risk: Safety and Crewed Missions require robust systems for frequent human spaceflights.
 
+Experiment: Conduct in-flight abort and atmospheric re-entry simulations with the Crew Dragon capsule, testing the safety of emergency systems in different critical scenarios.
+
+Metric: Success rate of safe aborts and performance of emergency systems.
 
 ## 🔑 Keys
 
@@ -147,14 +145,14 @@ Calculate the cost per launch and measure savings compared to single-use rockets
 
 ## 🧰 Tools
 - [[Lean Startup Methodology]]
-  - The Lean Startup methodology, developed by Eric Ries, emphasizes the importance of conducting experiments to validate business assumptions. The "Build-Measure-Learn" feedback loop is a core component of this methodology, where businesses build a minimum viable product (MVP), measure how it performs, and learn from the results to iterate or pivot the business model.
+  - The Lean Startup methodology, developed by Eric Ries, emphasizes the importance of conducting experiments to validate business assumptions. The methodology encourages businesses to create a "Minimum Viable Product" (MVP) and use it to test key business hypotheses. The feedback received from these experiments is then used to iterate and improve the business model.
 - [[Design Thinking]]
-  - Design Thinking is a problem-solving approach that involves empathizing with users, defining problems, ideating solutions, creating prototypes, and testing these prototypes. The testing phase is essentially an experiment designed to validate the solution's effectiveness and its fit with the business model.
-- [[Business Experiments]]
-  - Business Experiments are a structured method to test business hypotheses. They involve identifying a hypothesis, designing an experiment to test it, executing the experiment, and analyzing the results. This tool is often used to validate assumptions about a business model's value proposition, customer segments, and revenue streams.
-- [[A/B Testing]]
-  - A/B Testing is a simple form of business experiment where two versions of a product, service, or marketing campaign are tested against each other to determine which performs better. This can be used to validate assumptions about various aspects of a business model, such as pricing strategies, marketing channels, or product features.
+  - Design Thinking is a problem-solving approach that involves empathizing with users, defining problems, ideating solutions, prototyping, and testing. The testing phase often involves conducting experiments to validate the solutions developed during the ideation phase. These experiments can provide valuable insights into the value proposition, customer segments, and revenue streams of a business model.
+- [[Business Model Canvas]]
+  - The Business Model Canvas, developed by Alexander Osterwalder, includes a component called "channels" which can be used to design and conduct experiments. These experiments can test assumptions about how a company communicates and delivers its value proposition to its customer segments.
+- [[Value Proposition Canvas]]
+  - This tool, also developed by Alexander Osterwalder, is designed to help businesses understand their customers' needs and create products and services that meet those needs. It encourages businesses to conduct experiments to validate their assumptions about their value proposition and customer segments.
+- [[Pivot or Persevere]]
+  - This is a decision-making process used in the Lean Startup methodology. After conducting experiments, businesses use the results to decide whether to pivot (make a fundamental change to the business model) or persevere (keep improving the current model). This process is crucial for validating a business model's value proposition, customer segments, and revenue streams.
 - [[Growth Hacking]]
-  - Growth Hacking is a marketing strategy that focuses on rapid experimentation across marketing channels and product development to identify the most effective ways to grow a business. It involves making data-driven decisions and conducting experiments to optimize results.
-- [[Pivot]]
-  - A Pivot is a strategic shift in a startup's business model based on learnings from experiments. It involves changing one or more aspects of the business model (such as the value proposition, customer segment, or revenue streams) in response to feedback from the market.
+  - Growth Hacking is a marketing strategy that focuses on rapid experimentation across marketing channels and product development to identify the most effective ways to grow a business. These experiments can provide valuable insights into a business model's value proposition, customer segments, and revenue streams.

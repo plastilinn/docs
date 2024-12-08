@@ -8,7 +8,7 @@ The approach the business will take to determine the price points for its produc
 
 ## 📹 Internet info and videos
 🤖 [Search info and videos about Pricing using AI](https://www.perplexity.ai/search?q=videos+about+Pricing:+the+products+or+services+that+a+business+model+provides+to+its+customers+to+fulfill+their+needs+or+solve+their+problems.
-)&
+)
 
 ## 📰 Content type 
 Content is of type text

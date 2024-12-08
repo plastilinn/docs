@@ -8,7 +8,7 @@ A position list refers to a strategic document outlining the roles, responsibili
 
 ## 📹 Internet info and videos
 🤖 [Search info and videos about Positions using AI](https://www.perplexity.ai/search?q=videos+about+Positions:+
-)&
+)
 
 ## 📰 Content type (#position)
 Content is of type list and uses the following tags: #position
@@ -34,6 +34,7 @@ By understanding and optimizing these aspects of a "Position List", a business c
 ## 👉 Example (SpaceX)
 
 🪪#position Engineers
+
 Responsible for designing and developing the rocket and spacecraft technologies, avionics systems, propulsion systems, and other components of the solutions.
 
 🪪#position Scientists

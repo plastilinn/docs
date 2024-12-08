@@ -8,7 +8,7 @@ The Stateholder's journey is a sequence formed by the different stages that a st
 
 ## 📹 Internet info and videos
 🤖 [Search info and videos about Journey using AI](https://www.perplexity.ai/search?q=videos+about+Journey:+The+journey+of+the+stakeholder+is+a+sequence+formed+by+the+different+stages+through+which+a+stakeholder+goes+in+their+relationship+with+my+business.
-)&
+)
 
 ## 📰 Content type (#journey)
 Content is of type template and uses the following tags: #journey
@@ -21,42 +21,42 @@ Content is of type template and uses the following tags: #journey
   <ul style='list-style-type: none; padding-left: 0;'>
 
 
-<li>- #journey  Five-Stage Model</li>
-<li>- #journey  Five-Stage Model/Awareness</li>
-<li>- #journey  Five-Stage Model/Consideration</li>
-<li>- #journey  Five-Stage Model/Purchase</li>
-<li>- #journey  Five-Stage Model/Retention</li>
-<li>- #journey  Five-Stage Model/Advocacy</li>
-<li>- #journey  Emotional Journey Model</li>
-<li>- #journey  Emotional Journey Model/Trigger</li>
-<li>- #journey  Emotional Journey Model/Highs and Lows</li>
-<li>- #journey  Emotional Journey Model/Pain Points</li>
-<li>- #journey  Emotional Journey Model/Moments of Truth</li>
-<li>- #journey  Emotional Journey Model/Resolution</li>
-<li>- #journey  Service Blueprint Model</li>
-<li>- #journey  Service Blueprint Model/Frontstage</li>
-<li>- #journey  Service Blueprint Model/Backstage</li>
-<li>- #journey  Service Blueprint Model/Support Processes</li>
-<li>- #journey  Service Blueprint Model/Physical Evidence</li>
-<li>- #journey  Service Blueprint Model/Customer Actions</li>
-<li>- #journey  Experience Map</li>
-<li>- #journey  Experience Map/User Persona</li>
-<li>- #journey  Experience Map/Timeline</li>
-<li>- #journey  Experience Map/Emotional States</li>
-<li>- #journey  Experience Map/Pain Points</li>
-<li>- #journey  Experience Map/Opportunities</li>
+<li>✈️#journey  Five-Stage Model</li>
+<li>✈️#journey  Five-Stage Model/Awareness</li>
+<li>✈️#journey  Five-Stage Model/Consideration</li>
+<li>✈️#journey  Five-Stage Model/Purchase</li>
+<li>✈️#journey  Five-Stage Model/Retention</li>
+<li>✈️#journey  Five-Stage Model/Advocacy</li>
+<li>✈️#journey  Emotional Journey Model</li>
+<li>✈️#journey  Emotional Journey Model/Trigger</li>
+<li>✈️#journey  Emotional Journey Model/Highs and Lows</li>
+<li>✈️#journey  Emotional Journey Model/Pain Points</li>
+<li>✈️#journey  Emotional Journey Model/Moments of Truth</li>
+<li>✈️#journey  Emotional Journey Model/Resolution</li>
+<li>✈️#journey  Service Blueprint Model</li>
+<li>✈️#journey  Service Blueprint Model/Frontstage</li>
+<li>✈️#journey  Service Blueprint Model/Backstage</li>
+<li>✈️#journey  Service Blueprint Model/Support Processes</li>
+<li>✈️#journey  Service Blueprint Model/Physical Evidence</li>
+<li>✈️#journey  Service Blueprint Model/Customer Actions</li>
+<li>✈️#journey  Experience Map</li>
+<li>✈️#journey  Experience Map/User Persona</li>
+<li>✈️#journey  Experience Map/Timeline</li>
+<li>✈️#journey  Experience Map/Emotional States</li>
+<li>✈️#journey  Experience Map/Pain Points</li>
+<li>✈️#journey  Experience Map/Opportunities</li>
 
   </ul>
 </div>
 
 ## 📖 Description
-The concept of "Profile/Journey" in business modeling refers to the sequential stages that a stakeholder experiences in their interaction with a business. This journey can be visualized as a roadmap or timeline, detailing each touchpoint between the stakeholder and the business, from initial awareness or discovery, through engagement and transaction, to post-purchase support and advocacy.
+The concept of "Journey" in business modeling refers to the sequential stages that a stakeholder experiences in their interaction with a business. This journey can be visualized as a roadmap or timeline, detailing each touchpoint between the stakeholder and the business, from initial awareness or discovery, through engagement and transaction, to post-purchase support and advocacy.
 
 In this model, businesses map out the journey of their stakeholders (which could be customers, employees, partners, or investors) to understand their needs, motivations, and pain points at each stage. This journey mapping process involves research, observation, and data analysis, and aims to provide a holistic view of the stakeholder's experience.
 
 For example, a customer's journey with an e-commerce business might start with discovering the business through a social media ad, then visiting the website, browsing products, making a purchase, receiving the product, and finally writing a review or recommending the business to a friend. At each stage, the business can identify opportunities to enhance the customer's experience, such as by improving website navigation, offering personalized product recommendations, or providing exceptional customer service.
 
-The "Profile/Journey" concept in business modeling is essential because it helps businesses to understand and improve the experiences of their stakeholders. By mapping out these journeys, businesses can identify opportunities to enhance stakeholder satisfaction and loyalty, improve processes, and ultimately drive business growth and success.
+The "Journey" concept in business modeling is essential because it helps businesses to understand and improve the experiences of their stakeholders. By mapping out these journeys, businesses can identify opportunities to enhance stakeholder satisfaction and loyalty, improve processes, and ultimately drive business growth and success.
 
 ## 👉 Example (SpaceX)
 

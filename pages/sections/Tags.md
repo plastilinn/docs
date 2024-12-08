@@ -1,5 +1,5 @@
 
-# Markers
+# Tags
 
 
 ## 🔍 Definition
@@ -7,7 +7,7 @@
 
 
 ## 📹 Internet info and videos
-🤖 [Search info and videos about Markers using AI](https://www.perplexity.ai/search?q=videos+about+Markers:+
+🤖 [Search info and videos about Tags using AI](https://www.perplexity.ai/search?q=videos+about+Tags:+
 )
 
 ## 📰 Content type 

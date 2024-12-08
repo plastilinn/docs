@@ -2,7 +2,7 @@
 
 [📄Business summary](pages/sections/Business_summary.md)
 
-[📄Business idea](pages/sections/Business_idea.md)
+[📂Business idea](pages/sections/Business_idea.md)
 
 [📄Inspiration](pages/sections/Inspiration.md)
 
@@ -12,13 +12,13 @@
 
 [📄Challenges](pages/sections/Challenges.md)
 
-[📄Business objectives](pages/sections/Business_objectives.md)
+[📂Business objectives](pages/sections/Business_objectives.md)
 
 [📄Mission](pages/sections/Mission.md)
 
 [📄Vision](pages/sections/Vision.md)
 
-[📄Organizational values](pages/sections/Organizational_values.md)
+[🧠Organizational values](pages/sections/Organizational_values.md)
 
 [🎯Organizational goals](pages/sections/Organizational_goals.md)
 
@@ -60,7 +60,7 @@
 
 [😐Emotions](pages/sections/Emotions.md)
 
-[🛠️Behaviors](pages/sections/Behaviors.md)
+[🦾Behaviors](pages/sections/Behaviors.md)
 
 [✈️Journey](pages/sections/Journey.md)
 
@@ -78,7 +78,7 @@
 
 [📄Brochure](pages/sections/Brochure.md)
 
-[📄Marketing](pages/sections/Marketing.md)
+[📂Marketing](pages/sections/Marketing.md)
 
 [📄Naming](pages/sections/Naming.md)
 
@@ -92,11 +92,11 @@
 
 [📄Operations](pages/sections/Operations.md)
 
-[⚙️Activitiy list](pages/sections/Activitiy_list.md)
+[⚙️Activities](pages/sections/Activities.md)
 
-[👔Function list](pages/sections/Function_list.md)
+[👔Functions](pages/sections/Functions.md)
 
-[⭐Resource list](pages/sections/Resource_list.md)
+[⭐Resources](pages/sections/Resources.md)
 
 [👤Team](pages/sections/Team.md)
 
@@ -120,7 +120,7 @@
 
 [📐Metrics](pages/sections/Metrics.md)
 
-[📄Finance](pages/sections/Finance.md)
+[📂Finance](pages/sections/Finance.md)
 
 [💰Revenue](pages/sections/Revenue.md)
 
@@ -138,13 +138,13 @@
 
 [📄Projections](pages/sections/Projections.md)
 
-[📄Legal](pages/sections/Legal.md)
+[📂Legal](pages/sections/Legal.md)
 
 [📄Legal issues](pages/sections/Legal_issues.md)
 
 [📄Contracts](pages/sections/Contracts.md)
 
-[📄Communication](pages/sections/Communication.md)
+[📂Communication](pages/sections/Communication.md)
 
 [📄Pitch](pages/sections/Pitch.md)
 
@@ -156,23 +156,28 @@
 
 [📄Presentations](pages/sections/Presentations.md)
 
-[📄Analysis](pages/sections/Analysis.md)
+[📂Analysis](pages/sections/Analysis.md)
 
-[🔮Assumption list](pages/sections/Assumption_list.md)
+[🔮Assumptions](pages/sections/Assumptions.md)
 
-[🚨Risk list](pages/sections/Risk_list.md)
+[🚨Risks](pages/sections/Risks.md)
 
 [📄SWOT](pages/sections/SWOT.md)
 
 [📄Unfair advantage](pages/sections/Unfair_advantage.md)
 
-[📌Markers](pages/sections/Markers.md)
-
-[📄Validation](pages/sections/Validation.md)
-
-[🧪Experiment list](pages/sections/Experiment_list.md)
+[📂Validation](pages/sections/Validation.md)
 
 [🧪Experiments](pages/sections/Experiments.md)
 
 [📄References](pages/sections/References.md)
 
+[📄Keys](pages/sections/Keys.md)
+
+[📄Metamodel](pages/sections/Metamodel.md)
+
+[📄Tags](pages/sections/Tags.md)
+
+[📄Markers](pages/sections/Markers.md)
+
+section MD

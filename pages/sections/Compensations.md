@@ -8,22 +8,22 @@ The various forms of remuneration, benefits, and rewards that a company provides
 
 ## 📹 Internet info and videos
 🤖 [Search info and videos about Compensations using AI](https://www.perplexity.ai/search?q=videos+about+Compensations:+
-)&
+)
 
 ## 📰 Content type (#compensation)
 Content is of type list and uses the following tags: #compensation
 
 
 ## 📖 Description
-The concept of "Person/Outputs" in business modeling refers to the individuals or entities that generate value for the business. This could be anyone from employees, to partners, to customers, depending on the specific business model. 
+The concept of "Compensations" in business modeling refers to the various forms of retribution or rewards that team members or contributors receive in exchange for their contributions to the business. This concept encompasses all types of compensations, whether financial, non-financial, tangible, or intangible, that recognize and reciprocate the value provided by individuals or entities.
 
-In this context, the "Person" represents the unique identifier for the individual or entity, which allows the business to track and manage its relationships with these value generators. This could be an employee ID number, a partner company's name, or a customer's account number, for example.
+In this context, the "Person" represents an individual or entity contributing to the business's success. These contributors might include employees, contractors, partners, or even customers whose actions or resources add value to the business model.
 
-The "Outputs" represent the value that these individuals or entities generate for the business. This could be in the form of products or services produced, revenue generated, customer relationships established, or any other form of value that contributes to the business's success.
+"Compensations" are the rewards provided to these contributors in return for their input. These can include salaries, bonuses, equity, benefits, recognition, access to resources, or other forms of value that acknowledge their contributions. The nature and structure of these compensations can vary widely depending on the business model, the role of the contributor, and the mutual agreement between the parties involved.
 
-For example, in a manufacturing business, the "Person" could be the employees who operate the production line, and the "Outputs" could be the products they produce. In a consulting business, the "Person" could be the consultants, and the "Outputs" could be the advice and solutions they provide to clients. In a retail business, the "Person" could be the customers, and the "Outputs" could be the revenue they generate through their purchases.
+For example: In a manufacturing business, employees operating the production line might receive monetary wages and benefits as compensations for their work. In a consulting business, consultants may be compensated with project-based fees, performance bonuses, or professional development opportunities in exchange for the solutions they deliver to clients. The concept of "Compensations" emphasizes the reciprocal nature of the relationship between a business and its contributors. It highlights the importance of not only identifying the value provided by individuals or entities but also ensuring that their contributions are recognized and rewarded in a way that sustains motivation, engagement, and long-term collaboration.
 
-In essence, the concept of "Person/Outputs" in business modeling is about identifying and tracking the individuals or entities that generate value for the business, and the specific forms of value they generate. This is a crucial aspect of business design, as it helps the business to understand where its value comes from, manage its relationships with its value generators, and optimize its operations to maximize this value.
+In essence, integrating "Compensations" into business modeling ensures that the value exchange within the organization is fair, transparent, and aligned with the strategic goals of the business. It fosters a balanced system where contributors feel valued and are incentivized to continue driving the business's success.
 
 ## 👉 Example (SpaceX)
 

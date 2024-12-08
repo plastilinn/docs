@@ -8,28 +8,28 @@ Roles involved in the purchasing decision of our product or service by the custo
 
 ## 📹 Internet info and videos
 🤖 [Search info and videos about Roles using AI](https://www.perplexity.ai/search?q=videos+about+Roles:+Roles+involved+in+the+purchasing+decision+of+our+product+or+service+by+the+customers.+For+example,+it+can+be+the+financial+director,+the+technical+director,+a+family+member,+etcetera.
-)&
+)
 
 ## 📰 Content type (#role)
 Content is of type list and uses the following tags: #role
 
 
 ## 📖 Description
-"segment/roles" refers to the categorization of different groups within a business model based on their specific roles or functions. This concept is crucial in understanding the dynamics of a business and how different segments interact with each other and contribute to the overall functioning of the business.
+"roles" refers to the categorization of different groups within a business model based on their specific roles or functions. This concept is crucial in understanding the dynamics of a business and how different segments interact with each other and contribute to the overall functioning of the business.
 
 - Segment: This refers to the different divisions or departments within a business. Each segment has its own unique identity and role within the organization. For example, in a manufacturing company, segments could include production, marketing, sales, and customer service. Each of these segments has a specific role and contributes to the overall success of the business in different ways.
 
 - Roles: Within each segment, individuals or groups are assigned specific roles based on their skills, expertise, and the needs of the business. These roles define the responsibilities and tasks that each individual or group is expected to perform. For example, in the marketing segment, roles could include market research, advertising, public relations, and digital marketing.
 
-The concept of segment/roles is essential in business design as it helps in organizing the business structure, defining responsibilities, and ensuring that all necessary functions are covered. It also aids in identifying potential gaps or overlaps in roles, which can then be addressed to improve efficiency and effectiveness.
+The concept of roles is essential in business design as it helps in organizing the business structure, defining responsibilities, and ensuring that all necessary functions are covered. It also aids in identifying potential gaps or overlaps in roles, which can then be addressed to improve efficiency and effectiveness.
 
 For example, a business may identify that the role of digital marketing is not being adequately covered within the marketing segment. This could lead to the creation of a new role or the expansion of an existing role to ensure that this function is effectively managed.
 
-In essence, the concept of segment/roles is a fundamental aspect of business modeling, providing a clear structure and direction for the organization and contributing to its overall success and sustainability.
+In essence, the concept of roles is a fundamental aspect of business modeling, providing a clear structure and direction for the organization and contributing to its overall success and sustainability.
 
 ## 👉 Example (SpaceX)
 
-🎩#role Project Manager
+🎩#role Project Manager #user
 
 Oversees the specific mission or project for which Space X's services are being procured. They coordinate with various internal teams, stakeholders, and Space X to ensure the successful execution of the mission.
 

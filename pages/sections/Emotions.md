@@ -8,7 +8,7 @@ Emotions that our stakeholders feel and that are relevant to empathize with them
 
 ## 📹 Internet info and videos
 🤖 [Search info and videos about Emotions using AI](https://www.perplexity.ai/search?q=videos+about+Emotions:+Emotions+that+our+stakeholders+feel+and+that+are+relevant+to+empathize+with+them+and+be+able+to+design+a+value+proposition+that+resonates+with+them.
-)&
+)
 
 ## 📰 Content type (#emotion)
 Content is of type list and uses the following tags: #emotion
@@ -21,42 +21,42 @@ Content is of type list and uses the following tags: #emotion
   <ul style='list-style-type: none; padding-left: 0;'>
 
 
-<li>- #emotion  😍  Love</li>
-<li>- #emotion  😂  Joy</li>
-<li>- #emotion  🙏  Gratitude</li>
-<li>- #emotion  🧘  Contentment</li>
-<li>- #emotion  🤩  Enthusiasm</li>
-<li>- #emotion  ❤️  Compassion</li>
-<li>- #emotion  🤝  Empathy</li>
-<li>- #emotion  💔  Sympathy</li>
-<li>- #emotion  🤞  Hope</li>
-<li>- #emotion  🏆  Pride</li>
-<li>- #emotion  🤯  Awe</li>
-<li>- #emotion  🤔  Curiosity</li>
-<li>- #emotion  🤪  Excitement</li>
-<li>- #emotion  🤝  Trust</li>
-<li>- #emotion  😲  Surprise</li>
-<li>- #emotion  🔜  Anticipation</li>
-<li>- #emotion  🤷  Confusion</li>
-<li>- #emotion  😕  Ambivalence</li>
-<li>- #emotion  🥱  Boredom</li>
-<li>- #emotion  🕰️  Nostalgia</li>
-<li>- #emotion  😩  Disappointment</li>
-<li>- #emotion  😔  Loneliness</li>
-<li>- #emotion  🤫  Envy</li>
-<li>- #emotion  😰  Anxiety</li>
-<li>- #emotion  🥺  Shame</li>
-<li>- #emotion  😳  Guilt</li>
-<li>- #emotion  😔  Sadness</li>
-<li>- #emotion  🤬  Resentment</li>
-<li>- #emotion  🤨  Jealousy</li>
-<li>- #emotion  😞  Regret</li>
-<li>- #emotion  😫  Frustration</li>
-<li>- #emotion  😠  Anger</li>
-<li>- #emotion  😨  Fear</li>
-<li>- #emotion  🤢  Disgust</li>
-<li>- #emotion  💀  Pity</li>
-<li>- #emotion  😵  Overwhelm</li>
+<li>😐#emotion  😍  Love</li>
+<li>😐#emotion  😂  Joy</li>
+<li>😐#emotion  🙏  Gratitude</li>
+<li>😐#emotion  🧘  Contentment</li>
+<li>😐#emotion  🤩  Enthusiasm</li>
+<li>😐#emotion  ❤️  Compassion</li>
+<li>😐#emotion  🤝  Empathy</li>
+<li>😐#emotion  💔  Sympathy</li>
+<li>😐#emotion  🤞  Hope</li>
+<li>😐#emotion  🏆  Pride</li>
+<li>😐#emotion  🤯  Awe</li>
+<li>😐#emotion  🤔  Curiosity</li>
+<li>😐#emotion  🤪  Excitement</li>
+<li>😐#emotion  🤝  Trust</li>
+<li>😐#emotion  😲  Surprise</li>
+<li>😐#emotion  🔜  Anticipation</li>
+<li>😐#emotion  🤷  Confusion</li>
+<li>😐#emotion  😕  Ambivalence</li>
+<li>😐#emotion  🥱  Boredom</li>
+<li>😐#emotion  🕰️  Nostalgia</li>
+<li>😐#emotion  😩  Disappointment</li>
+<li>😐#emotion  😔  Loneliness</li>
+<li>😐#emotion  🤫  Envy</li>
+<li>😐#emotion  😰  Anxiety</li>
+<li>😐#emotion  🥺  Shame</li>
+<li>😐#emotion  😳  Guilt</li>
+<li>😐#emotion  😔  Sadness</li>
+<li>😐#emotion  🤬  Resentment</li>
+<li>😐#emotion  🤨  Jealousy</li>
+<li>😐#emotion  😞  Regret</li>
+<li>😐#emotion  😫  Frustration</li>
+<li>😐#emotion  😠  Anger</li>
+<li>😐#emotion  😨  Fear</li>
+<li>😐#emotion  🤢  Disgust</li>
+<li>😐#emotion  💀  Pity</li>
+<li>😐#emotion  😵  Overwhelm</li>
 
   </ul>
 </div>
@@ -76,32 +76,33 @@ For instance, a company might identify that its customers feel delighted when th
 
 ## 👉 Example (SpaceX)
 
-😐#emotion excitement
+😐#emotion excitement #feel
+
 The opportunity to work with Space X, a recognized and innovative space company, can generate a feeling of excitement and anticipation.
 
-😐#emotion Confidence
+😐#emotion Confidence #feel
+
 The positive reputation and successful track record of Space X can instill confidence in the project manager regarding the potential success of the partnership.
 
-😐#emotion Inspiration
+😐#emotion Inspiration #feel
 
 Working with Space X, known for its cutting-edge technology and advancements in space exploration, can inspire the project manager to contribute to the agency's goals.
 
-😐#emotion Pride
+😐#emotion Pride #feel
 
 Collaborating with Space X, a leading player in the space industry, can evoke a sense of pride and prestige for the project manager and the agency.
 
-😐#emotion Uncertainty
+😐#emotion Uncertainty #think
 
 The complexity of the acquisition process and the potential risks associated with selecting a new provider can generate a certain level of uncertainty.
 
-😐#emotion Budget concerns
+😐#emotion Budget concerns #think
 
 Balancing the agency's budget constraints while ensuring high-quality services and equipment can generate concerns about financial viability.
 
-😐#emotion Pressure
+😐#emotion Pressure #feel
 
 The responsibility of selecting a provider for critical space missions can create a sense of pressure and the need to make the right decision.
-
 
 ## 🔑 Keys
 

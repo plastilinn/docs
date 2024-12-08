@@ -8,10 +8,10 @@ the compliance of a business model with laws and regulations governing its opera
 
 ## 📹 Internet info and videos
 🤖 [Search info and videos about Legal using AI](https://www.perplexity.ai/search?q=videos+about+Legal:+the+compliance+of+a+business+model+with+laws+and+regulations+governing+its+operations+and+interactions+with+stakeholders.
-)&
+)
 
 ## 📰 Content type 
-Content is of type text
+Content is of type category
 
 ## 📖 Description
 The concept of Legal in business modeling refers to the adherence of a business model to the laws and regulations that govern its operations and interactions with stakeholders. This concept is critical as it directly impacts the business's reputation, operational efficiency, and overall sustainability.

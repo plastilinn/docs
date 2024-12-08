@@ -8,7 +8,7 @@ Milestones are specific achievements or events that mark significant progress or
 
 ## 📹 Internet info and videos
 🤖 [Search info and videos about Milestones using AI](https://www.perplexity.ai/search?q=videos+about+Milestones:+Milestones+are+specific+achievements+or+events+that+mark+significant+progress+or+success+in+a+business+model.
-)&
+)
 
 ## 📰 Content type (#milestone)
 Content is of type list and uses the following tags: #milestone
@@ -44,12 +44,15 @@ This milestone marks the successful deployment of Space X's first satellite into
 Successful launch and return of astronauts in a Space X spacecraft.
 
 🏁#milestone First successful landing of a reusable rocket (expected Jun 2025)
+
 Successful landing of a Space X rocket after launch, demonstrating the company's advancement in rocket reusability.
 
 🏁#milestone Successful completion of a major contract
+
 Successful completion of a significant contract, such as launching multiple satellites for a client or delivering cargo to the International Space Station.
 
 🏁#milestone Achievement of profitability
+
 Point at which Space X achieves profitability, generating more revenue than expenses.
 
 

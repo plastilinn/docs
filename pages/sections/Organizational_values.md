@@ -3,18 +3,19 @@
 
 
 ## 🔍 Definition
-the principles, beliefs, and attitudes that guide the behavior and decision-making of a business and its stakeholders.
+The principles, beliefs, and attitudes that guide the behavior and decision-making of a business and its stakeholders.
 
 
 ## 📹 Internet info and videos
 🤖 [Search info and videos about Organizational values using AI](https://www.perplexity.ai/search?q=videos+about+Organizational+values:+the+principles,+beliefs,+and+attitudes+that+guide+the+behavior+and+decision-making+of+a+business+and+its+stakeholders.
-)&
+)
 
-## 📰 Content type 
-Content is of type list
+## 📰 Content type (#organizational_value)
+Content is of type list and uses the following tags: #organizational_value
+
 
 ## 📖 Description
-the concept of "organization values" refers to the core principles or standards that guide a company's actions and decisions. These values are deeply ingrained in the company's culture and serve as a compass for its behavior, shaping its interactions with stakeholders, its approach to business, and its overall identity.
+The concept of "organization values" refers to the core principles or standards that guide a company's actions and decisions. These values are deeply ingrained in the company's culture and serve as a compass for its behavior, shaping its interactions with stakeholders, its approach to business, and its overall identity.
 
 Organization values are a critical component of a business model because they define what the company stands for and what it believes in. They influence every aspect of the business, from its mission and vision to its strategies and operations. They also play a key role in attracting and retaining employees, customers, and partners who share the same values.
 
@@ -24,16 +25,20 @@ In essence, the concept of "organization values" in business modeling is about d
 
 ## 👉 Example (SpaceX)
 
-🏢🌟#organization_value Innovation
+🧠#organization_value Innovation
+
 Continuously pushing the boundaries of space technology to develop more efficient, reliable, and cost-effective spacecraft and rockets.
 
-🏢🌟#organization_value Reliability
+🧠#organization_value Reliability
+
 Ensuring the highest standards of safety and dependability in every mission to protect crew, cargo, and spacecraft integrity.
 
-🏢🌟#organization_value Efficiency
+🧠#organization_value Efficiency
+
 Streamlining processes and leveraging vertical integration to reduce costs and improve the accessibility of space travel and exploration.
 
-🏢🌟#organization_value Sustainability
+🧠#organization_value Sustainability
+
 Committing to sustainable space exploration practices, including the development of reusable rocket technology to minimize environmental impact.
 
 ## 🔑 Keys

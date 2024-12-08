@@ -1,5 +1,5 @@
 
-# Markers
+# Metamodel
 
 
 ## 🔍 Definition
@@ -7,7 +7,7 @@
 
 
 ## 📹 Internet info and videos
-🤖 [Search info and videos about Markers using AI](https://www.perplexity.ai/search?q=videos+about+Markers:+
+🤖 [Search info and videos about Metamodel using AI](https://www.perplexity.ai/search?q=videos+about+Metamodel:+
 )
 
 ## 📰 Content type 
