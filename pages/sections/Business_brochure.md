@@ -26,23 +26,21 @@ In conclusion, a business brochure is a versatile tool in business design and mo
 
 ## 👉 Example (SpaceX)
 
-[Space X brochure](https://www.Space X.com/media/Capabilities&Services.pdf)
+<div style="background-color: #f5f5f5; padding: 10px;">[Space X brochure](https://www.Space X.com/media/Capabilities&Services.pdf)
+</div>
 
 ## 🔑 Keys
 
 
 
-## 🗄️ Topics
-
-
 ## 🧰 Tools
-- [[Business Model Canvas]]
-  - In the Business Model Canvas, the "Value Proposition" component is closely related to the business brochure. The value proposition outlines the unique selling points of a company's products or services, which are typically highlighted in a business brochure. The "Customer Segments" and "Channels" components also relate to the business brochure, as they define the target audience and how the company reaches them, respectively.
-- [[Marketing Mix]]
-  - The "Promotion" aspect of the 4 P's (Product, Price, Place, and Promotion) is directly related to the business brochure. The brochure is a promotional tool used to communicate the product's features, benefits, and prices to potential customers. It also helps to determine the best place or distribution channel to reach the target audience.
-- [[SWOT Analysis]]
-  - A SWOT analysis can be used to evaluate the effectiveness of a business brochure. Strengths and weaknesses can highlight the brochure's current effectiveness, while opportunities and threats can identify potential improvements or challenges, such as emerging market trends or increased competition.
-- [[Customer Journey Map]]
-  - A business brochure can be a touchpoint on a customer journey map, particularly during the awareness and consideration stages. The brochure can help potential customers understand the company's offerings and how they meet their needs or solve their problems.
-- [[PESTEL Analysis]]
-  - A PESTEL analysis can help a company understand how external factors may impact the effectiveness of their business brochure. For example, technological factors may influence the shift from physical to digital brochures, while social factors can guide the messaging and design of the brochure to align with changing consumer preferences.
+**Business Model Canvas**
+In the Business Model Canvas, the "Value Proposition" component is closely related to the business brochure. The value proposition outlines the unique selling points of a company's products or services, which are typically highlighted in a business brochure. The "Customer Segments" and "Channels" components also relate to the business brochure, as they define the target audience and how the company reaches them, respectively.
+**Marketing Mix**
+The "Promotion" aspect of the 4 P's (Product, Price, Place, and Promotion) is directly related to the business brochure. The brochure is a promotional tool used to communicate the product's features, benefits, and prices to potential customers. It also helps to determine the best place or distribution channel to reach the target audience.
+**SWOT Analysis**
+A SWOT analysis can be used to evaluate the effectiveness of a business brochure. Strengths and weaknesses can highlight the brochure's current effectiveness, while opportunities and threats can identify potential improvements or challenges, such as emerging market trends or increased competition.
+**Customer Journey Map**
+A business brochure can be a touchpoint on a customer journey map, particularly during the awareness and consideration stages. The brochure can help potential customers understand the company's offerings and how they meet their needs or solve their problems.
+**PESTEL Analysis**
+A PESTEL analysis can help a company understand how external factors may impact the effectiveness of their business brochure. For example, technological factors may influence the shift from physical to digital brochures, while social factors can guide the messaging and design of the brochure to align with changing consumer preferences.

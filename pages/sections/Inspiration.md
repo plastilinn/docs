@@ -26,7 +26,7 @@ In essence, inspiration is the catalyst for business innovation and growth. It i
 
 ## 👉 Example (SpaceX)
 
-🦋#inspiration Science Fiction Literature
+<div style="background-color: #f5f5f5; padding: 10px;">🦋#inspiration Science Fiction Literature
 
 The works of science fiction authors like Isaac Asimov and Arthur C. Clarke, especially Clarke's novel "2001: A Space Odyssey," have significantly influenced Elon Musk's vision of space exploration and colonization, fueling his ambition to make life multi-planetary.
 
@@ -37,29 +37,27 @@ The Apollo Moon missions, particularly Apollo 11, the first manned mission to la
 🦋#inspiration Space Enthusiast Communities and Forums
 
 The early online communities of space enthusiasts and forums discussing the possibilities of Mars colonization and rocket technologies provided a platform for Musk to connect with like-minded individuals.
+</div>
 
 ## 🔑 Keys
 
 
 
-## 🗄️ Topics
-
-
 ## 🧰 Tools
-- [[Design Thinking]]
-  - Design Thinking is a methodology that encourages businesses to focus on the people they're creating for, leading to human-centered products, services, and internal processes. The first stage of Design Thinking, Empathize, and the third stage, Ideate, are particularly relevant to the inspiration component. Empathizing involves understanding the needs of your customers, while Ideating involves brainstorming a wide range of creative solutions.
+**Design Thinking**
+Design Thinking is a methodology that encourages businesses to focus on the people they're creating for, leading to human-centered products, services, and internal processes. The first stage of Design Thinking, Empathize, and the third stage, Ideate, are particularly relevant to the inspiration component. Empathizing involves understanding the needs of your customers, while Ideating involves brainstorming a wide range of creative solutions.
 
-- [[Blue Ocean Strategy]]
-  - The Blue Ocean Strategy is a business model that encourages companies to create new demand in an uncontested market space, or a "Blue Ocean," rather than compete in an existing industry. This strategy requires a high level of inspiration and creativity to identify and explore these new market spaces.
+**Blue Ocean Strategy**
+The Blue Ocean Strategy is a business model that encourages companies to create new demand in an uncontested market space, or a "Blue Ocean," rather than compete in an existing industry. This strategy requires a high level of inspiration and creativity to identify and explore these new market spaces.
 
-- [[Brainstorming]]
-  - Brainstorming is a simple but effective tool for generating new ideas. It involves gathering a group of people and encouraging them to freely suggest creative ideas. These ideas can then be refined and developed into innovative solutions.
+**Brainstorming**
+Brainstorming is a simple but effective tool for generating new ideas. It involves gathering a group of people and encouraging them to freely suggest creative ideas. These ideas can then be refined and developed into innovative solutions.
 
-- [[Mind Mapping]]
-  - Mind Mapping is a tool that can be used to visually organize information and ideas, making it easier to identify new connections and insights. This can be particularly useful for generating inspiration in the early stages of developing a business model.
+**Mind Mapping**
+Mind Mapping is a tool that can be used to visually organize information and ideas, making it easier to identify new connections and insights. This can be particularly useful for generating inspiration in the early stages of developing a business model.
 
-- [[SCAMPER]]
-  - SCAMPER is a creative thinking technique that can be used to improve products or services. The acronym stands for Substitute, Combine, Adapt, Modify, Put to another use, Eliminate, and Reverse. Each of these prompts can inspire innovative ideas for developing or refining a business model.
+**SCAMPER**
+SCAMPER is a creative thinking technique that can be used to improve products or services. The acronym stands for Substitute, Combine, Adapt, Modify, Put to another use, Eliminate, and Reverse. Each of these prompts can inspire innovative ideas for developing or refining a business model.
 
-- [[Innovation Ambition Matrix]]
-  - The Innovation Ambition Matrix is a tool that can help companies identify new opportunities for growth. It involves plotting existing and potential products on a matrix based on the potential market and the level of innovation required. This can inspire new ideas for innovative products or services.
+**Innovation Ambition Matrix**
+The Innovation Ambition Matrix is a tool that can help companies identify new opportunities for growth. It involves plotting existing and potential products on a matrix based on the potential market and the level of innovation required. This can inspire new ideas for innovative products or services.

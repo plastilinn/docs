@@ -26,7 +26,7 @@ In conclusion, the concept of "Unit Economics" is a fundamental element in busin
 
 ## 👉 Example (SpaceX)
 
-Calculating the unit economics of a typical SpaceX space launch service involves understanding the revenue and costs associated with a single launch, which helps in determining profitability and financial viability.
+<div style="background-color: #f5f5f5; padding: 10px;">Calculating the unit economics of a typical SpaceX space launch service involves understanding the revenue and costs associated with a single launch, which helps in determining profitability and financial viability.
 
 **Revenue per Launch**
 
@@ -55,26 +55,24 @@ Costs include both fixed and variable components. For simplicity, we'll aggregat
 
 In this simplified simulation, a typical Falcon 9 launch generates a profit of approximately $24.8 million with a profit margin of around 40%. It's important to note that actual figures can vary significantly based on contract specifics, mission profile, customer requirements, and the number of reuses of the rocket. This example does not account for SpaceX's full financial structure, including R&D costs, investments in future technologies, or the economics of other services like crewed missions or the Starlink project.
 
+</div>
 
 ## 🔑 Keys
 
 
 
-## 🗄️ Topics
-
-
 ## 🧰 Tools
-- [[Cost-Volume-Profit Analysis]]
-  - This is a financial modeling tool that helps businesses determine the level of sales necessary to cover costs and start making a profit. It's a way of understanding the relationship between a product's price, the volume sold, the cost of production, and the profit made. It's a key tool for understanding unit economics.
+**Cost-Volume-Profit Analysis**
+This is a financial modeling tool that helps businesses determine the level of sales necessary to cover costs and start making a profit. It's a way of understanding the relationship between a product's price, the volume sold, the cost of production, and the profit made. It's a key tool for understanding unit economics.
 
-- [[Break-Even Analysis]]
-  - Break-even analysis is a tool used to determine the minimum output that must be exceeded for a business to profit. It calculates the point where total revenue equals total costs, which is the break-even point. This tool is essential for understanding unit economics as it helps to identify how much of a product or service needs to be sold to cover costs.
+**Break-Even Analysis**
+Break-even analysis is a tool used to determine the minimum output that must be exceeded for a business to profit. It calculates the point where total revenue equals total costs, which is the break-even point. This tool is essential for understanding unit economics as it helps to identify how much of a product or service needs to be sold to cover costs.
 
-- [[Contribution Margin Analysis]]
-  - This is a cost accounting tool that lets a company determine the profitability for individual items that it manufactures and sells. Specifically, it's used to review the variable costs included in the production cost of an individual item. It's a crucial tool for understanding unit economics as it helps to identify the profitability of individual units.
+**Contribution Margin Analysis**
+This is a cost accounting tool that lets a company determine the profitability for individual items that it manufactures and sells. Specifically, it's used to review the variable costs included in the production cost of an individual item. It's a crucial tool for understanding unit economics as it helps to identify the profitability of individual units.
 
-- [[Price Elasticity of Demand]]
-  - This is a measure used in economics to show the responsiveness, or elasticity, of the quantity demanded of a good or service to a change in its price. It's used to understand how changes in price will affect the demand for a product or service, which is a key aspect of unit economics.
+**Price Elasticity of Demand**
+This is a measure used in economics to show the responsiveness, or elasticity, of the quantity demanded of a good or service to a change in its price. It's used to understand how changes in price will affect the demand for a product or service, which is a key aspect of unit economics.
 
-- [[Financial Forecasting]]
-  - Financial forecasting is the process of estimating or predicting how a business will perform in the future. This can include projections for revenue or income, and it's often based on the company's historical performance. This tool is essential for understanding unit economics as it helps to predict future revenue and costs for individual units.
+**Financial Forecasting**
+Financial forecasting is the process of estimating or predicting how a business will perform in the future. This can include projections for revenue or income, and it's often based on the company's historical performance. This tool is essential for understanding unit economics as it helps to predict future revenue and costs for individual units.

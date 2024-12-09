@@ -31,7 +31,7 @@ By understanding and leveraging these "Assets", a company can enhance its busine
 
 ## 👉 Example (SpaceX)
 
-⭐#asset Contracts and budget
+<div style="background-color: #f5f5f5; padding: 10px;">⭐#asset Contracts and budget
 
 Space agencies have contracts and budgets allocated to carry out their space missions. Space X can seek to obtain contracts for satellite launches, cargo resupply missions, or even contracts to transport astronauts to space.
 
@@ -50,24 +50,22 @@ During space missions, agencies collect a large amount of scientific and researc
 ⭐#asset International relations and collaborations
 
 Space agencies often have established relationships with other national and international space agencies.
+</div>
 
 ## 🔑 Keys
 
 
 
-## 🗄️ Topics
-
-
 ## 🧰 Tools
-- [[Business Model Canvas]]
-  - In the Business Model Canvas, "Key Resources" can be seen as the assets that a company has. These resources could be physical, intellectual, human, or financial. Understanding these assets can help a company to identify its competitive advantages and how these can be leveraged in the business model.
-- [[Value Chain Analysis]]
-  - This tool, developed by Michael Porter, allows a company to analyze and optimize its internal operations. Each link in the chain can be seen as an asset that contributes to the creation of a product or service. By identifying and improving these assets, a company can increase its efficiency and competitive advantage.
-- [[VRIO Framework]]
-  - The VRIO framework (Value, Rarity, Imitability, Organization) is a tool for analyzing a company's internal resources and capabilities - its assets. This analysis can help a company to identify its competitive advantages and to develop strategies to exploit them.
-- [[SWOT Analysis]]
-  - The SWOT analysis can be used to identify a company's internal strengths and weaknesses, which can include its assets. This analysis can help a company to understand how its assets contribute to its strengths and how they can be used to address its weaknesses.
-- [[Resource-Based View (RBV)]]
-  - The Resource-Based View is a method of analyzing and identifying a company's strategic assets. These are resources that are valuable, rare, difficult to imitate, and organized to capture value. By identifying these strategic assets, a company can develop strategies to protect and exploit them.
-- [[PESTEL Analysis]]
-  - The PESTEL analysis can help a company to understand how external factors affect its assets. For example, technological changes can create opportunities to develop new assets, while legal changes can affect the value of existing assets.
+**Business Model Canvas**
+In the Business Model Canvas, "Key Resources" can be seen as the assets that a company has. These resources could be physical, intellectual, human, or financial. Understanding these assets can help a company to identify its competitive advantages and how these can be leveraged in the business model.
+**Value Chain Analysis**
+This tool, developed by Michael Porter, allows a company to analyze and optimize its internal operations. Each link in the chain can be seen as an asset that contributes to the creation of a product or service. By identifying and improving these assets, a company can increase its efficiency and competitive advantage.
+**VRIO Framework**
+The VRIO framework (Value, Rarity, Imitability, Organization) is a tool for analyzing a company's internal resources and capabilities - its assets. This analysis can help a company to identify its competitive advantages and to develop strategies to exploit them.
+**SWOT Analysis**
+The SWOT analysis can be used to identify a company's internal strengths and weaknesses, which can include its assets. This analysis can help a company to understand how its assets contribute to its strengths and how they can be used to address its weaknesses.
+**Resource-Based View (RBV)**
+The Resource-Based View is a method of analyzing and identifying a company's strategic assets. These are resources that are valuable, rare, difficult to imitate, and organized to capture value. By identifying these strategic assets, a company can develop strategies to protect and exploit them.
+**PESTEL Analysis**
+The PESTEL analysis can help a company to understand how external factors affect its assets. For example, technological changes can create opportunities to develop new assets, while legal changes can affect the value of existing assets.

@@ -162,7 +162,7 @@ In essence, the segmentation is a strategic tool that enables businesses to unde
 
 ## 👉 Example (SpaceX)
 
-✂️#segmentation Demographic segmentation
+<div style="background-color: #f5f5f5; padding: 10px;">✂️#segmentation Demographic segmentation
 
 * Age: 35 to 60 years.  
 * Income: High, above $100,000 per year.  
@@ -188,24 +188,22 @@ In essence, the segmentation is a strategic tool that enables businesses to unde
 * Industry type: Telecommunications, defense, space research, and government agencies.  
 * Company size: Large enterprises and governments with financial capabilities for space and infrastructure projects.  
 * Revenue: Annual revenues exceeding $500 million.
+</div>
 
 ## 🔑 Keys
 
 
 
-## 🗄️ Topics
-
-
 ## 🧰 Tools
-- [[Business Model Canvas]]
-  - In the Business Model Canvas, "customer segments" is one of the nine key components. This refers to the different groups of people or organizations an enterprise aims to reach and serve. Companies need to identify and understand their customer segments in order to effectively meet their distinct needs and solve their problems.
-- [[Market Segmentation]]
-  - This is a strategic tool used to divide a broad target market into subsets of consumers with similar needs and characteristics. The four main types of market segmentation are demographic, geographic, psychographic, and behavioral. This tool helps businesses to target these segments effectively and allocate marketing resources appropriately.
-- [[Persona Development]]
-  - This tool involves creating fictional characters that represent your different customer segments. Each persona is based on research and includes specific details about the character’s demographics, behaviors, needs, motivations, and challenges. This helps businesses to understand and empathize with their customers on a deeper level.
-- [[Value Proposition Canvas]]
-  - This tool, also developed by Alexander Osterwalder, helps businesses to understand their customer segments better by focusing on customer jobs, pains, and gains. By understanding what tasks customers are trying to accomplish, what pains they are trying to avoid, and what gains they are hoping to achieve, businesses can create products and services that better meet the needs of each segment.
-- [[SWOT Analysis]]
-  - Although the SWOT analysis is a more general tool, it can be used to evaluate the strengths and weaknesses of a company's segmentation strategy. It can also help to identify opportunities for reaching new segments or threats from competitors targeting the same segments.
-- [[PESTEL Analysis]]
-  - By analyzing Political, Economic, Social, Technological, Ecological, and Legal factors, companies can identify how these external factors affect their segmentation strategy. For example, social trends can lead to the emergence of new customer segments.
+**Business Model Canvas**
+In the Business Model Canvas, "customer segments" is one of the nine key components. This refers to the different groups of people or organizations an enterprise aims to reach and serve. Companies need to identify and understand their customer segments in order to effectively meet their distinct needs and solve their problems.
+**Market Segmentation**
+This is a strategic tool used to divide a broad target market into subsets of consumers with similar needs and characteristics. The four main types of market segmentation are demographic, geographic, psychographic, and behavioral. This tool helps businesses to target these segments effectively and allocate marketing resources appropriately.
+**Persona Development**
+This tool involves creating fictional characters that represent your different customer segments. Each persona is based on research and includes specific details about the character’s demographics, behaviors, needs, motivations, and challenges. This helps businesses to understand and empathize with their customers on a deeper level.
+**Value Proposition Canvas**
+This tool, also developed by Alexander Osterwalder, helps businesses to understand their customer segments better by focusing on customer jobs, pains, and gains. By understanding what tasks customers are trying to accomplish, what pains they are trying to avoid, and what gains they are hoping to achieve, businesses can create products and services that better meet the needs of each segment.
+**SWOT Analysis**
+Although the SWOT analysis is a more general tool, it can be used to evaluate the strengths and weaknesses of a company's segmentation strategy. It can also help to identify opportunities for reaching new segments or threats from competitors targeting the same segments.
+**PESTEL Analysis**
+By analyzing Political, Economic, Social, Technological, Ecological, and Legal factors, companies can identify how these external factors affect their segmentation strategy. For example, social trends can lead to the emergence of new customer segments.

@@ -133,7 +133,7 @@ In essence, the Functions model is a critical aspect of business design. It help
 
 ## 👉 Example (SpaceX)
 
-👔#function Strategy definition
+<div style="background-color: #f5f5f5; padding: 10px;">👔#function Strategy definition
 
 Setting the strategic direction and vision for the company
 
@@ -162,24 +162,22 @@ Representing Space X in public events, conferences, and media appearances
 Collaborating with other industry leaders and organizations to advance space exploration and technology
 
 
+</div>
 
 ## 🔑 Keys
 
 
 
-## 🗄️ Topics
-
-
 ## 🧰 Tools
-- [[Business Model Canvas]]
-  - In the Business Model Canvas, the "Key Activities" component can be related to the functions that a person or stakeholder can carry out. These activities are the most important tasks a company must carry out in order to fulfill its business purpose and create its value proposition. The people who perform these activities should have the necessary skills and experience.
-- [[RACI Matrix]]
-  - The RACI Matrix (Responsible, Accountable, Consulted, Informed) is a tool used to clarify roles and responsibilities in project and business process management. It can be used to specify the functions that a person or stakeholder can carry out, based on their capacity and experience.
-- [[Functional Organizational Structure]]
-  - This is a type of organizational structure where employees are grouped based on their specialties and roles. It can be used to specify the functions that a person or stakeholder can carry out, as each person in the organization is assigned specific roles and responsibilities based on their skills and experience.
-- [[Job Description]]
-  - A job description is a document that outlines the responsibilities, duties, and skills required for a particular job. It can be used to specify the functions that a person or stakeholder can carry out, as it clearly defines what is expected from the person in that role.
-- [[Competency Framework]]
-  - A competency framework is a structure that sets out and defines each individual competency (such as skills, behaviors, and attitudes) required by individuals in their roles. It can be used to specify the functions that a person or stakeholder can carry out, as it identifies the specific competencies needed to perform a role successfully.
-- [[Skills Matrix]]
-  - A skills matrix is a visual tool that shows the skills and competencies of a team. It can be used to specify the functions that a person or stakeholder can carry out, as it identifies the skills and experience of each team member, helping to assign roles and responsibilities effectively.
+**Business Model Canvas**
+In the Business Model Canvas, the "Key Activities" component can be related to the functions that a person or stakeholder can carry out. These activities are the most important tasks a company must carry out in order to fulfill its business purpose and create its value proposition. The people who perform these activities should have the necessary skills and experience.
+**RACI Matrix**
+The RACI Matrix (Responsible, Accountable, Consulted, Informed) is a tool used to clarify roles and responsibilities in project and business process management. It can be used to specify the functions that a person or stakeholder can carry out, based on their capacity and experience.
+**Functional Organizational Structure**
+This is a type of organizational structure where employees are grouped based on their specialties and roles. It can be used to specify the functions that a person or stakeholder can carry out, as each person in the organization is assigned specific roles and responsibilities based on their skills and experience.
+**Job Description**
+A job description is a document that outlines the responsibilities, duties, and skills required for a particular job. It can be used to specify the functions that a person or stakeholder can carry out, as it clearly defines what is expected from the person in that role.
+**Competency Framework**
+A competency framework is a structure that sets out and defines each individual competency (such as skills, behaviors, and attitudes) required by individuals in their roles. It can be used to specify the functions that a person or stakeholder can carry out, as it identifies the specific competencies needed to perform a role successfully.
+**Skills Matrix**
+A skills matrix is a visual tool that shows the skills and competencies of a team. It can be used to specify the functions that a person or stakeholder can carry out, as it identifies the skills and experience of each team member, helping to assign roles and responsibilities effectively.

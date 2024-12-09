@@ -26,7 +26,7 @@ In conclusion, the "Visual Identity" concept in business modeling is essential a
 
 ## 👉 Example (SpaceX)
 
-Color Scheme  
+<div style="background-color: #f5f5f5; padding: 10px;">Color Scheme  
 Space X's visual identity is characterized by a predominantly **black (#000000)** and **white (#FFFFFF)** color scheme, with occasional use of **red (#FF0000)** and **silver (#C0C0C0)** accents. The black and white colors convey a sense of sophistication and modernity, while the red and silver accents add a touch of energy and futuristic appeal.
 
 Typography  
@@ -35,32 +35,30 @@ Space X uses a clean and modern typeface for its branding materials, with a pref
 Imagery  
 Space X's visual identity often incorporates imagery related to space exploration, such as rockets, satellites, and astronauts. This reinforces its pioneering spirit and focus on innovation.
 
+</div>
 
 ## 🔑 Keys
 
 
 
-## 🗄️ Topics
-
-
 ## 🧰 Tools
-- [[Brand Identity Prism]]
-  - The Brand Identity Prism, developed by Jean-Noel Kapferer, is a model that helps businesses to understand, define and build their brand identity. The visual identity of a brand is a key component of this model, which includes elements such as logo, color scheme, typography, and other visual elements that help to create a unique and recognizable image for the brand.
+**Brand Identity Prism**
+The Brand Identity Prism, developed by Jean-Noel Kapferer, is a model that helps businesses to understand, define and build their brand identity. The visual identity of a brand is a key component of this model, which includes elements such as logo, color scheme, typography, and other visual elements that help to create a unique and recognizable image for the brand.
 
-- [[Brand Style Guide]]
-  - A Brand Style Guide is a framework that provides guidelines for the visual identity of a brand. It includes details about the logo, color palette, typography, imagery, and other visual elements that should be used consistently across all channels to maintain a cohesive brand image.
+**Brand Style Guide**
+A Brand Style Guide is a framework that provides guidelines for the visual identity of a brand. It includes details about the logo, color palette, typography, imagery, and other visual elements that should be used consistently across all channels to maintain a cohesive brand image.
 
-- [[Visual Identity System]]
-  - A Visual Identity System is a set of tools that help to create and maintain a consistent visual identity for a brand. It includes elements such as a logo, color scheme, typography, and other visual elements. This system ensures that all visual aspects of the brand are consistent across all channels and touchpoints.
+**Visual Identity System**
+A Visual Identity System is a set of tools that help to create and maintain a consistent visual identity for a brand. It includes elements such as a logo, color scheme, typography, and other visual elements. This system ensures that all visual aspects of the brand are consistent across all channels and touchpoints.
 
-- [[Logo Design Process]]
-  - The Logo Design Process is a methodology that focuses on creating a logo that accurately represents the brand's identity. This process includes research, conceptualization, design, and refinement stages. The logo, as a key element of a brand's visual identity, should be distinctive, appropriate, practical, graphic, and simple in form.
+**Logo Design Process**
+The Logo Design Process is a methodology that focuses on creating a logo that accurately represents the brand's identity. This process includes research, conceptualization, design, and refinement stages. The logo, as a key element of a brand's visual identity, should be distinctive, appropriate, practical, graphic, and simple in form.
 
-- [[Color Theory in Marketing and Branding]]
-  - Color Theory in Marketing and Branding is a tool that helps businesses understand how different colors can influence perceptions and behaviors. This tool can be used to choose a color scheme that aligns with the brand's identity and desired image.
+**Color Theory in Marketing and Branding**
+Color Theory in Marketing and Branding is a tool that helps businesses understand how different colors can influence perceptions and behaviors. This tool can be used to choose a color scheme that aligns with the brand's identity and desired image.
 
-- [[Typography in Branding]]
-  - Typography in Branding is a tool that focuses on the selection and use of typefaces in a brand's visual identity. The choice of typography can significantly impact how a brand is perceived, and it should be consistent with the overall brand identity.
+**Typography in Branding**
+Typography in Branding is a tool that focuses on the selection and use of typefaces in a brand's visual identity. The choice of typography can significantly impact how a brand is perceived, and it should be consistent with the overall brand identity.
 
-- [[Mood Board]]
-  - A Mood Board is a tool used in the early stages of the design process to help define the visual direction of a brand. It is a collection of images, colors, typography, patterns, and other visual elements that represent the brand's desired look and feel.
+**Mood Board**
+A Mood Board is a tool used in the early stages of the design process to help define the visual direction of a brand. It is a collection of images, colors, typography, patterns, and other visual elements that represent the brand's desired look and feel.

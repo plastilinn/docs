@@ -30,7 +30,7 @@ By developing a "Roadmap", a business can ensure that it is moving in the right 
 
 ## 👉 Example (SpaceX)
 
-📦#release Version 1: Core Functionality Development  
+<div style="background-color: #f5f5f5; padding: 10px;">📦#release Version 1: Core Functionality Development  
 
 Focus on building the foundational capabilities of the product. Develop key features that meet the primary user needs, ensuring the product performs essential tasks effectively.
 
@@ -54,24 +54,22 @@ Introduce advanced customization options and personalized user experiences. Empo
 
 Implement automation features and leverage AI for predictive analytics, intelligent recommendations, and process automation. Position the product as a leader in innovation.
 
+</div>
 
 ## 🔑 Keys
 
 
 
-## 🗄️ Topics
-
-
 ## 🧰 Tools
-- [[Business Model Canvas]]
-  - In the Business Model Canvas, the "Key Activities" component can be used to outline the steps and strategies needed to implement a business model solution. This includes the most important actions a company must take to operate successfully, such as production, problem-solving, and training.
-- [[Lean Startup Methodology]]
-  - The Lean Startup methodology, developed by Eric Ries, emphasizes the creation of a Minimum Viable Product (MVP) and then using customer feedback to iterate and improve. The roadmap in this context is a plan for developing and refining the solution based on customer feedback.
-- [[Agile Development]]
-  - Agile development is a methodology that emphasizes flexibility, customer collaboration, and responsiveness to change. The roadmap in Agile development is a high-level view of the product’s development, outlining the steps and strategies needed to implement the solution.
-- [[Gantt Chart]]
-  - A Gantt chart is a visual representation of a project schedule, showing the start and finish dates of the terminal elements and summary elements of a project. It can be used as a roadmap to outline the steps and strategies needed to implement a business model solution.
-- [[SWOT Analysis]]
-  - A SWOT analysis can be used to identify the strengths, weaknesses, opportunities, and threats related to a business model solution. This can help in the creation of a roadmap by identifying potential challenges and opportunities that may arise during the implementation of the solution.
-- [[PESTEL Analysis]]
-  - A PESTEL analysis can be used to identify how external macro-environmental factors might affect the implementation of a business model solution. This can help in the creation of a roadmap by providing insights into potential challenges and opportunities that may arise from political, economic, social, technological, environmental, and legal factors.
+**Business Model Canvas**
+In the Business Model Canvas, the "Key Activities" component can be used to outline the steps and strategies needed to implement a business model solution. This includes the most important actions a company must take to operate successfully, such as production, problem-solving, and training.
+**Lean Startup Methodology**
+The Lean Startup methodology, developed by Eric Ries, emphasizes the creation of a Minimum Viable Product (MVP) and then using customer feedback to iterate and improve. The roadmap in this context is a plan for developing and refining the solution based on customer feedback.
+**Agile Development**
+Agile development is a methodology that emphasizes flexibility, customer collaboration, and responsiveness to change. The roadmap in Agile development is a high-level view of the product’s development, outlining the steps and strategies needed to implement the solution.
+**Gantt Chart**
+A Gantt chart is a visual representation of a project schedule, showing the start and finish dates of the terminal elements and summary elements of a project. It can be used as a roadmap to outline the steps and strategies needed to implement a business model solution.
+**SWOT Analysis**
+A SWOT analysis can be used to identify the strengths, weaknesses, opportunities, and threats related to a business model solution. This can help in the creation of a roadmap by identifying potential challenges and opportunities that may arise during the implementation of the solution.
+**PESTEL Analysis**
+A PESTEL analysis can be used to identify how external macro-environmental factors might affect the implementation of a business model solution. This can help in the creation of a roadmap by providing insights into potential challenges and opportunities that may arise from political, economic, social, technological, environmental, and legal factors.

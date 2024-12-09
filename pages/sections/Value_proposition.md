@@ -178,7 +178,7 @@ In essence, the value proposition is a strategic tool that enables businesses to
 
 ## 👉 Example (SpaceX)
 
-💎#value Cost Reduction through Reusability
+<div style="background-color: #f5f5f5; padding: 10px;">💎#value Cost Reduction through Reusability
 
 SpaceX's pioneering development of reusable rocket technology dramatically reduces the cost of access to space. This reusability factor allows space agencies to allocate their budgets more efficiently, potentially enabling more missions or greater scope within existing financial constraints. SpaceX's reusable rocket technology can reduce launch costs by a significant margin compared to traditional single-use rockets. If, for example, the average cost of launching a traditional rocket is around $150 million, SpaceX's Falcon 9 launches can cost significantly less, around $62 million or even lower for customers willing to fly on a reused booster. This represents a potential cost reduction of over 50%.
 
@@ -194,22 +194,20 @@ With a fleet of reusable rockets and a streamlined launch process, SpaceX can of
 💎#value End-to-End Service
 
 SpaceX provides comprehensive service offerings, including launch services, satellite deployment, mission planning, and even potential participation in groundbreaking projects like Mars colonization. This end-to-end service model simplifies the procurement process and provides a single point of accountability for space agencies.
+</div>
 
 ## 🔑 Keys
 
 
 
-## 🗄️ Topics
-
-
 ## 🧰 Tools
-- [[Business Model Canvas]]
-  - In the Business Model Canvas, the "Value Proposition" is one of the nine key components. It refers to the unique combination of products and services that a company offers to its customers. The value proposition should be designed in a way that it solves a problem or fulfills a need of the customer, making it the main reason for a customer to choose one company over another.
-- [[Value Proposition Canvas]]
-  - This tool, also developed by Alexander Osterwalder, is specifically designed to help businesses understand their customers' needs and design a value proposition that meets those needs. It consists of two parts: the customer profile and the value map. The customer profile describes the jobs, pains, and gains of a specific customer segment, while the value map describes how the company's products and services create value for this customer segment.
-- [[Blue Ocean Strategy]]
-  - The Blue Ocean Strategy is a business theory that suggests companies are better off searching for ways to play in uncontested market spaces (Blue Oceans) rather than competing with similar businesses in an existing industry (Red Oceans). One of the key tools in this strategy is the "Value Curve", which is a graphical depiction of a company's relative performance across its industry's factors of competition. This tool can help a company to design a unique value proposition that differentiates it from its competitors.
-- [[SWOT Analysis]]
-  - The SWOT analysis can also be used to evaluate a company's value proposition. Strengths and weaknesses can highlight aspects of the value proposition that are working well or need improvement, while opportunities and threats can identify external factors that could affect the value proposition in the future.
-- [[Jobs to be Done]]
-  - This theory, developed by Clayton Christensen, suggests that customers hire products and services to do specific jobs. By understanding what job a customer needs to get done, a company can design a value proposition that perfectly fits this job. This approach can lead to highly differentiated and customer-centric value propositions.
+**Business Model Canvas**
+In the Business Model Canvas, the "Value Proposition" is one of the nine key components. It refers to the unique combination of products and services that a company offers to its customers. The value proposition should be designed in a way that it solves a problem or fulfills a need of the customer, making it the main reason for a customer to choose one company over another.
+**Value Proposition Canvas**
+This tool, also developed by Alexander Osterwalder, is specifically designed to help businesses understand their customers' needs and design a value proposition that meets those needs. It consists of two parts: the customer profile and the value map. The customer profile describes the jobs, pains, and gains of a specific customer segment, while the value map describes how the company's products and services create value for this customer segment.
+**Blue Ocean Strategy**
+The Blue Ocean Strategy is a business theory that suggests companies are better off searching for ways to play in uncontested market spaces (Blue Oceans) rather than competing with similar businesses in an existing industry (Red Oceans). One of the key tools in this strategy is the "Value Curve", which is a graphical depiction of a company's relative performance across its industry's factors of competition. This tool can help a company to design a unique value proposition that differentiates it from its competitors.
+**SWOT Analysis**
+The SWOT analysis can also be used to evaluate a company's value proposition. Strengths and weaknesses can highlight aspects of the value proposition that are working well or need improvement, while opportunities and threats can identify external factors that could affect the value proposition in the future.
+**Jobs to be Done**
+This theory, developed by Clayton Christensen, suggests that customers hire products and services to do specific jobs. By understanding what job a customer needs to get done, a company can design a value proposition that perfectly fits this job. This approach can lead to highly differentiated and customer-centric value propositions.

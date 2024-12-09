@@ -18,13 +18,11 @@ Content is of type tables
 
 ## 👉 Example (SpaceX)
 
-
+<div style="background-color: #f5f5f5; padding: 10px;">
+</div>
 
 ## 🔑 Keys
 
-
-
-## 🗄️ Topics
 
 
 ## 🧰 Tools

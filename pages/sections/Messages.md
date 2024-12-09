@@ -25,7 +25,7 @@ The concept of "messages" is vital in business modeling as it helps to shape the
 
 ## 👉 Example (SpaceX)
 
-📣#message Innovative Launch Solutions at Unparalleled Cost Savings
+<div style="background-color: #f5f5f5; padding: 10px;">📣#message Innovative Launch Solutions at Unparalleled Cost Savings
 
 "Discover how SpaceX's revolutionary reusable rocket technology can drastically reduce your mission costs, enabling more frequent launches and greater scope within your existing budget. Let's redefine access to space together, making your ambitious projects more achievable than ever before."
 
@@ -36,22 +36,20 @@ The concept of "messages" is vital in business modeling as it helps to shape the
 📣#message Advanced Capabilities for Ambitious Space Missions
 
 "Embark on your most ambitious space missions with confidence, leveraging SpaceX's advanced Falcon Heavy and Starship vehicles. Our heavy-lift capabilities and innovative spacecraft design open new frontiers for deep space exploration, satellite deployment, and interplanetary travel."
+</div>
 
 ## 🔑 Keys
 
 
 
-## 🗄️ Topics
-
-
 ## 🧰 Tools
-- [[Business Model Canvas]]
-  - In the Business Model Canvas, "Customer Relationships" can be seen as a component that relates to the profile/messages. This component is about the type of relationship a company establishes with specific customer segments. It can include personal assistance, self-service, automated services, communities, and co-creation. The messages that a company wants to communicate to its customers to carry out a specific action can be part of this component.
-- [[Marketing Mix]]
-  - Within the Marketing Mix, the "Promotion" component is closely related to the profile/messages. Promotion involves all the ways company communicates and interacts with its potential customers. It includes advertising, public relations, and promotional strategy. The messages that a company wants to communicate to its customers to carry out a specific action are a key part of this component.
-- [[SWOT Analysis]]
-  - The SWOT Analysis can be used to evaluate the effectiveness of the messages that a company communicates to its customers. Strengths and weaknesses can be identified in the current messaging strategy, and opportunities and threats can be identified for future messaging strategies.
-- [[Customer Journey Map]]
-  - The Customer Journey Map is a tool that can be used to identify the key messages that a company needs to communicate at each stage of the customer journey. This can help to ensure that the right message is delivered at the right time, and that it encourages the customer to take the desired action.
-- [[PESTEL Analysis]]
-  - The PESTEL Analysis can be used to identify external factors that may affect the messages that a company communicates to its customers. For example, social factors may influence the type of language that is used in the messages, and technological factors may influence the channels through which the messages are delivered.
+**Business Model Canvas**
+In the Business Model Canvas, "Customer Relationships" can be seen as a component that relates to the profile/messages. This component is about the type of relationship a company establishes with specific customer segments. It can include personal assistance, self-service, automated services, communities, and co-creation. The messages that a company wants to communicate to its customers to carry out a specific action can be part of this component.
+**Marketing Mix**
+Within the Marketing Mix, the "Promotion" component is closely related to the profile/messages. Promotion involves all the ways company communicates and interacts with its potential customers. It includes advertising, public relations, and promotional strategy. The messages that a company wants to communicate to its customers to carry out a specific action are a key part of this component.
+**SWOT Analysis**
+The SWOT Analysis can be used to evaluate the effectiveness of the messages that a company communicates to its customers. Strengths and weaknesses can be identified in the current messaging strategy, and opportunities and threats can be identified for future messaging strategies.
+**Customer Journey Map**
+The Customer Journey Map is a tool that can be used to identify the key messages that a company needs to communicate at each stage of the customer journey. This can help to ensure that the right message is delivered at the right time, and that it encourages the customer to take the desired action.
+**PESTEL Analysis**
+The PESTEL Analysis can be used to identify external factors that may affect the messages that a company communicates to its customers. For example, social factors may influence the type of language that is used in the messages, and technological factors may influence the channels through which the messages are delivered.

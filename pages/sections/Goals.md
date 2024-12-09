@@ -110,7 +110,7 @@ Content is of type list and uses the following tags: #goal
 
 ## 👉 Example (SpaceX)
 
-🎯#goal Increase personal wealth through the growth of their shares in SpaceX.  
+<div style="background-color: #f5f5f5; padding: 10px;">🎯#goal Increase personal wealth through the growth of their shares in SpaceX.  
 
 🎯#goal Gain personal recognition in the technology and scientific fields.   
 
@@ -122,12 +122,10 @@ Content is of type list and uses the following tags: #goal
 
 🎯#goal Leverage achievements at SpaceX as a platform for future personal projects or startups.    
 
+</div>
 
 ## 🔑 Keys
 
-
-
-## 🗄️ Topics
 
 
 ## 🧰 Tools
