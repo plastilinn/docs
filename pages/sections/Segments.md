@@ -47,14 +47,22 @@ The commercial companies segment includes private companies that require space t
 ### 🔑#key segments - Accessibility to decision makers
 
 💰rating: 40
+
+
 Assess the accessibility to decision-makers in the target market.
+
 **💭 Questions**
-💭 #question How difficult is it to speak with decision-makers?
+
+How difficult is it to speak with decision-makers?
+
 **🚨 Risks**
+
 🚨Accessibility to Decision Makers
 Difficulty in reaching decision makers can hinder the ability to influence and persuade key stakeholders.
+
 🚨mitigation strategy
 Evaluate the ease of reaching decision makers in the target market and consider potential barriers or challenges in accessing key stakeholders.
+
 🚨contingency strategy
 Assess the accessibility to decision makers in the target market and determine if it is easy to speak with them.
 
@@ -62,16 +70,22 @@ Assess the accessibility to decision makers in the target market and determine i
 ### 🔑#key segments - Market Adaptability
 
 💰rating: 40
+
+
 The ability to adapt to market changes is crucial. This includes responding to customer preferences, trends, and competitive forces.
+
 **💭 Questions**
-💭 #question Is the startup adaptable to changes in the market?
- 💭 #question Is there a process for monitoring market trends and customer preferences?
- 💭 #question Is the startup responsive to changes in competitive forces?
+
+Is the startup adaptable to changes in the market?;Is there a process for monitoring market trends and customer preferences?;Is the startup responsive to changes in competitive forces?
+
 **🚨 Risks**
+
 🚨Market Adaptability
 Inability to adapt to market changes can result in loss of competitiveness and missed opportunities.
+
 🚨mitigation strategy
 Develop a culture of adaptability and responsiveness to changes in the market.
+
 🚨contingency strategy
 Implement processes for monitoring market trends and customer preferences and regularly review and adjust strategies based on market changes.
 
@@ -79,14 +93,22 @@ Implement processes for monitoring market trends and customer preferences and re
 ### 🔑#key segments - Paying Capacity
 
 💰rating: 35
+
+
 Evaluate the paying capacity of the target market segment and assess its potential for generating revenue and profitability.
+
 **💭 Questions**
-💭 #question What is the paying capacity of the target market segment?
+
+What is the paying capacity of the target market segment?
+
 **🚨 Risks**
+
 🚨Paying Capacity
 Lack of paying capacity in the target market segment can limit revenue generation and profitability.
+
 🚨mitigation strategy
 Assess the financial capability and willingness to pay of the target market segment.
+
 🚨contingency strategy
 Consider the potential for pricing strategies and customer affordability and evaluate the paying capacity of the target market segment.
 
@@ -94,16 +116,22 @@ Consider the potential for pricing strategies and customer affordability and eva
 ### 🔑#key segments - Market maturity
 
 💰rating: 30
+
+
 how mature is the market? Is it ready for customers?
+
 **💭 Questions**
-💭 #question How mature is the market?
- 💭 #question Is it ready for customers to adopt new solutions?
- 💭 #question Is there a demand for innovative products or services?
+
+How mature is the market?;Is it ready for customers to adopt new solutions?;Is there a demand for innovative products or services?
+
 **🚨 Risks**
+
 🚨Market Maturity
 Lack of market readiness can hinder customer adoption and slow down business growth.
+
 🚨mitigation strategy
 Evaluate the maturity of the market and determine if it is ready for customers to adopt new solutions.
+
 🚨contingency strategy
 Assess the maturity of the market and if it is ready for customers to adopt new solutions.
 
@@ -111,16 +139,22 @@ Assess the maturity of the market and if it is ready for customers to adopt new 
 ### 🔑#key segments - Entry barriers
 
 💰rating: 30
+
+
 how difficult is it to entry the market?
+
 **💭 Questions**
-💭 #question Are there barriers to entry in the market?
- 💭 #question How difficult is it for new competitors to enter?
- 💭 #question Are there any significant obstacles or challenges?
+
+Are there barriers to entry in the market?;How difficult is it for new competitors to enter?;Are there any significant obstacles or challenges?
+
 **🚨 Risks**
+
 🚨Entry Barriers
 High barriers to entry can limit market access and increase competition.
+
 🚨mitigation strategy
 Assess the barriers to entry in the market and determine if there are obstacles or challenges for new competitors.
+
 🚨contingency strategy
 Evaluate the barriers to entry in the market and how difficult it is for new competitors to enter.
 
@@ -128,14 +162,22 @@ Evaluate the barriers to entry in the market and how difficult it is for new com
 ### 🔑#key segments - Segment Homogeneity
 
 💰rating: 25
+
+
 Evaluate the homogeneity of the target market segment and assess its potential for effective targeting and marketing strategies.
+
 **💭 Questions**
-💭 #question How homogeneous is the target market segment?
+
+How homogeneous is the target market segment?
+
 **🚨 Risks**
+
 🚨Segment Homogeneity
 Lack of homogeneity in the target market segment can make it difficult to effectively target and market to customers.
+
 🚨mitigation strategy
 Assess the similarity and common characteristics of the target market segment.
+
 🚨contingency strategy
 Consider the potential for personalized marketing and customer segmentation and evaluate the homogeneity of the target market segment.
 
@@ -143,14 +185,22 @@ Consider the potential for personalized marketing and customer segmentation and 
 ### 🔑#key segments - Exit Barriers
 
 💰rating: 15
+
+
 Assess the barriers that customers may face when trying to switch from the solution to a competitor.
+
 **💭 Questions**
-💭 #question What barriers exist for customers to switch to a competitor?
+
+What barriers exist for customers to switch to a competitor?
+
 **🚨 Risks**
+
 🚨Exit Barriers
 High exit barriers can result in customer loyalty and reduce the risk of customer churn.
+
 🚨mitigation strategy
 Evaluate the barriers or obstacles that customers may encounter when trying to switch from the solution to a competitor.
+
 🚨contingency strategy
 Assess the barriers that customers may face when trying to switch to a competitor.
 
@@ -158,14 +208,22 @@ Assess the barriers that customers may face when trying to switch to a competito
 ### 🔑#key segments - Market Seasonality
 
 💰rating: 10
+
+
 Evaluate the impact of market seasonality on the business.
+
 **💭 Questions**
-💭 #question How does market seasonality affect the business?
+
+How does market seasonality affect the business?
+
 **🚨 Risks**
+
 🚨Market Seasonality
 Lack of understanding and adaptation to market seasonality can result in revenue fluctuations and instability.
+
 🚨mitigation strategy
 Assess the potential impact of market seasonality on the business operations and revenue generation.
+
 🚨contingency strategy
 Consider the need for seasonal adjustments or diversification strategies and evaluate the impact of market seasonality on the business.
 

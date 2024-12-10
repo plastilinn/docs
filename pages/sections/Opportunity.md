@@ -32,16 +32,22 @@ In essence, the concept of "opportunity" in business modeling is about identifyi
 ### 🔑#key Opportunity - Momentum
 
 💰rating: 60
+
+
 is it a good time to launch? is it too early? is it too late?
+
 **💭 Questions**
-💭 #question Is it the right time to launch the startup?
- 💭 #question Is the market timing favorable?
- 💭 #question Is there a window of opportunity for the startup?
+
+Is it the right time to launch the startup?;Is the market timing favorable?;Is there a window of opportunity for the startup?
+
 **🚨 Risks**
+
 🚨Momentum
 Launching at the wrong time can result in missed opportunities or entering a saturated market.
+
 🚨mitigation strategy
 Evaluate the market timing for launching the startup and determine if the market timing is favorable.
+
 🚨contingency strategy
 Assess if there is a window of opportunity for the startup and consider the potential impact on market entry.
 
@@ -49,16 +55,22 @@ Assess if there is a window of opportunity for the startup and consider the pote
 ### 🔑#key Opportunity - Innovative approach
 
 💰rating: 40
+
+
 The value proposition should be innovative, offering something new or significantly improved compared to existing solutions.
+
 **💭 Questions**
-💭 #question Is the product or service innovative?
- 💭 #question Does it offer something that is not currently available in the market?
- 💭 #question Is the innovation protected (e.g., patents, trade secrets)?
+
+Is the product or service innovative?;Does it offer something that is not currently available in the market?;Is the innovation protected (e.g., patents, trade secrets)?
+
 **🚨 Risks**
+
 🚨Innovative Approach
 Lack of innovation can make it difficult to differentiate from competitors and attract customers.
+
 🚨mitigation strategy
 Foster a culture of innovation and allocate resources for research and development.
+
 🚨contingency strategy
 Encourage employees to contribute ideas and protect innovation through patents or trade secrets.
 
@@ -66,16 +78,22 @@ Encourage employees to contribute ideas and protect innovation through patents o
 ### 🔑#key Opportunity - Evolution potential
 
 💰rating: 30
+
+
 can it evolve into a different idea?
+
 **💭 Questions**
-💭 #question Does the idea make use of new and affordable technologies?
- 💭 #question Does it leverage technological advancements?
- 💭 #question Is technology a key component of the idea?
+
+Does the idea make use of new and affordable technologies?;Does it leverage technological advancements?;Is technology a key component of the idea?
+
 **🚨 Risks**
+
 🚨Evolution Potential
 Lack of potential for evolution can limit the long-term growth and sustainability of the startup.
+
 🚨mitigation strategy
 Evaluate the potential for the idea to evolve into different ideas or products.
+
 🚨contingency strategy
 Determine if there is room for growth and expansion and leverage technological advancements.
 
@@ -83,16 +101,22 @@ Determine if there is room for growth and expansion and leverage technological a
 ### 🔑#key Opportunity - Business obviousness
 
 💰rating: 20
+
+
 Is it clear why people should use it?
+
 **💭 Questions**
-💭 #question How much value can the startup ultimately deliver?
- 💭 #question What is the potential impact of the product or service?
- 💭 #question Can it create significant value for customers?
+
+How much value can the startup ultimately deliver?;What is the potential impact of the product or service?;Can it create significant value for customers?
+
 **🚨 Risks**
+
 🚨Business Obviousness
 Lack of clarity in the value proposition can make it difficult for customers to understand the benefits of the product or service.
+
 🚨mitigation strategy
 Evaluate the clarity of the value proposition and determine if the solution is clear and compelling to customers.
+
 🚨contingency strategy
 Assess the potential impact of the product or service and its ability to create significant value for customers.
 

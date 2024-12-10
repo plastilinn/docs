@@ -46,14 +46,22 @@ Starship: The Starship spacecraft, intended for missions to Mars and beyond, evo
 ### 🔑#key Naming - Pronunciation Ease
 
 💰rating: 20
+
+
 Is the name easy to pronounce in different languages?
+
 **💭 Questions**
-💭 #question Is the name easy to pronounce in different languages?
+
+Is the name easy to pronounce in different languages?
+
 **🚨 Risks**
+
 🚨Pronunciation Ease
 Difficult pronunciation can hinder brand recognition and global reach.
+
 🚨mitigation strategy
 Assess the ease of pronunciation of the chosen name in various languages and consider the potential impact on brand recognition.
+
 🚨contingency strategy
 Choose a name that is easy to pronounce in different languages to facilitate global reach.
 
@@ -61,14 +69,22 @@ Choose a name that is easy to pronounce in different languages to facilitate glo
 ### 🔑#key Naming - Phonetic Consistency
 
 💰rating: 10
+
+
 Does it sound similar when pronounced in different languages (like "Kodak")?
+
 **💭 Questions**
-💭 #question Does the name sound similar when pronounced in different languages?
+
+Does the name sound similar when pronounced in different languages?
+
 **🚨 Risks**
+
 🚨Phonetic Consistency
 Inconsistent pronunciation can lead to confusion and miscommunication in different languages.
+
 🚨mitigation strategy
 Evaluate if the chosen name maintains consistency in its pronunciation across different languages.
+
 🚨contingency strategy
 Choose a name that sounds similar when pronounced in different languages to facilitate brand recognition.
 
@@ -76,14 +92,22 @@ Choose a name that sounds similar when pronounced in different languages to faci
 ### 🔑#key Naming - Spelling from Pronunciation
 
 💰rating: 10
+
+
 If someone hears it, can they easily write it correctly in different languages?
+
 **💭 Questions**
-💭 #question Can the name be easily written correctly in different languages?
+
+Can the name be easily written correctly in different languages?
+
 **🚨 Risks**
+
 🚨Spelling from Pronunciation
 Difficult spelling based on pronunciation can lead to confusion and misspellings in different languages.
+
 🚨mitigation strategy
 Assess if the chosen name can be easily written correctly based on its pronunciation in various languages.
+
 🚨contingency strategy
 Choose a name that can be easily written correctly in different languages to facilitate brand recognition.
 
@@ -91,14 +115,22 @@ Choose a name that can be easily written correctly in different languages to fac
 ### 🔑#key Naming - Negative Connotations
 
 💰rating: 10
+
+
 Both phonetically and in writing, does it resemble any word that has negative connotations in any language?
+
 **💭 Questions**
-💭 #question Does the name have any negative connotations in any language?
+
+Does the name have any negative connotations in any language?
+
 **🚨 Risks**
+
 🚨Negative Connotations
 Resemblance to words with negative connotations can impact brand perception and reputation.
+
 🚨mitigation strategy
 Evaluate if the chosen name resembles any word with negative connotations in any language.
+
 🚨contingency strategy
 Choose a name that does not have negative connotations in any language to maintain a positive brand image.
 

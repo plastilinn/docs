@@ -32,14 +32,22 @@ In essence, the concept of "mission" in business modeling is about defining and 
 ### 🔑#key Mission - Realism - Ambition
 
 💰rating: 30
+
+
 Evaluate the realism and ambition of the mission statement.
+
 **💭 Questions**
-💭 #question Is the mission statement realistic and ambitious?
+
+Is the mission statement realistic and ambitious?
+
 **🚨 Risks**
+
 🚨Realism - Ambition
 Lack of realism or ambition in the mission statement can impact the motivation and alignment of stakeholders.
+
 🚨mitigation strategy
 Assess the realism and ambition of the mission statement and ensure it is clear, feasible, and aspirational.
+
 🚨contingency strategy
 Consider the potential for inspiring and motivating stakeholders.
 
@@ -47,14 +55,22 @@ Consider the potential for inspiring and motivating stakeholders.
 ### 🔑#key Mission - Clarity of Conception
 
 💰rating: 20
+
+
 Evaluate the clarity and conception of the mission statement.
+
 **💭 Questions**
-💭 #question Is the mission statement clear and well-conceived?
+
+Is the mission statement clear and well-conceived?
+
 **🚨 Risks**
+
 🚨Clarity of Conception
 Lack of clarity in the mission statement can result in confusion and lack of alignment within the organization.
+
 🚨mitigation strategy
 Evaluate the clarity and conception of the mission statement and ensure it is clear and well-conceived.
+
 🚨contingency strategy
 Use the mission statement to guide and align the organization.
 
