@@ -1,6 +1,6 @@
 
 
-## segments - Exit Barriers
+## Segments - Exit Barriers
 
 #rating: 15
 

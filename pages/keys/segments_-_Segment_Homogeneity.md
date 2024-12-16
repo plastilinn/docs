@@ -1,6 +1,6 @@
 
 
-## segments - Segment Homogeneity
+## Segments - Segment Homogeneity
 
 #rating: 25
 

@@ -1,6 +1,6 @@
 
 
-## solutions - Robust product quality control
+## Solutions - Robust product quality control
 
 #rating: 35
 

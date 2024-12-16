@@ -1,6 +1,6 @@
 
 
-## solutions - Product-Market Fit
+## Solutions - Product-Market Fit
 
 #rating: 70
 

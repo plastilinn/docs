@@ -1,6 +1,6 @@
 
 
-## segments - Market Seasonality
+## Segments - Market Seasonality
 
 #rating: 10
 

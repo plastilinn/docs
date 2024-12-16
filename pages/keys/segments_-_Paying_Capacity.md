@@ -1,6 +1,6 @@
 
 
-## segments - Paying Capacity
+## Segments - Paying Capacity
 
 #rating: 35
 

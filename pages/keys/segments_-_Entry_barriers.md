@@ -1,6 +1,6 @@
 
 
-## segments - Entry barriers
+## Segments - Entry barriers
 
 #rating: 30
 

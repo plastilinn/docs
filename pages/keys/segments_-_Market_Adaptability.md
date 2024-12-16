@@ -1,6 +1,6 @@
 
 
-## segments - Market Adaptability
+## Segments - Market Adaptability
 
 #rating: 40
 

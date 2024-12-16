@@ -1,6 +1,6 @@
 
 
-## segments - Accessibility to decision makers
+## Segments - Accessibility to decision makers
 
 #rating: 40
 

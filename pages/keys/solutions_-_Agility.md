@@ -1,6 +1,6 @@
 
 
-## solutions - Agility
+## Solutions - Agility
 
 #rating: 40
 

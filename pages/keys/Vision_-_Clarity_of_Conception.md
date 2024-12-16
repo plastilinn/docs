@@ -25,3 +25,10 @@ Assess the effectiveness and coherence of the vision statement and consider its 
 
 
 
+
+
+
+
+
+
+

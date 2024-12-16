@@ -1,6 +1,6 @@
 
 
-## solutions - Product focus
+## Solutions - Product focus
 
 #rating: 30
 

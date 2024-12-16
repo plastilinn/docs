@@ -1,6 +1,6 @@
 
 
-## solutions - Ease of Use
+## Solutions - Ease of Use
 
 #rating: 45
 

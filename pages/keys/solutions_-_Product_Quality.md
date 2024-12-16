@@ -1,6 +1,6 @@
 
 
-## solutions - Product Quality
+## Solutions - Product Quality
 
 #rating: 40
 

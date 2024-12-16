@@ -1,6 +1,6 @@
 
 
-## segments - Market maturity
+## Segments - Market maturity
 
 #rating: 30
 

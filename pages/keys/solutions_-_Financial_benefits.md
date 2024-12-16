@@ -1,6 +1,6 @@
 
 
-## solutions - Financial benefits
+## Solutions - Financial benefits
 
 #rating: 45
 

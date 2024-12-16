@@ -1,6 +1,6 @@
 
 
-## solutions - Solution efficiency
+## Solutions - Solution efficiency
 
 #rating: 55
 
